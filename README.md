@@ -12,10 +12,20 @@ pip install -r requirements.txt
 
 ## Run
 
-Uses `ai_impact_student_performance_dataset.csv` in this folder:
+Uses `ai_impact_student_performance_dataset.csv` in this folder.
+
+### Notebook (recommended)
 
 ```bash
 source .venv/bin/activate
+jupyter notebook student-ai-usage-analysis.ipynb
+```
+
+Or in VS Code / Cursor: open `student-ai-usage-analysis.ipynb` and run all cells. Charts appear inline; files still save to `output/`.
+
+### Python script
+
+```bash
 python ai_usage_analysis.py
 ```
 
