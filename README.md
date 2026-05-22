@@ -1,6 +1,22 @@
 # AI Usage Analysis
 
-Student AI usage analysis project that explores usage patterns, study behavior, and academic trends across different student groups using data visualization.
+**Team project** — we are opening **five scenarios** Each scenario is a separate analysis track; team members work on analysis and share the same dataset and output structure.
+
+## Scenarios (team roadmap)
+
+| Scenario | Focus | Status |
+|----------|--------|--------|
+| **1** | Student AI usage patterns, cleaning, visualizations, and alert automation | **This repo** — `student-ai-usage-analysis.ipynb` |
+| **2** | *To be defined by the team* | Planned |
+| **3** | *To be defined by the team* | Planned |
+| **4** | *To be defined by the team* | Planned |
+| **5** | *To be defined by the team* | Planned |
+
+### Scenario 1 — Student AI Usage Analysis
+
+Explores usage patterns, study behavior, and academic trends across student groups.
+
+**Notebook layout:**
 
 ## Scenario 1 
 - Student AI Usage Analysis
