@@ -2,15 +2,15 @@
 
 **Team project** — we are opening **five scenarios** Each scenario is a separate analysis track; team members work on analysis and share the same dataset and output structure.
 
-## Scenarios (team roadmap)
+## Scenarios
 
-| Scenario | Focus | Status |
-|----------|--------|--------|
-| **1** | Student AI usage patterns, cleaning, visualizations, and alert automation | **This repo** — `student-ai-usage-analysis.ipynb` |
-| **2** | *To be defined by the team* | Planned |
-| **3** | *To be defined by the team* | Planned |
-| **4** | *To be defined by the team* | Planned |
-| **5** | *To be defined by the team* | Planned |
+| Scenario | Focus | 
+|----------|--------|
+| **1** | Student AI usage patterns, cleaning, visualizations, and alert automation |
+| **2** | *To be defined by the team* | 
+| **3** | *To be defined by the team* | 
+| **4** | *To be defined by the team* | 
+| **5** | *To be defined by the team* |
 
 ### Scenario 1 — Student AI Usage Analysis
 
