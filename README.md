@@ -12,15 +12,6 @@
 | **4** | *To be defined by the team* | 
 | **5** | *To be defined by the team* |
 
-### Scenario 1 — Student AI Usage Analysis
-
-Explores usage patterns, study behavior, and academic trends across student groups.
-
-**Notebook layout:**
-
-## Scenario 1 
-- Student AI Usage Analysis
-
 ## Setup
 
 ```bash
