@@ -7,7 +7,7 @@
 | Scenario | Focus | 
 |----------|--------|
 | **1** | Student AI usage patterns, cleaning, visualizations, and alert automation |
-| **2** | *To be defined by the team* | 
+| **2** | Automated Precision Agriculture Ecosystem and Environmental Control Loop| 
 | **3** | *To be defined by the team* | 
 | **4** | *To be defined by the team* | 
 | **5** | *To be defined by the team* |
