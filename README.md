@@ -22,7 +22,7 @@ Five automation and analysis scenarios on student AI usage, study behavior, and 
 | **2** | Smart Deadline & Workload Automation | Task tracking, reminders, logs, dashboards | [`smart_student_deadline_automation.ipynb`](smart_student_deadline_automation.ipynb) | Generated in-notebook |
 | **3** | Performance Prediction System | ML tier prediction, dropout risk, interventions | [`Student_Performance_Prediction_System.ipynb`](Student_Performance_Prediction_System.ipynb) | [`dataset/student_performance_data.csv`](dataset/student_performance_data.csv), [`dataset/intervention_log.csv`](dataset/intervention_log.csv) |
 | **4** | Automated Grade Processor | Email alerts, at-risk detection, career matching | [`3-Automated-Student-Grade-Processor/main.ipynb`](3-Automated-Student-Grade-Processor/main.ipynb) | [`3-Automated-Student-Grade-Processor/student-scores.csv`](3-Automated-Student-Grade-Processor/student-scores.csv) |
-| **5** | Job / Internship Application Tracker |Usage patterns, logs, automation alerts, Task tracking, Career matching | 5.Job-Internship-Application-Tracker/job_tracker_automation.ipynb | 5.Job-Internship-Application-Tracker/job_applications.csv |
+| **5** | Job / Internship Application Tracker | Usage patterns, logs, automation alerts, Task tracking, Career matching | [`5.Job-Internship-Application-Tracker/job_tracker_automation.ipynb`](5.Job-Internship-Application-Tracker/job_tracker_automation.ipynb) | [`5.Job-Internship-Application-Tracker/job_applications.csv`](5.Job-Internship-Application-Tracker/job_applications.csv) |
 
 ## Colab links
 
