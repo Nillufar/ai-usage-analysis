@@ -1,0 +1,744 @@
+student_id,intervention_type,intervention_date,counselor_id,follow_up_required,outcome
+SPP0001,Parent-Teacher Meeting,2026-03-09,C04,False,Declined
+SPP0005,Tutoring Program,2026-03-31,C11,True,No Change
+SPP0005,Online Course Enrollment,2026-05-08,C08,True,Improved
+SPP0005,Counseling Session,2026-01-07,C04,False,Improved
+SPP0008,Tutoring Program,2026-04-23,C01,False,Improved
+SPP0009,Online Course Enrollment,2026-05-18,C08,False,No Change
+SPP0009,Tutoring Program,2026-01-02,C01,True,No Change
+SPP0009,Online Course Enrollment,2026-04-03,C08,True,Improved
+SPP0013,Attendance Monitoring,2026-05-16,C08,True,Improved
+SPP0023,Study Group Assignment,2026-03-09,C02,True,No Change
+SPP0029,Study Group Assignment,2026-01-31,C10,False,Improved
+SPP0029,Counseling Session,2026-03-25,C03,False,No Change
+SPP0034,Tutoring Program,2026-01-13,C10,False,No Change
+SPP0034,Peer Mentoring,2026-05-05,C05,False,Improved
+SPP0034,Study Group Assignment,2026-02-18,C05,False,Declined
+SPP0035,Study Group Assignment,2026-02-09,C04,False,No Change
+SPP0035,Attendance Monitoring,2026-05-17,C07,False,No Change
+SPP0035,Online Course Enrollment,2026-05-16,C02,True,Improved
+SPP0036,Parent-Teacher Meeting,2026-01-30,C11,False,Declined
+SPP0037,Online Course Enrollment,2026-05-15,C09,False,No Change
+SPP0037,Online Course Enrollment,2026-04-04,C07,True,Improved
+SPP0037,Parent-Teacher Meeting,2026-03-18,C10,True,Improved
+SPP0051,Parent-Teacher Meeting,2026-03-29,C06,False,No Change
+SPP0051,Study Group Assignment,2026-01-07,C09,False,No Change
+SPP0054,Tutoring Program,2026-02-21,C08,False,No Change
+SPP0056,Online Course Enrollment,2026-03-27,C11,True,No Change
+SPP0056,Study Group Assignment,2026-03-24,C01,True,No Change
+SPP0057,Parent-Teacher Meeting,2026-02-15,C09,False,No Change
+SPP0057,Parent-Teacher Meeting,2026-02-12,C01,False,Improved
+SPP0058,Counseling Session,2026-01-10,C10,False,Improved
+SPP0058,Peer Mentoring,2026-02-18,C10,False,No Change
+SPP0058,Study Group Assignment,2026-03-24,C01,False,Improved
+SPP0060,Counseling Session,2026-01-28,C09,True,Improved
+SPP0062,Peer Mentoring,2026-02-24,C11,False,No Change
+SPP0063,Counseling Session,2026-02-14,C10,True,Improved
+SPP0067,Attendance Monitoring,2026-05-25,C10,True,Improved
+SPP0067,Online Course Enrollment,2026-03-11,C02,True,Improved
+SPP0070,Online Course Enrollment,2026-02-28,C03,False,Improved
+SPP0074,Attendance Monitoring,2026-04-16,C09,False,Improved
+SPP0074,Tutoring Program,2026-02-03,C05,True,No Change
+SPP0074,Parent-Teacher Meeting,2026-03-03,C01,False,No Change
+SPP0078,Study Group Assignment,2026-04-08,C09,False,Declined
+SPP0082,Tutoring Program,2026-02-04,C05,True,No Change
+SPP0082,Parent-Teacher Meeting,2026-01-19,C09,False,Declined
+SPP0082,Counseling Session,2026-04-14,C08,False,No Change
+SPP0097,Tutoring Program,2026-03-10,C07,True,No Change
+SPP0097,Tutoring Program,2026-04-02,C08,True,Improved
+SPP0103,Attendance Monitoring,2026-03-15,C08,True,Declined
+SPP0104,Attendance Monitoring,2026-03-28,C02,False,Improved
+SPP0104,Online Course Enrollment,2026-04-10,C06,False,Improved
+SPP0104,Parent-Teacher Meeting,2026-01-22,C03,False,Improved
+SPP0105,Attendance Monitoring,2026-02-23,C08,True,No Change
+SPP0106,Attendance Monitoring,2026-05-07,C02,True,No Change
+SPP0106,Counseling Session,2026-01-19,C02,True,No Change
+SPP0106,Attendance Monitoring,2026-01-13,C02,False,Improved
+SPP0113,Parent-Teacher Meeting,2026-05-10,C06,False,Declined
+SPP0113,Study Group Assignment,2026-02-13,C03,True,Improved
+SPP0113,Counseling Session,2026-03-04,C05,False,No Change
+SPP0119,Peer Mentoring,2026-05-03,C03,True,Improved
+SPP0120,Attendance Monitoring,2026-03-21,C05,True,Declined
+SPP0124,Online Course Enrollment,2026-01-13,C03,False,Improved
+SPP0124,Study Group Assignment,2026-04-25,C07,False,Improved
+SPP0125,Online Course Enrollment,2026-02-07,C10,True,No Change
+SPP0125,Study Group Assignment,2026-01-27,C06,False,Improved
+SPP0125,Counseling Session,2026-03-16,C05,False,No Change
+SPP0128,Counseling Session,2026-04-23,C03,True,Improved
+SPP0128,Attendance Monitoring,2026-01-05,C01,True,Improved
+SPP0128,Online Course Enrollment,2026-05-02,C01,True,No Change
+SPP0130,Counseling Session,2026-03-06,C03,True,Declined
+SPP0130,Counseling Session,2026-01-01,C01,False,No Change
+SPP0130,Online Course Enrollment,2026-02-05,C06,False,Declined
+SPP0132,Online Course Enrollment,2026-05-20,C09,False,Improved
+SPP0132,Online Course Enrollment,2026-03-08,C08,False,Improved
+SPP0132,Tutoring Program,2026-04-01,C02,True,Improved
+SPP0137,Online Course Enrollment,2026-03-09,C01,False,No Change
+SPP0137,Online Course Enrollment,2026-02-01,C01,False,Improved
+SPP0138,Online Course Enrollment,2026-01-08,C11,True,No Change
+SPP0140,Online Course Enrollment,2026-03-31,C07,False,Improved
+SPP0140,Tutoring Program,2026-01-26,C05,False,Declined
+SPP0141,Counseling Session,2026-01-11,C04,False,No Change
+SPP0141,Tutoring Program,2026-01-01,C03,False,Improved
+SPP0141,Peer Mentoring,2026-03-08,C09,False,Improved
+SPP0147,Online Course Enrollment,2026-01-24,C08,False,Declined
+SPP0147,Attendance Monitoring,2026-04-08,C01,True,No Change
+SPP0147,Online Course Enrollment,2026-02-12,C07,False,Improved
+SPP0148,Study Group Assignment,2026-05-06,C04,False,Declined
+SPP0148,Attendance Monitoring,2026-01-26,C11,False,Improved
+SPP0148,Peer Mentoring,2026-03-30,C07,True,Declined
+SPP0149,Parent-Teacher Meeting,2026-02-22,C02,False,No Change
+SPP0149,Attendance Monitoring,2026-02-28,C04,False,Improved
+SPP0153,Tutoring Program,2026-04-19,C09,False,Improved
+SPP0153,Online Course Enrollment,2026-05-22,C01,False,Improved
+SPP0153,Peer Mentoring,2026-03-17,C02,True,No Change
+SPP0157,Peer Mentoring,2026-05-13,C09,True,Improved
+SPP0157,Parent-Teacher Meeting,2026-02-24,C04,False,Improved
+SPP0157,Counseling Session,2026-05-30,C05,False,Declined
+SPP0161,Parent-Teacher Meeting,2026-02-15,C02,True,Declined
+SPP0165,Peer Mentoring,2026-03-19,C06,False,No Change
+SPP0168,Attendance Monitoring,2026-02-02,C05,False,Improved
+SPP0168,Online Course Enrollment,2026-04-11,C01,True,Improved
+SPP0169,Parent-Teacher Meeting,2026-03-28,C08,False,Improved
+SPP0169,Counseling Session,2026-05-17,C08,False,No Change
+SPP0169,Study Group Assignment,2026-03-13,C01,True,Improved
+SPP0170,Online Course Enrollment,2026-01-03,C08,False,No Change
+SPP0179,Tutoring Program,2026-04-10,C11,False,Declined
+SPP0179,Peer Mentoring,2026-05-01,C11,False,Improved
+SPP0181,Study Group Assignment,2026-01-06,C01,True,Improved
+SPP0181,Counseling Session,2026-03-18,C05,False,No Change
+SPP0188,Study Group Assignment,2026-02-05,C01,False,Declined
+SPP0188,Counseling Session,2026-02-21,C06,False,Improved
+SPP0201,Online Course Enrollment,2026-01-09,C02,False,No Change
+SPP0218,Tutoring Program,2026-05-30,C01,False,Declined
+SPP0218,Parent-Teacher Meeting,2026-01-28,C05,False,Declined
+SPP0219,Parent-Teacher Meeting,2026-05-02,C02,False,Improved
+SPP0219,Study Group Assignment,2026-04-06,C03,False,Improved
+SPP0219,Peer Mentoring,2026-05-25,C01,False,Declined
+SPP0223,Online Course Enrollment,2026-05-11,C07,False,Improved
+SPP0230,Tutoring Program,2026-02-24,C11,True,Declined
+SPP0239,Study Group Assignment,2026-01-19,C03,False,No Change
+SPP0239,Attendance Monitoring,2026-01-22,C01,True,Improved
+SPP0239,Counseling Session,2026-05-28,C11,True,No Change
+SPP0243,Tutoring Program,2026-03-30,C01,False,No Change
+SPP0243,Counseling Session,2026-02-09,C04,False,Improved
+SPP0247,Tutoring Program,2026-05-10,C03,True,Improved
+SPP0247,Tutoring Program,2026-03-10,C05,False,No Change
+SPP0251,Parent-Teacher Meeting,2026-04-07,C11,True,No Change
+SPP0251,Study Group Assignment,2026-04-08,C06,True,Improved
+SPP0254,Peer Mentoring,2026-05-02,C04,True,No Change
+SPP0270,Counseling Session,2026-02-18,C09,False,Improved
+SPP0271,Attendance Monitoring,2026-05-15,C10,False,No Change
+SPP0271,Counseling Session,2026-03-15,C06,False,Improved
+SPP0283,Parent-Teacher Meeting,2026-05-09,C08,False,No Change
+SPP0283,Peer Mentoring,2026-05-29,C01,True,Improved
+SPP0283,Peer Mentoring,2026-04-23,C02,False,Improved
+SPP0288,Parent-Teacher Meeting,2026-02-17,C05,True,No Change
+SPP0294,Tutoring Program,2026-05-26,C08,True,No Change
+SPP0294,Tutoring Program,2026-05-30,C10,False,Improved
+SPP0294,Parent-Teacher Meeting,2026-05-10,C05,True,Declined
+SPP0297,Parent-Teacher Meeting,2026-02-05,C03,False,No Change
+SPP0297,Tutoring Program,2026-02-08,C07,True,Improved
+SPP0297,Study Group Assignment,2026-01-02,C03,True,No Change
+SPP0298,Parent-Teacher Meeting,2026-01-07,C11,False,Improved
+SPP0298,Peer Mentoring,2026-05-23,C08,False,Improved
+SPP0298,Attendance Monitoring,2026-03-30,C09,True,No Change
+SPP0302,Counseling Session,2026-03-30,C10,True,Improved
+SPP0302,Counseling Session,2026-05-08,C11,False,No Change
+SPP0307,Tutoring Program,2026-04-23,C10,False,Improved
+SPP0307,Online Course Enrollment,2026-03-04,C01,False,Improved
+SPP0313,Study Group Assignment,2026-03-18,C07,False,No Change
+SPP0315,Counseling Session,2026-04-23,C06,False,Improved
+SPP0315,Attendance Monitoring,2026-01-18,C04,False,No Change
+SPP0316,Study Group Assignment,2026-03-20,C04,False,No Change
+SPP0316,Peer Mentoring,2026-03-07,C06,False,Improved
+SPP0318,Online Course Enrollment,2026-03-17,C04,False,Declined
+SPP0319,Tutoring Program,2026-05-12,C10,True,No Change
+SPP0325,Peer Mentoring,2026-01-26,C05,True,No Change
+SPP0325,Tutoring Program,2026-03-03,C11,False,Declined
+SPP0325,Peer Mentoring,2026-03-28,C05,True,Declined
+SPP0326,Online Course Enrollment,2026-02-06,C01,False,Improved
+SPP0326,Attendance Monitoring,2026-01-05,C06,True,Improved
+SPP0330,Online Course Enrollment,2026-03-20,C03,False,Improved
+SPP0332,Attendance Monitoring,2026-01-14,C09,True,Declined
+SPP0332,Counseling Session,2026-02-08,C09,True,No Change
+SPP0332,Tutoring Program,2026-02-12,C04,False,No Change
+SPP0335,Attendance Monitoring,2026-03-08,C11,False,Declined
+SPP0337,Peer Mentoring,2026-03-14,C01,False,No Change
+SPP0337,Tutoring Program,2026-03-27,C01,False,No Change
+SPP0341,Counseling Session,2026-05-28,C10,False,No Change
+SPP0341,Study Group Assignment,2026-01-27,C10,False,No Change
+SPP0342,Attendance Monitoring,2026-04-02,C03,False,No Change
+SPP0342,Study Group Assignment,2026-04-10,C03,False,No Change
+SPP0342,Online Course Enrollment,2026-04-17,C05,False,Improved
+SPP0343,Study Group Assignment,2026-05-25,C02,False,Improved
+SPP0343,Attendance Monitoring,2026-01-17,C06,False,No Change
+SPP0349,Counseling Session,2026-04-02,C10,False,No Change
+SPP0350,Online Course Enrollment,2026-04-02,C04,False,No Change
+SPP0350,Attendance Monitoring,2026-02-11,C09,False,Declined
+SPP0350,Online Course Enrollment,2026-03-22,C01,True,No Change
+SPP0352,Tutoring Program,2026-01-14,C09,True,No Change
+SPP0352,Tutoring Program,2026-04-13,C02,False,Declined
+SPP0355,Attendance Monitoring,2026-02-11,C02,False,Improved
+SPP0355,Study Group Assignment,2026-05-04,C11,True,No Change
+SPP0358,Parent-Teacher Meeting,2026-02-18,C07,False,No Change
+SPP0358,Online Course Enrollment,2026-03-12,C10,False,Improved
+SPP0358,Peer Mentoring,2026-01-02,C02,False,Improved
+SPP0359,Study Group Assignment,2026-04-17,C06,False,Improved
+SPP0365,Attendance Monitoring,2026-03-21,C06,False,Declined
+SPP0365,Counseling Session,2026-05-02,C07,True,Improved
+SPP0365,Attendance Monitoring,2026-05-15,C01,True,No Change
+SPP0367,Online Course Enrollment,2026-03-11,C06,False,Declined
+SPP0367,Online Course Enrollment,2026-04-08,C06,False,Improved
+SPP0374,Tutoring Program,2026-02-26,C07,False,Improved
+SPP0377,Peer Mentoring,2026-05-15,C08,True,Improved
+SPP0377,Parent-Teacher Meeting,2026-03-17,C09,True,No Change
+SPP0381,Attendance Monitoring,2026-03-21,C06,True,No Change
+SPP0381,Attendance Monitoring,2026-01-28,C05,False,Declined
+SPP0385,Study Group Assignment,2026-04-15,C01,False,Improved
+SPP0385,Tutoring Program,2026-03-19,C11,False,No Change
+SPP0385,Parent-Teacher Meeting,2026-05-11,C02,False,Improved
+SPP0394,Counseling Session,2026-02-19,C09,False,Declined
+SPP0394,Tutoring Program,2026-02-19,C07,True,No Change
+SPP0396,Counseling Session,2026-02-07,C06,False,Improved
+SPP0396,Attendance Monitoring,2026-01-28,C03,True,No Change
+SPP0396,Peer Mentoring,2026-02-11,C04,False,Improved
+SPP0397,Attendance Monitoring,2026-03-29,C01,True,Improved
+SPP0397,Counseling Session,2026-01-05,C11,False,No Change
+SPP0397,Peer Mentoring,2026-04-04,C09,False,Improved
+SPP0400,Peer Mentoring,2026-03-03,C09,False,No Change
+SPP0400,Online Course Enrollment,2026-04-19,C01,False,Improved
+SPP0402,Online Course Enrollment,2026-04-30,C08,False,Improved
+SPP0402,Tutoring Program,2026-03-27,C07,True,No Change
+SPP0402,Peer Mentoring,2026-02-25,C03,True,No Change
+SPP0404,Online Course Enrollment,2026-03-29,C06,True,Declined
+SPP0404,Attendance Monitoring,2026-01-06,C07,True,No Change
+SPP0404,Parent-Teacher Meeting,2026-01-21,C04,False,Declined
+SPP0405,Attendance Monitoring,2026-05-16,C07,False,Declined
+SPP0410,Attendance Monitoring,2026-04-23,C09,False,No Change
+SPP0410,Study Group Assignment,2026-04-24,C05,False,No Change
+SPP0410,Peer Mentoring,2026-01-17,C01,True,No Change
+SPP0413,Counseling Session,2026-05-17,C02,False,No Change
+SPP0413,Online Course Enrollment,2026-01-05,C04,False,Declined
+SPP0413,Parent-Teacher Meeting,2026-05-18,C11,True,No Change
+SPP0415,Attendance Monitoring,2026-04-03,C10,False,Improved
+SPP0418,Attendance Monitoring,2026-01-02,C11,False,No Change
+SPP0420,Counseling Session,2026-03-30,C06,False,No Change
+SPP0420,Tutoring Program,2026-01-25,C03,False,Improved
+SPP0427,Online Course Enrollment,2026-03-09,C11,True,Declined
+SPP0430,Parent-Teacher Meeting,2026-03-03,C02,True,No Change
+SPP0440,Online Course Enrollment,2026-01-20,C04,False,Improved
+SPP0441,Study Group Assignment,2026-04-20,C09,False,Improved
+SPP0441,Counseling Session,2026-03-26,C04,False,Improved
+SPP0444,Tutoring Program,2026-04-29,C08,False,Improved
+SPP0444,Tutoring Program,2026-02-18,C02,False,No Change
+SPP0444,Counseling Session,2026-02-25,C07,True,No Change
+SPP0454,Peer Mentoring,2026-03-07,C04,False,Improved
+SPP0454,Counseling Session,2026-02-18,C03,False,Declined
+SPP0463,Parent-Teacher Meeting,2026-05-11,C08,False,Improved
+SPP0474,Counseling Session,2026-04-28,C06,False,Declined
+SPP0485,Study Group Assignment,2026-03-05,C11,True,No Change
+SPP0485,Peer Mentoring,2026-02-02,C04,False,Improved
+SPP0485,Tutoring Program,2026-01-21,C05,True,Declined
+SPP0490,Peer Mentoring,2026-01-27,C06,False,No Change
+SPP0490,Parent-Teacher Meeting,2026-03-07,C06,False,Improved
+SPP0490,Parent-Teacher Meeting,2026-03-16,C09,True,No Change
+SPP0491,Counseling Session,2026-04-25,C09,False,Improved
+SPP0501,Tutoring Program,2026-03-03,C10,False,Declined
+SPP0508,Peer Mentoring,2026-02-21,C06,True,Improved
+SPP0510,Attendance Monitoring,2026-01-17,C06,True,Improved
+SPP0511,Attendance Monitoring,2026-01-14,C04,True,Improved
+SPP0511,Study Group Assignment,2026-01-03,C08,False,No Change
+SPP0511,Peer Mentoring,2026-04-01,C03,True,No Change
+SPP0517,Counseling Session,2026-04-03,C03,True,Improved
+SPP0517,Parent-Teacher Meeting,2026-02-11,C06,True,Improved
+SPP0519,Counseling Session,2026-04-10,C11,False,Improved
+SPP0519,Attendance Monitoring,2026-05-09,C10,False,Declined
+SPP0519,Parent-Teacher Meeting,2026-01-26,C11,True,No Change
+SPP0526,Peer Mentoring,2026-04-17,C03,False,Improved
+SPP0527,Peer Mentoring,2026-05-09,C09,True,No Change
+SPP0527,Peer Mentoring,2026-05-15,C10,False,Improved
+SPP0532,Peer Mentoring,2026-02-12,C07,False,Declined
+SPP0532,Study Group Assignment,2026-01-26,C07,False,No Change
+SPP0533,Tutoring Program,2026-04-04,C07,True,Improved
+SPP0535,Attendance Monitoring,2026-03-09,C02,False,No Change
+SPP0535,Attendance Monitoring,2026-04-25,C09,False,Declined
+SPP0535,Tutoring Program,2026-04-22,C10,False,Declined
+SPP0549,Counseling Session,2026-01-22,C02,False,No Change
+SPP0549,Peer Mentoring,2026-04-01,C03,True,No Change
+SPP0552,Counseling Session,2026-01-20,C05,True,Improved
+SPP0552,Attendance Monitoring,2026-01-16,C07,False,No Change
+SPP0552,Attendance Monitoring,2026-01-30,C11,True,Improved
+SPP0558,Counseling Session,2026-01-04,C04,False,No Change
+SPP0558,Parent-Teacher Meeting,2026-03-04,C05,False,No Change
+SPP0558,Parent-Teacher Meeting,2026-03-23,C03,False,No Change
+SPP0559,Online Course Enrollment,2026-05-13,C04,False,No Change
+SPP0559,Parent-Teacher Meeting,2026-02-20,C08,False,No Change
+SPP0568,Online Course Enrollment,2026-03-06,C03,False,No Change
+SPP0568,Online Course Enrollment,2026-04-02,C02,True,No Change
+SPP0568,Online Course Enrollment,2026-01-20,C02,True,Improved
+SPP0575,Study Group Assignment,2026-03-15,C02,False,Improved
+SPP0575,Tutoring Program,2026-03-16,C04,False,Improved
+SPP0575,Peer Mentoring,2026-02-24,C04,False,Improved
+SPP0581,Parent-Teacher Meeting,2026-03-08,C03,False,Improved
+SPP0584,Study Group Assignment,2026-01-27,C09,False,No Change
+SPP0584,Tutoring Program,2026-05-17,C07,True,No Change
+SPP0584,Tutoring Program,2026-01-22,C11,False,Improved
+SPP0585,Counseling Session,2026-03-25,C08,True,Improved
+SPP0585,Attendance Monitoring,2026-02-22,C08,True,No Change
+SPP0593,Attendance Monitoring,2026-03-15,C05,False,Improved
+SPP0604,Peer Mentoring,2026-02-18,C04,True,No Change
+SPP0607,Counseling Session,2026-03-06,C06,False,Improved
+SPP0607,Counseling Session,2026-01-02,C08,False,Improved
+SPP0610,Attendance Monitoring,2026-04-01,C04,True,Improved
+SPP0610,Peer Mentoring,2026-04-13,C06,False,Declined
+SPP0622,Peer Mentoring,2026-05-28,C08,False,No Change
+SPP0622,Counseling Session,2026-05-25,C01,False,No Change
+SPP0624,Tutoring Program,2026-04-16,C05,False,No Change
+SPP0624,Tutoring Program,2026-03-23,C05,False,Improved
+SPP0624,Parent-Teacher Meeting,2026-05-23,C01,True,Improved
+SPP0628,Peer Mentoring,2026-04-29,C11,True,Improved
+SPP0628,Parent-Teacher Meeting,2026-01-26,C08,False,Improved
+SPP0628,Counseling Session,2026-01-25,C08,False,Improved
+SPP0634,Online Course Enrollment,2026-03-15,C05,False,Improved
+SPP0638,Study Group Assignment,2026-05-19,C09,False,Declined
+SPP0644,Counseling Session,2026-04-19,C08,True,Declined
+SPP0644,Parent-Teacher Meeting,2026-02-22,C09,True,Improved
+SPP0644,Study Group Assignment,2026-02-01,C11,True,Declined
+SPP0650,Study Group Assignment,2026-05-06,C07,False,No Change
+SPP0653,Counseling Session,2026-02-20,C02,True,No Change
+SPP0653,Study Group Assignment,2026-04-02,C02,False,Declined
+SPP0655,Parent-Teacher Meeting,2026-01-29,C07,True,Improved
+SPP0655,Parent-Teacher Meeting,2026-04-03,C09,False,No Change
+SPP0655,Parent-Teacher Meeting,2026-02-12,C01,False,No Change
+SPP0676,Peer Mentoring,2026-01-31,C08,False,No Change
+SPP0676,Attendance Monitoring,2026-02-27,C03,True,Improved
+SPP0676,Study Group Assignment,2026-02-27,C10,True,No Change
+SPP0678,Online Course Enrollment,2026-01-22,C10,False,Improved
+SPP0678,Attendance Monitoring,2026-05-18,C01,True,No Change
+SPP0678,Tutoring Program,2026-03-16,C10,False,Improved
+SPP0682,Parent-Teacher Meeting,2026-03-30,C04,False,No Change
+SPP0682,Online Course Enrollment,2026-03-18,C08,False,Improved
+SPP0685,Peer Mentoring,2026-05-15,C06,True,No Change
+SPP0691,Tutoring Program,2026-01-30,C11,False,Improved
+SPP0696,Study Group Assignment,2026-02-15,C03,True,Improved
+SPP0696,Peer Mentoring,2026-01-18,C01,False,Declined
+SPP0696,Peer Mentoring,2026-04-04,C07,False,Improved
+SPP0700,Peer Mentoring,2026-04-25,C08,False,No Change
+SPP0700,Online Course Enrollment,2026-04-07,C04,False,Improved
+SPP0700,Parent-Teacher Meeting,2026-05-12,C04,True,Declined
+SPP0703,Study Group Assignment,2026-02-01,C01,False,Improved
+SPP0709,Online Course Enrollment,2026-05-04,C04,True,No Change
+SPP0709,Parent-Teacher Meeting,2026-03-12,C10,False,Declined
+SPP0709,Peer Mentoring,2026-03-21,C03,False,No Change
+SPP0714,Parent-Teacher Meeting,2026-05-14,C09,False,No Change
+SPP0714,Parent-Teacher Meeting,2026-02-28,C03,True,Improved
+SPP0714,Online Course Enrollment,2026-04-13,C06,True,Improved
+SPP0718,Study Group Assignment,2026-01-21,C10,True,Improved
+SPP0722,Peer Mentoring,2026-01-12,C09,False,Improved
+SPP0722,Attendance Monitoring,2026-02-06,C11,False,No Change
+SPP0722,Parent-Teacher Meeting,2026-02-11,C05,False,No Change
+SPP0729,Online Course Enrollment,2026-05-06,C05,False,No Change
+SPP0729,Parent-Teacher Meeting,2026-01-19,C04,True,No Change
+SPP0729,Parent-Teacher Meeting,2026-04-03,C10,True,No Change
+SPP0731,Study Group Assignment,2026-02-27,C03,False,Improved
+SPP0731,Online Course Enrollment,2026-01-07,C02,False,Improved
+SPP0732,Online Course Enrollment,2026-01-30,C11,True,No Change
+SPP0732,Attendance Monitoring,2026-02-26,C09,True,No Change
+SPP0733,Counseling Session,2026-02-24,C02,False,Declined
+SPP0733,Counseling Session,2026-01-05,C06,False,No Change
+SPP0733,Parent-Teacher Meeting,2026-03-01,C07,True,No Change
+SPP0734,Parent-Teacher Meeting,2026-02-10,C02,True,No Change
+SPP0734,Tutoring Program,2026-03-03,C11,False,No Change
+SPP0738,Tutoring Program,2026-03-09,C04,True,No Change
+SPP0738,Parent-Teacher Meeting,2026-04-12,C09,True,No Change
+SPP0738,Study Group Assignment,2026-01-10,C04,True,No Change
+SPP0740,Attendance Monitoring,2026-05-23,C05,True,Improved
+SPP0747,Attendance Monitoring,2026-04-23,C02,False,Improved
+SPP0747,Counseling Session,2026-01-08,C11,False,No Change
+SPP0747,Tutoring Program,2026-04-10,C08,False,No Change
+SPP0749,Tutoring Program,2026-04-05,C10,True,No Change
+SPP0749,Attendance Monitoring,2026-01-07,C04,True,Improved
+SPP0749,Counseling Session,2026-01-22,C05,False,No Change
+SPP0753,Counseling Session,2026-02-21,C11,True,Improved
+SPP0753,Parent-Teacher Meeting,2026-01-21,C01,False,No Change
+SPP0753,Tutoring Program,2026-05-15,C01,True,Improved
+SPP0754,Online Course Enrollment,2026-05-13,C02,False,No Change
+SPP0756,Tutoring Program,2026-05-21,C07,False,Improved
+SPP0758,Tutoring Program,2026-03-19,C07,False,No Change
+SPP0758,Counseling Session,2026-04-06,C10,False,Declined
+SPP0758,Attendance Monitoring,2026-01-18,C05,False,No Change
+SPP0760,Tutoring Program,2026-03-27,C09,True,No Change
+SPP0760,Counseling Session,2026-02-01,C07,False,Improved
+SPP0761,Tutoring Program,2026-05-26,C02,False,No Change
+SPP0765,Tutoring Program,2026-04-20,C02,True,No Change
+SPP0765,Study Group Assignment,2026-05-04,C10,False,No Change
+SPP0765,Online Course Enrollment,2026-05-21,C08,False,Declined
+SPP0767,Parent-Teacher Meeting,2026-01-14,C01,False,Declined
+SPP0767,Tutoring Program,2026-03-28,C01,False,Improved
+SPP0778,Study Group Assignment,2026-05-28,C02,False,Declined
+SPP0778,Parent-Teacher Meeting,2026-05-12,C03,False,Improved
+SPP0778,Tutoring Program,2026-04-03,C03,False,Declined
+SPP0789,Attendance Monitoring,2026-03-20,C05,False,Declined
+SPP0789,Attendance Monitoring,2026-01-04,C03,False,Improved
+SPP0789,Online Course Enrollment,2026-03-23,C10,False,Improved
+SPP0791,Parent-Teacher Meeting,2026-03-03,C01,False,No Change
+SPP0796,Attendance Monitoring,2026-04-24,C06,False,No Change
+SPP0796,Peer Mentoring,2026-03-26,C10,False,Improved
+SPP0797,Parent-Teacher Meeting,2026-02-17,C08,False,No Change
+SPP0799,Parent-Teacher Meeting,2026-05-12,C11,True,Improved
+SPP0799,Attendance Monitoring,2026-02-07,C01,False,Improved
+SPP0803,Study Group Assignment,2026-04-26,C11,True,No Change
+SPP0803,Counseling Session,2026-01-03,C01,False,No Change
+SPP0806,Peer Mentoring,2026-02-17,C05,True,Declined
+SPP0806,Online Course Enrollment,2026-02-24,C09,True,No Change
+SPP0806,Attendance Monitoring,2026-01-20,C10,False,Improved
+SPP0808,Peer Mentoring,2026-03-14,C07,True,No Change
+SPP0808,Study Group Assignment,2026-02-18,C06,True,Improved
+SPP0812,Attendance Monitoring,2026-02-17,C01,False,Improved
+SPP0813,Parent-Teacher Meeting,2026-01-04,C11,False,No Change
+SPP0819,Online Course Enrollment,2026-02-23,C10,False,Improved
+SPP0819,Peer Mentoring,2026-05-06,C03,True,No Change
+SPP0819,Online Course Enrollment,2026-03-17,C09,True,Improved
+SPP0821,Peer Mentoring,2026-05-02,C02,True,No Change
+SPP0821,Counseling Session,2026-01-15,C11,False,Declined
+SPP0822,Study Group Assignment,2026-05-27,C11,False,Improved
+SPP0823,Tutoring Program,2026-01-08,C10,True,No Change
+SPP0823,Attendance Monitoring,2026-05-28,C06,False,No Change
+SPP0823,Attendance Monitoring,2026-02-21,C05,False,Improved
+SPP0825,Attendance Monitoring,2026-05-14,C06,False,No Change
+SPP0826,Online Course Enrollment,2026-01-31,C07,True,No Change
+SPP0826,Parent-Teacher Meeting,2026-02-19,C01,False,No Change
+SPP0826,Peer Mentoring,2026-03-08,C07,True,No Change
+SPP0838,Peer Mentoring,2026-04-06,C06,True,Improved
+SPP0838,Attendance Monitoring,2026-01-21,C11,True,No Change
+SPP0844,Parent-Teacher Meeting,2026-03-28,C08,False,No Change
+SPP0844,Study Group Assignment,2026-03-25,C04,True,No Change
+SPP0844,Study Group Assignment,2026-02-13,C05,True,Improved
+SPP0849,Study Group Assignment,2026-05-26,C03,True,Declined
+SPP0849,Peer Mentoring,2026-01-13,C04,True,Improved
+SPP0853,Attendance Monitoring,2026-03-06,C04,False,No Change
+SPP0853,Counseling Session,2026-04-28,C01,False,No Change
+SPP0854,Study Group Assignment,2026-03-06,C11,True,Improved
+SPP0854,Attendance Monitoring,2026-04-29,C09,False,No Change
+SPP0854,Counseling Session,2026-03-10,C04,False,No Change
+SPP0856,Study Group Assignment,2026-03-13,C01,False,No Change
+SPP0862,Counseling Session,2026-02-23,C10,False,Improved
+SPP0862,Study Group Assignment,2026-01-22,C09,True,Improved
+SPP0868,Peer Mentoring,2026-01-15,C09,False,No Change
+SPP0868,Peer Mentoring,2026-03-14,C06,True,No Change
+SPP0871,Attendance Monitoring,2026-01-10,C11,False,Declined
+SPP0871,Attendance Monitoring,2026-04-09,C06,True,No Change
+SPP0874,Counseling Session,2026-05-29,C03,True,Improved
+SPP0876,Tutoring Program,2026-01-15,C09,False,Improved
+SPP0876,Counseling Session,2026-04-26,C04,False,Improved
+SPP0880,Tutoring Program,2026-03-14,C06,True,No Change
+SPP0880,Counseling Session,2026-04-19,C04,False,Declined
+SPP0880,Online Course Enrollment,2026-04-30,C03,True,Improved
+SPP0881,Tutoring Program,2026-04-25,C05,False,No Change
+SPP0881,Study Group Assignment,2026-01-08,C06,False,Improved
+SPP0890,Study Group Assignment,2026-03-30,C02,False,Improved
+SPP0890,Online Course Enrollment,2026-05-16,C05,True,Improved
+SPP0893,Peer Mentoring,2026-01-10,C09,True,Improved
+SPP0893,Peer Mentoring,2026-02-25,C10,False,No Change
+SPP0895,Attendance Monitoring,2026-03-29,C02,False,Improved
+SPP0895,Parent-Teacher Meeting,2026-03-28,C05,True,No Change
+SPP0895,Peer Mentoring,2026-05-04,C01,True,Improved
+SPP0897,Counseling Session,2026-04-22,C06,False,Improved
+SPP0897,Counseling Session,2026-02-07,C08,False,Improved
+SPP0900,Study Group Assignment,2026-03-29,C01,False,Improved
+SPP0900,Online Course Enrollment,2026-03-01,C09,False,Improved
+SPP0902,Study Group Assignment,2026-02-06,C02,False,No Change
+SPP0903,Tutoring Program,2026-02-13,C02,True,No Change
+SPP0903,Counseling Session,2026-04-09,C07,False,No Change
+SPP0903,Peer Mentoring,2026-04-05,C06,False,No Change
+SPP0906,Attendance Monitoring,2026-04-26,C05,False,No Change
+SPP0906,Counseling Session,2026-05-23,C11,False,Declined
+SPP0907,Counseling Session,2026-05-22,C10,False,No Change
+SPP0907,Parent-Teacher Meeting,2026-03-11,C11,False,No Change
+SPP0907,Counseling Session,2026-04-19,C06,False,No Change
+SPP0913,Study Group Assignment,2026-02-06,C04,False,Declined
+SPP0913,Online Course Enrollment,2026-02-12,C02,True,Declined
+SPP0915,Peer Mentoring,2026-05-06,C06,False,Improved
+SPP0915,Study Group Assignment,2026-02-12,C02,False,No Change
+SPP0922,Attendance Monitoring,2026-01-15,C04,False,Improved
+SPP0922,Parent-Teacher Meeting,2026-05-07,C07,False,No Change
+SPP0928,Peer Mentoring,2026-04-04,C09,True,No Change
+SPP0928,Study Group Assignment,2026-02-14,C09,True,No Change
+SPP0928,Attendance Monitoring,2026-04-28,C01,False,No Change
+SPP0934,Study Group Assignment,2026-01-18,C08,False,Improved
+SPP0939,Counseling Session,2026-02-07,C11,True,Improved
+SPP0939,Tutoring Program,2026-01-20,C11,False,No Change
+SPP0939,Counseling Session,2026-03-21,C03,False,No Change
+SPP0941,Tutoring Program,2026-04-02,C08,False,Improved
+SPP0942,Attendance Monitoring,2026-03-02,C07,True,Declined
+SPP0944,Tutoring Program,2026-01-19,C08,False,No Change
+SPP0944,Counseling Session,2026-05-27,C02,False,No Change
+SPP0944,Tutoring Program,2026-03-25,C07,False,No Change
+SPP0945,Tutoring Program,2026-03-17,C08,False,Declined
+SPP0951,Counseling Session,2026-02-19,C09,True,No Change
+SPP0957,Study Group Assignment,2026-03-13,C11,False,Declined
+SPP0957,Online Course Enrollment,2026-04-24,C10,False,Declined
+SPP0957,Tutoring Program,2026-04-28,C11,False,Improved
+SPP0961,Online Course Enrollment,2026-03-01,C06,False,No Change
+SPP0972,Peer Mentoring,2026-02-08,C06,False,Improved
+SPP0972,Online Course Enrollment,2026-01-24,C08,False,No Change
+SPP0972,Peer Mentoring,2026-02-01,C07,True,Improved
+SPP0975,Tutoring Program,2026-03-27,C05,False,No Change
+SPP0980,Tutoring Program,2026-02-28,C03,False,No Change
+SPP0980,Parent-Teacher Meeting,2026-03-05,C03,False,Declined
+SPP0980,Parent-Teacher Meeting,2026-03-02,C07,True,Improved
+SPP0981,Attendance Monitoring,2026-01-05,C03,False,Improved
+SPP0995,Tutoring Program,2026-05-22,C06,False,Improved
+SPP0995,Study Group Assignment,2026-03-28,C07,True,No Change
+SPP0995,Parent-Teacher Meeting,2026-03-13,C06,False,No Change
+SPP1014,Parent-Teacher Meeting,2026-04-11,C08,True,Improved
+SPP1014,Attendance Monitoring,2026-01-13,C11,False,Declined
+SPP1018,Attendance Monitoring,2026-04-30,C08,True,No Change
+SPP1018,Attendance Monitoring,2026-02-26,C07,False,No Change
+SPP1019,Attendance Monitoring,2026-04-13,C09,False,Improved
+SPP1019,Study Group Assignment,2026-02-01,C10,False,No Change
+SPP1019,Attendance Monitoring,2026-02-18,C10,False,Improved
+SPP1022,Study Group Assignment,2026-05-22,C06,False,Declined
+SPP1022,Study Group Assignment,2026-03-16,C04,False,Improved
+SPP1028,Tutoring Program,2026-01-04,C03,True,Declined
+SPP1029,Peer Mentoring,2026-03-23,C05,False,Improved
+SPP1029,Tutoring Program,2026-02-28,C02,False,No Change
+SPP1029,Attendance Monitoring,2026-03-20,C10,True,No Change
+SPP1030,Online Course Enrollment,2026-01-08,C08,True,No Change
+SPP1030,Counseling Session,2026-04-02,C10,False,Improved
+SPP1036,Parent-Teacher Meeting,2026-01-13,C05,False,No Change
+SPP1036,Online Course Enrollment,2026-01-15,C02,False,Improved
+SPP1036,Counseling Session,2026-01-16,C11,False,Improved
+SPP1042,Attendance Monitoring,2026-01-04,C01,True,Improved
+SPP1042,Attendance Monitoring,2026-05-15,C04,False,No Change
+SPP1042,Tutoring Program,2026-02-27,C09,False,Improved
+SPP1052,Online Course Enrollment,2026-01-25,C09,True,No Change
+SPP1052,Counseling Session,2026-01-23,C10,False,Improved
+SPP1053,Counseling Session,2026-05-20,C06,True,Declined
+SPP1053,Study Group Assignment,2026-05-09,C08,True,Improved
+SPP1056,Counseling Session,2026-03-11,C01,False,No Change
+SPP1056,Counseling Session,2026-04-17,C08,True,No Change
+SPP1057,Online Course Enrollment,2026-01-24,C05,False,Improved
+SPP1057,Parent-Teacher Meeting,2026-03-18,C01,True,No Change
+SPP1058,Online Course Enrollment,2026-04-23,C03,False,No Change
+SPP1058,Parent-Teacher Meeting,2026-04-07,C01,False,Declined
+SPP1060,Counseling Session,2026-05-08,C02,False,Declined
+SPP1060,Parent-Teacher Meeting,2026-04-22,C09,True,No Change
+SPP1060,Attendance Monitoring,2026-05-18,C10,False,Improved
+SPP1062,Counseling Session,2026-03-10,C03,True,Declined
+SPP1062,Study Group Assignment,2026-05-27,C09,True,No Change
+SPP1063,Peer Mentoring,2026-05-16,C01,True,No Change
+SPP1063,Counseling Session,2026-05-26,C05,True,Improved
+SPP1070,Parent-Teacher Meeting,2026-02-10,C04,False,Improved
+SPP1070,Tutoring Program,2026-05-01,C05,False,No Change
+SPP1070,Parent-Teacher Meeting,2026-04-11,C07,True,Declined
+SPP1075,Attendance Monitoring,2026-04-29,C01,False,Improved
+SPP1075,Study Group Assignment,2026-05-07,C02,False,No Change
+SPP1079,Tutoring Program,2026-05-13,C04,False,No Change
+SPP1079,Online Course Enrollment,2026-01-14,C03,False,Declined
+SPP1079,Attendance Monitoring,2026-03-01,C04,False,Improved
+SPP1082,Parent-Teacher Meeting,2026-01-26,C07,True,Improved
+SPP1082,Online Course Enrollment,2026-03-16,C04,False,Improved
+SPP1084,Study Group Assignment,2026-02-24,C08,True,No Change
+SPP1084,Study Group Assignment,2026-04-05,C05,False,No Change
+SPP1086,Counseling Session,2026-02-07,C08,False,Declined
+SPP1086,Attendance Monitoring,2026-05-20,C08,True,Improved
+SPP1089,Online Course Enrollment,2026-05-17,C10,True,No Change
+SPP1089,Attendance Monitoring,2026-05-14,C02,False,Improved
+SPP1093,Peer Mentoring,2026-03-03,C07,True,Improved
+SPP1093,Study Group Assignment,2026-01-24,C03,True,No Change
+SPP1093,Peer Mentoring,2026-02-27,C01,False,Improved
+SPP1102,Parent-Teacher Meeting,2026-04-29,C09,False,Improved
+SPP1102,Peer Mentoring,2026-04-22,C03,True,No Change
+SPP1104,Counseling Session,2026-03-06,C04,True,No Change
+SPP1104,Online Course Enrollment,2026-01-11,C07,False,Improved
+SPP1104,Counseling Session,2026-03-07,C01,False,Improved
+SPP1110,Online Course Enrollment,2026-02-27,C07,True,Improved
+SPP1110,Counseling Session,2026-04-08,C08,True,No Change
+SPP1117,Tutoring Program,2026-04-24,C06,False,Improved
+SPP1117,Counseling Session,2026-04-11,C04,True,Improved
+SPP1117,Study Group Assignment,2026-03-24,C01,False,No Change
+SPP1118,Attendance Monitoring,2026-02-20,C11,False,No Change
+SPP1127,Counseling Session,2026-05-09,C05,True,No Change
+SPP1127,Study Group Assignment,2026-04-19,C01,True,Declined
+SPP1128,Counseling Session,2026-03-25,C05,False,Declined
+SPP1131,Tutoring Program,2026-02-06,C06,False,Improved
+SPP1131,Online Course Enrollment,2026-02-12,C03,False,Declined
+SPP1135,Counseling Session,2026-01-27,C01,False,No Change
+SPP1135,Attendance Monitoring,2026-03-01,C04,True,Improved
+SPP1136,Online Course Enrollment,2026-01-17,C04,True,No Change
+SPP1136,Online Course Enrollment,2026-03-12,C02,False,No Change
+SPP1136,Peer Mentoring,2026-05-05,C08,True,Improved
+SPP1143,Study Group Assignment,2026-01-13,C10,True,No Change
+SPP1143,Peer Mentoring,2026-05-12,C10,False,No Change
+SPP1143,Study Group Assignment,2026-01-26,C03,False,Declined
+SPP1149,Parent-Teacher Meeting,2026-03-02,C08,False,No Change
+SPP1155,Attendance Monitoring,2026-02-10,C07,False,No Change
+SPP1155,Peer Mentoring,2026-03-12,C04,True,Improved
+SPP1155,Peer Mentoring,2026-04-04,C02,False,No Change
+SPP1159,Counseling Session,2026-04-18,C08,False,Improved
+SPP1159,Attendance Monitoring,2026-03-13,C10,False,No Change
+SPP1159,Online Course Enrollment,2026-05-23,C11,False,Declined
+SPP1162,Online Course Enrollment,2026-03-16,C08,True,No Change
+SPP1163,Counseling Session,2026-04-25,C09,False,No Change
+SPP1163,Counseling Session,2026-04-26,C06,False,No Change
+SPP1167,Attendance Monitoring,2026-03-21,C11,False,No Change
+SPP1169,Counseling Session,2026-04-12,C10,False,Declined
+SPP1169,Study Group Assignment,2026-02-07,C07,False,No Change
+SPP1169,Peer Mentoring,2026-01-12,C08,False,Declined
+SPP1177,Attendance Monitoring,2026-01-08,C04,True,No Change
+SPP1177,Peer Mentoring,2026-02-18,C11,True,No Change
+SPP1177,Online Course Enrollment,2026-03-31,C03,False,No Change
+SPP1179,Peer Mentoring,2026-05-30,C05,False,No Change
+SPP1179,Attendance Monitoring,2026-04-12,C04,False,Declined
+SPP1179,Study Group Assignment,2026-01-16,C01,False,No Change
+SPP1181,Tutoring Program,2026-02-03,C11,False,No Change
+SPP1181,Parent-Teacher Meeting,2026-05-13,C04,True,Declined
+SPP1201,Study Group Assignment,2026-01-02,C04,True,Improved
+SPP1201,Tutoring Program,2026-01-22,C10,True,No Change
+SPP1201,Online Course Enrollment,2026-03-03,C04,False,Declined
+SPP1202,Peer Mentoring,2026-04-17,C05,True,No Change
+SPP1202,Counseling Session,2026-04-10,C08,False,No Change
+SPP1213,Counseling Session,2026-02-04,C03,True,Declined
+SPP1213,Attendance Monitoring,2026-01-13,C06,False,No Change
+SPP1214,Counseling Session,2026-03-06,C09,True,Improved
+SPP1218,Study Group Assignment,2026-03-23,C02,False,Improved
+SPP1218,Peer Mentoring,2026-03-22,C05,False,Improved
+SPP1221,Counseling Session,2026-05-11,C02,True,Improved
+SPP1223,Parent-Teacher Meeting,2026-01-15,C10,True,No Change
+SPP1224,Counseling Session,2026-05-03,C01,False,Declined
+SPP1226,Peer Mentoring,2026-02-25,C05,True,Declined
+SPP1231,Peer Mentoring,2026-04-08,C03,True,Improved
+SPP1231,Peer Mentoring,2026-02-12,C07,True,No Change
+SPP1231,Attendance Monitoring,2026-02-27,C09,False,No Change
+SPP1233,Online Course Enrollment,2026-01-31,C10,False,No Change
+SPP1233,Study Group Assignment,2026-01-11,C07,True,No Change
+SPP1233,Parent-Teacher Meeting,2026-03-09,C10,False,No Change
+SPP1234,Online Course Enrollment,2026-03-10,C10,True,No Change
+SPP1234,Parent-Teacher Meeting,2026-03-20,C08,False,Declined
+SPP1239,Attendance Monitoring,2026-01-15,C02,False,No Change
+SPP1241,Tutoring Program,2026-04-20,C11,False,Improved
+SPP1243,Peer Mentoring,2026-01-15,C03,False,No Change
+SPP1243,Counseling Session,2026-02-15,C01,True,No Change
+SPP1247,Study Group Assignment,2026-02-28,C03,False,Declined
+SPP1249,Tutoring Program,2026-04-15,C04,True,Declined
+SPP1253,Tutoring Program,2026-04-26,C02,False,No Change
+SPP1257,Tutoring Program,2026-05-09,C04,True,Improved
+SPP1257,Study Group Assignment,2026-05-04,C11,True,Improved
+SPP1257,Attendance Monitoring,2026-01-01,C06,False,No Change
+SPP1262,Online Course Enrollment,2026-04-08,C07,True,Declined
+SPP1262,Parent-Teacher Meeting,2026-05-11,C01,False,Improved
+SPP1282,Online Course Enrollment,2026-02-04,C04,True,Improved
+SPP1282,Parent-Teacher Meeting,2026-02-04,C04,False,Improved
+SPP1282,Parent-Teacher Meeting,2026-02-27,C07,False,Improved
+SPP1283,Online Course Enrollment,2026-01-08,C08,True,Improved
+SPP1284,Study Group Assignment,2026-03-08,C05,False,No Change
+SPP1295,Study Group Assignment,2026-05-25,C05,False,Declined
+SPP1295,Peer Mentoring,2026-02-20,C02,False,Improved
+SPP1295,Study Group Assignment,2026-01-16,C11,True,Improved
+SPP1298,Tutoring Program,2026-02-03,C06,False,Improved
+SPP1298,Attendance Monitoring,2026-03-16,C04,True,No Change
+SPP1306,Attendance Monitoring,2026-04-13,C08,False,Declined
+SPP1309,Tutoring Program,2026-01-21,C08,False,Declined
+SPP1310,Tutoring Program,2026-01-26,C11,True,Declined
+SPP1310,Attendance Monitoring,2026-05-15,C04,False,No Change
+SPP1320,Attendance Monitoring,2026-02-23,C05,False,Improved
+SPP1320,Tutoring Program,2026-05-14,C07,False,No Change
+SPP1332,Online Course Enrollment,2026-01-26,C01,False,Improved
+SPP1332,Tutoring Program,2026-05-04,C01,True,Improved
+SPP1336,Attendance Monitoring,2026-01-24,C02,False,No Change
+SPP1336,Online Course Enrollment,2026-05-23,C11,True,Improved
+SPP1336,Parent-Teacher Meeting,2026-05-25,C08,True,Improved
+SPP1338,Attendance Monitoring,2026-03-23,C07,True,Improved
+SPP1340,Online Course Enrollment,2026-02-07,C09,False,No Change
+SPP1340,Counseling Session,2026-05-17,C08,False,No Change
+SPP1340,Online Course Enrollment,2026-02-28,C09,False,No Change
+SPP1342,Parent-Teacher Meeting,2026-03-22,C11,False,No Change
+SPP1342,Online Course Enrollment,2026-01-16,C01,False,Declined
+SPP1345,Peer Mentoring,2026-04-05,C08,False,Improved
+SPP1345,Counseling Session,2026-05-11,C06,False,Improved
+SPP1345,Online Course Enrollment,2026-01-02,C01,False,Improved
+SPP1352,Counseling Session,2026-04-09,C11,True,Declined
+SPP1352,Online Course Enrollment,2026-01-07,C06,True,No Change
+SPP1369,Attendance Monitoring,2026-01-25,C05,True,Declined
+SPP1369,Online Course Enrollment,2026-04-24,C08,True,Improved
+SPP1369,Online Course Enrollment,2026-03-25,C06,True,No Change
+SPP1372,Peer Mentoring,2026-04-21,C05,False,No Change
+SPP1372,Peer Mentoring,2026-01-19,C07,True,Declined
+SPP1375,Attendance Monitoring,2026-04-27,C06,False,Improved
+SPP1376,Peer Mentoring,2026-03-11,C08,False,No Change
+SPP1383,Tutoring Program,2026-01-16,C07,False,No Change
+SPP1383,Counseling Session,2026-02-21,C10,False,Declined
+SPP1383,Counseling Session,2026-02-28,C01,False,No Change
+SPP1384,Online Course Enrollment,2026-02-20,C01,False,No Change
+SPP1385,Online Course Enrollment,2026-02-06,C07,False,No Change
+SPP1385,Peer Mentoring,2026-01-29,C05,False,Improved
+SPP1388,Tutoring Program,2026-05-04,C07,False,Declined
+SPP1390,Tutoring Program,2026-01-07,C09,False,Improved
+SPP1390,Peer Mentoring,2026-03-04,C07,False,No Change
+SPP1390,Peer Mentoring,2026-05-12,C05,False,No Change
+SPP1394,Parent-Teacher Meeting,2026-01-29,C04,False,Improved
+SPP1396,Attendance Monitoring,2026-05-29,C11,True,Declined
+SPP1396,Peer Mentoring,2026-04-08,C10,True,Improved
+SPP1396,Attendance Monitoring,2026-03-25,C08,True,Declined
+SPP1401,Tutoring Program,2026-04-07,C04,True,Declined
+SPP1401,Study Group Assignment,2026-01-09,C01,True,No Change
+SPP1402,Counseling Session,2026-03-18,C10,False,Declined
+SPP1402,Counseling Session,2026-01-25,C07,False,Improved
+SPP1402,Online Course Enrollment,2026-03-02,C11,False,No Change
+SPP1404,Parent-Teacher Meeting,2026-01-09,C03,True,Improved
+SPP1411,Peer Mentoring,2026-02-07,C11,True,No Change
+SPP1412,Study Group Assignment,2026-04-17,C07,False,Improved
+SPP1412,Counseling Session,2026-02-14,C08,False,No Change
+SPP1412,Tutoring Program,2026-01-30,C05,True,No Change
+SPP1415,Attendance Monitoring,2026-05-16,C08,False,Improved
+SPP1415,Peer Mentoring,2026-02-13,C07,False,Improved
+SPP1422,Online Course Enrollment,2026-03-09,C10,False,Improved
+SPP1422,Tutoring Program,2026-05-02,C04,True,Improved
+SPP1422,Tutoring Program,2026-01-13,C05,False,No Change
+SPP1423,Tutoring Program,2026-01-23,C10,True,Improved
+SPP1423,Counseling Session,2026-05-22,C07,True,Improved
+SPP1427,Attendance Monitoring,2026-04-06,C04,False,Improved
+SPP1427,Tutoring Program,2026-04-06,C11,False,Improved
+SPP1429,Attendance Monitoring,2026-01-04,C06,False,No Change
+SPP1429,Peer Mentoring,2026-05-26,C05,True,Improved
+SPP1429,Parent-Teacher Meeting,2026-03-26,C08,False,Improved
+SPP1433,Online Course Enrollment,2026-01-31,C08,False,No Change
+SPP1435,Online Course Enrollment,2026-03-10,C01,True,Declined
+SPP1436,Peer Mentoring,2026-01-18,C07,True,No Change
+SPP1436,Online Course Enrollment,2026-02-14,C01,False,No Change
+SPP1440,Parent-Teacher Meeting,2026-02-20,C01,False,No Change
+SPP1450,Attendance Monitoring,2026-05-20,C07,False,Improved
+SPP1450,Online Course Enrollment,2026-05-09,C08,True,No Change
+SPP1453,Tutoring Program,2026-02-18,C11,False,Improved
+SPP1454,Peer Mentoring,2026-03-23,C09,False,Improved
+SPP1454,Attendance Monitoring,2026-02-07,C09,True,Improved
+SPP1456,Tutoring Program,2026-04-27,C05,False,Improved
+SPP1460,Tutoring Program,2026-03-12,C11,False,No Change
+SPP1460,Tutoring Program,2026-04-11,C11,False,No Change
+SPP1460,Peer Mentoring,2026-03-22,C08,True,No Change
+SPP1461,Counseling Session,2026-02-06,C05,True,No Change
+SPP1463,Peer Mentoring,2026-01-28,C08,False,Improved
+SPP1463,Peer Mentoring,2026-01-06,C07,True,No Change
+SPP1463,Peer Mentoring,2026-02-04,C03,False,Improved
+SPP1464,Online Course Enrollment,2026-03-02,C03,False,Declined
+SPP1464,Online Course Enrollment,2026-05-29,C11,True,No Change
+SPP1472,Tutoring Program,2026-05-23,C08,False,No Change
+SPP1472,Counseling Session,2026-02-16,C04,False,Improved
+SPP1472,Online Course Enrollment,2026-04-13,C05,True,No Change
+SPP1479,Counseling Session,2026-01-06,C04,False,No Change
+SPP1479,Peer Mentoring,2026-05-21,C04,False,Improved
+SPP1480,Online Course Enrollment,2026-04-06,C04,False,No Change
+SPP1480,Attendance Monitoring,2026-04-24,C07,False,No Change
+SPP1482,Tutoring Program,2026-05-09,C06,False,No Change
+SPP1484,Attendance Monitoring,2026-03-31,C02,False,No Change
+SPP1485,Tutoring Program,2026-03-27,C01,False,Declined
+SPP1485,Parent-Teacher Meeting,2026-03-12,C09,False,Improved
+SPP1487,Parent-Teacher Meeting,2026-04-16,C06,False,No Change
+SPP1489,Peer Mentoring,2026-02-02,C11,True,No Change
+SPP1494,Tutoring Program,2026-05-18,C01,False,No Change
+SPP1496,Counseling Session,2026-04-20,C10,False,No Change
+SPP1496,Parent-Teacher Meeting,2026-02-15,C05,False,No Change
+SPP1498,Counseling Session,2026-01-20,C03,False,No Change
+SPP1498,Study Group Assignment,2026-03-01,C11,True,No Change

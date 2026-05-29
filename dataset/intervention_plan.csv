@@ -1,0 +1,347 @@
+student_id,first_name,last_name,current_gpa,risk_label,interventions
+SPP0001,Theodore,Jones,1.55,High Risk,Library Digital Access Pass; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0008,Sophia,Martin,1.57,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Structured Study Group Assignment; Academic Recovery Plan
+SPP0009,Avery,Martin,1.83,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0013,Harper,Miller,1.79,High Risk,Attendance Monitoring Program; Structured Study Group Assignment
+SPP0023,Owen,Brown,1.82,High Risk,Attendance Monitoring Program; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0029,Isabella,Jackson,0.56,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Academic Recovery Plan
+SPP0034,Isabella,Wilson,1.37,High Risk,Counseling / Mental Health Session; Library Digital Access Pass; Academic Recovery Plan
+SPP0035,Ella,Jones,0.99,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Free Tutoring Program Enrollment; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0036,Victoria,Lewis,1.82,High Risk,Library Digital Access Pass
+SPP0037,Jack,Robinson,1.79,High Risk,Library Digital Access Pass; Academic Recovery Plan
+SPP0051,Emily,Davis,1.76,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP0054,Elizabeth,Anderson,1.88,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0056,Scarlett,Smith,1.9,High Risk,Counseling / Mental Health Session; Free Tutoring Program Enrollment; Academic Recovery Plan
+SPP0057,Elijah,Thompson,1.83,High Risk,Library Digital Access Pass; Academic Recovery Plan
+SPP0058,Elijah,Harris,1.59,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP0060,Alexander,Garcia,1.83,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0062,Mason,Wilson,1.98,High Risk,Academic Recovery Plan
+SPP0063,Emma,White,1.73,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session
+SPP0067,Owen,Jones,1.56,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP0070,Evelyn,Wilson,1.33,High Risk,Counseling / Mental Health Session; Academic Recovery Plan
+SPP0074,Amelia,Garcia,1.69,High Risk,Attendance Monitoring Program; Library Digital Access Pass; Academic Recovery Plan
+SPP0078,Oliver,Jones,1.21,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP0082,Charlotte,White,1.81,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP0093,Ava,Smith,2.39,High Risk,Structured Study Group Assignment; Library Digital Access Pass
+SPP0097,Scarlett,Jackson,1.57,High Risk,Free Tutoring Program Enrollment; Academic Recovery Plan
+SPP0103,Jackson,Martin,1.49,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Academic Recovery Plan
+SPP0104,Abigail,Brown,1.84,High Risk,Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0105,Evelyn,Williams,1.66,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP0106,Jack,Martin,1.99,High Risk,Counseling / Mental Health Session; Library Digital Access Pass; Academic Recovery Plan
+SPP0113,Abigail,Robinson,1.26,High Risk,Counseling / Mental Health Session; Academic Recovery Plan
+SPP0119,Sofia,Thompson,1.82,High Risk,Attendance Monitoring Program; Structured Study Group Assignment
+SPP0120,Chloe,Anderson,1.8,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0124,Mason,Johnson,1.38,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0125,Mateo,Davis,1.56,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session
+SPP0128,Amelia,Davis,1.56,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Academic Recovery Plan
+SPP0130,Emma,Harris,1.96,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Library Digital Access Pass; Free Tutoring Program Enrollment
+SPP0132,Noah,Anderson,1.36,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0133,Logan,Miller,2.13,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0137,Evelyn,Thomas,1.25,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP0138,Charlotte,Wilson,1.67,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP0140,Elizabeth,Taylor,1.86,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP0141,Scarlett,Brown,1.15,High Risk,Library Digital Access Pass; Academic Recovery Plan
+SPP0147,Amelia,Johnson,1.45,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP0148,Grace,Davis,1.87,High Risk,Attendance Monitoring Program
+SPP0153,Liam,Jackson,1.77,High Risk,Counseling / Mental Health Session; Academic Recovery Plan
+SPP0157,Scarlett,Wilson,1.56,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0161,Aiden,Miller,1.63,High Risk,Structured Study Group Assignment; Library Digital Access Pass
+SPP0165,Mateo,Lewis,1.1,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0169,Theodore,Miller,1.91,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP0170,Emily,White,1.74,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP0179,Chloe,Robinson,1.66,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP0181,Ethan,Jackson,1.89,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0184,Emily,Taylor,2.46,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session
+SPP0187,Mia,Wilson,2.01,High Risk,Structured Study Group Assignment; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0188,Grace,Jones,1.89,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP0201,Elizabeth,Clark,1.51,High Risk,Library Digital Access Pass; Academic Recovery Plan
+SPP0218,Abigail,Martin,1.75,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0219,Emily,Clark,1.83,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP0223,Lucas,White,1.99,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0230,Ava,Harris,1.13,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP0232,Charlotte,Brown,2.07,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP0239,Olivia,Lewis,1.62,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Academic Recovery Plan
+SPP0243,Victoria,Garcia,1.72,High Risk,Library Digital Access Pass; Academic Recovery Plan
+SPP0247,James,Miller,1.84,High Risk,Structured Study Group Assignment; Free Tutoring Program Enrollment; Academic Recovery Plan
+SPP0251,Jack,Williams,1.93,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP0254,Alexander,Brown,1.98,High Risk,Attendance Monitoring Program; Structured Study Group Assignment
+SPP0261,Amelia,Jones,2.25,High Risk,Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0270,Alexander,Brown,1.76,High Risk,Attendance Monitoring Program; Library Digital Access Pass; Academic Recovery Plan
+SPP0271,Grace,Miller,1.65,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Academic Recovery Plan
+SPP0283,Samuel,Thompson,1.8,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP0288,Ava,Jones,1.89,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP0294,Theodore,Thompson,1.94,High Risk,Counseling / Mental Health Session; Academic Recovery Plan
+SPP0297,Isabella,Davis,1.87,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0298,Mason,Harris,1.81,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP0302,Charlotte,Harris,1.81,High Risk,Structured Study Group Assignment; Free Tutoring Program Enrollment
+SPP0307,Charlotte,Wilson,1.82,High Risk,Library Digital Access Pass; Sleep Hygiene Workshop
+SPP0313,Jack,Williams,1.83,High Risk,Counseling / Mental Health Session; Free Tutoring Program Enrollment
+SPP0315,Sophia,Thompson,1.86,High Risk,Attendance Monitoring Program; Library Digital Access Pass
+SPP0318,Lucas,Harris,0.73,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0325,Grace,Brown,1.57,High Risk,Counseling / Mental Health Session; Free Tutoring Program Enrollment; Academic Recovery Plan
+SPP0326,Elizabeth,Robinson,1.2,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP0332,Ava,Davis,1.85,High Risk,Library Digital Access Pass; Academic Recovery Plan
+SPP0335,Alexander,White,1.95,High Risk,Academic Recovery Plan
+SPP0337,Olivia,Brown,1.9,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0341,Amelia,Thompson,1.98,High Risk,Library Digital Access Pass; Academic Recovery Plan
+SPP0342,Noah,Davis,1.14,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Academic Recovery Plan
+SPP0343,Logan,Clark,1.76,High Risk,Academic Recovery Plan
+SPP0349,Asher,Jackson,1.93,High Risk,Attendance Monitoring Program; Library Digital Access Pass; Academic Recovery Plan
+SPP0352,Evelyn,Clark,1.55,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0355,Liam,Anderson,1.5,High Risk,Attendance Monitoring Program; Library Digital Access Pass; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0358,Abigail,Brown,1.62,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0359,Grace,Thomas,1.46,High Risk,Attendance Monitoring Program; Free Tutoring Program Enrollment; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0365,Scarlett,White,1.9,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0367,Scarlett,Robinson,1.92,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0374,Amelia,Davis,1.9,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Academic Recovery Plan
+SPP0377,Harper,Thomas,1.92,High Risk,Attendance Monitoring Program; Free Tutoring Program Enrollment
+SPP0381,Noah,Thompson,1.92,High Risk,Free Tutoring Program Enrollment; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0385,Amelia,White,1.72,High Risk,Library Digital Access Pass; Academic Recovery Plan
+SPP0396,Sophia,Brown,1.68,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0397,Sophia,Smith,1.97,High Risk,Counseling / Mental Health Session; Academic Recovery Plan
+SPP0400,Mia,Miller,1.91,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP0404,Amelia,Lewis,1.96,High Risk,Academic Recovery Plan
+SPP0405,Aiden,Robinson,1.96,High Risk,Academic Recovery Plan
+SPP0413,Isabella,Jones,1.64,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Sleep Hygiene Workshop
+SPP0415,Evelyn,Jones,1.76,High Risk,Attendance Monitoring Program; Library Digital Access Pass; Academic Recovery Plan
+SPP0418,Elijah,Wilson,1.62,High Risk,Attendance Monitoring Program; Library Digital Access Pass; Academic Recovery Plan
+SPP0420,Emily,Thompson,1.84,High Risk,Library Digital Access Pass; Academic Recovery Plan
+SPP0427,Elijah,Martin,1.78,High Risk,Free Tutoring Program Enrollment; Academic Recovery Plan
+SPP0430,Aiden,Garcia,1.65,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0440,Jack,Lewis,1.33,High Risk,Library Digital Access Pass; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0441,Asher,Williams,1.94,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Library Digital Access Pass; Academic Recovery Plan
+SPP0444,Asher,Johnson,1.79,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Academic Recovery Plan
+SPP0454,Charlotte,Brown,1.55,High Risk,Attendance Monitoring Program; Library Digital Access Pass; Academic Recovery Plan
+SPP0461,Owen,Clark,2.17,High Risk,Structured Study Group Assignment
+SPP0463,Grace,Brown,1.06,High Risk,Attendance Monitoring Program; Library Digital Access Pass; Academic Recovery Plan
+SPP0474,Emily,Clark,1.99,High Risk,Structured Study Group Assignment
+SPP0485,Ava,Thompson,1.96,High Risk,Attendance Monitoring Program; Free Tutoring Program Enrollment
+SPP0490,Abigail,Lewis,1.59,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP0491,Liam,Harris,1.77,High Risk,Structured Study Group Assignment; Free Tutoring Program Enrollment; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0501,Victoria,Lewis,1.74,High Risk,Counseling / Mental Health Session; Library Digital Access Pass
+SPP0508,Olivia,Harris,1.84,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Structured Study Group Assignment; Academic Recovery Plan
+SPP0510,Harper,White,1.81,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Academic Recovery Plan
+SPP0511,Ella,Jones,1.53,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Academic Recovery Plan
+SPP0517,Owen,Robinson,1.42,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP0519,Victoria,Smith,1.6,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP0527,Lucas,Clark,1.93,High Risk,Library Digital Access Pass; Academic Recovery Plan
+SPP0532,Scarlett,Taylor,1.88,High Risk,Academic Recovery Plan
+SPP0533,Charlotte,Garcia,1.85,High Risk,Counseling / Mental Health Session; Academic Recovery Plan
+SPP0535,Sofia,White,1.73,High Risk,Structured Study Group Assignment
+SPP0549,Emily,Robinson,1.81,High Risk,Library Digital Access Pass; Academic Recovery Plan
+SPP0552,Chloe,Garcia,1.9,High Risk,Structured Study Group Assignment; Library Digital Access Pass
+SPP0559,Victoria,Robinson,1.79,High Risk,Library Digital Access Pass
+SPP0575,Harper,Garcia,1.82,High Risk,Structured Study Group Assignment; Library Digital Access Pass
+SPP0581,Elijah,Miller,1.58,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0584,Mateo,Harris,1.0,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP0585,Harper,Lewis,1.8,High Risk,Structured Study Group Assignment; Free Tutoring Program Enrollment; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0604,Lucas,Martin,1.9,High Risk,Structured Study Group Assignment
+SPP0607,Mason,Wilson,1.28,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Library Digital Access Pass; Academic Recovery Plan
+SPP0610,Emma,Jackson,1.19,High Risk,Academic Recovery Plan
+SPP0622,Jack,Jones,1.72,High Risk,Library Digital Access Pass; Academic Recovery Plan
+SPP0624,Ella,White,1.81,High Risk,Counseling / Mental Health Session; Library Digital Access Pass; Academic Recovery Plan
+SPP0628,Mia,Jackson,1.91,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP0634,Victoria,Thomas,1.74,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP0638,Samuel,Anderson,1.62,High Risk,Structured Study Group Assignment; Sleep Hygiene Workshop
+SPP0650,Emily,White,0.75,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Structured Study Group Assignment; Library Digital Access Pass; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0653,Grace,Clark,1.6,High Risk,Counseling / Mental Health Session; Library Digital Access Pass; Academic Recovery Plan
+SPP0655,Noah,Davis,1.8,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment
+SPP0676,Mia,Jackson,1.41,High Risk,Counseling / Mental Health Session; Library Digital Access Pass; Academic Recovery Plan
+SPP0678,Lucas,Thompson,1.82,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP0682,Ethan,Jackson,1.88,High Risk,Counseling / Mental Health Session; Academic Recovery Plan
+SPP0685,Olivia,Williams,1.95,High Risk,Structured Study Group Assignment
+SPP0691,Mason,Thompson,1.8,High Risk,Library Digital Access Pass; Academic Recovery Plan
+SPP0696,Abigail,Martin,1.28,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP0700,Charlotte,Wilson,1.89,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment
+SPP0703,Jack,Clark,1.83,High Risk,Academic Recovery Plan
+SPP0709,Jack,Johnson,1.75,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP0714,Noah,Anderson,1.65,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP0718,Abigail,Clark,1.7,High Risk,Academic Recovery Plan
+SPP0729,Jackson,Thompson,1.41,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP0731,Elijah,Robinson,1.82,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0732,Amelia,Johnson,1.9,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Academic Recovery Plan
+SPP0733,Evelyn,Jackson,1.63,High Risk,Monitor Only
+SPP0734,Isabella,Jackson,1.61,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP0738,Avery,Williams,1.9,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Academic Recovery Plan
+SPP0740,Theodore,Williams,1.72,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP0747,Sebastian,Anderson,1.41,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP0749,Charlotte,Thompson,1.46,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0753,Ava,Martin,1.67,High Risk,Structured Study Group Assignment; Free Tutoring Program Enrollment
+SPP0754,Samuel,Brown,1.2,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP0756,Amelia,Wilson,1.91,High Risk,Attendance Monitoring Program; Free Tutoring Program Enrollment; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0758,Emma,Martin,1.6,High Risk,Counseling / Mental Health Session; Library Digital Access Pass; Academic Recovery Plan
+SPP0760,Amelia,Miller,1.97,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0761,Ethan,Lewis,1.6,High Risk,Counseling / Mental Health Session; Library Digital Access Pass; Academic Recovery Plan
+SPP0765,Oliver,Clark,1.9,High Risk,Academic Recovery Plan
+SPP0767,Sofia,Miller,1.23,High Risk,Structured Study Group Assignment; Free Tutoring Program Enrollment; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0778,Isabella,Taylor,1.15,High Risk,Counseling / Mental Health Session; Academic Recovery Plan
+SPP0789,Alexander,Thomas,1.42,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0791,Samuel,Harris,1.84,High Risk,Counseling / Mental Health Session; Academic Recovery Plan
+SPP0797,Avery,Clark,1.56,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP0806,Ava,Jackson,1.96,High Risk,Counseling / Mental Health Session; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0808,Olivia,Jackson,1.84,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP0809,Logan,Brown,2.04,High Risk,Library Digital Access Pass; Academic Recovery Plan
+SPP0812,Grace,Miller,1.8,High Risk,Attendance Monitoring Program; Library Digital Access Pass; Academic Recovery Plan
+SPP0813,Jackson,Harris,1.71,High Risk,Free Tutoring Program Enrollment; Academic Recovery Plan
+SPP0819,Owen,Lewis,1.61,High Risk,Library Digital Access Pass; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0821,Emma,Smith,1.37,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP0822,Alexander,Davis,1.17,High Risk,Attendance Monitoring Program; Library Digital Access Pass; Academic Recovery Plan
+SPP0823,Theodore,Smith,1.93,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Academic Recovery Plan
+SPP0825,Olivia,Garcia,1.3,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP0826,Ava,Williams,1.74,High Risk,Library Digital Access Pass; Academic Recovery Plan
+SPP0838,Lucas,Garcia,1.57,High Risk,Academic Recovery Plan
+SPP0844,Isabella,Garcia,1.86,High Risk,Counseling / Mental Health Session; Library Digital Access Pass; Free Tutoring Program Enrollment; Academic Recovery Plan
+SPP0849,Ava,Taylor,1.85,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Academic Recovery Plan
+SPP0853,Henry,Harris,1.64,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP0856,Liam,Thompson,1.93,High Risk,Structured Study Group Assignment
+SPP0862,Noah,Martin,1.54,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP0868,Jack,Brown,1.95,High Risk,Structured Study Group Assignment; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0871,Henry,Williams,1.7,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Academic Recovery Plan
+SPP0874,Noah,Jones,1.61,High Risk,Counseling / Mental Health Session; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0876,Henry,Clark,1.79,High Risk,Structured Study Group Assignment; Free Tutoring Program Enrollment; Academic Recovery Plan
+SPP0880,Mason,Johnson,1.39,High Risk,Structured Study Group Assignment; Free Tutoring Program Enrollment; Academic Recovery Plan
+SPP0881,Jack,Taylor,1.6,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP0893,Victoria,Robinson,1.98,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session
+SPP0895,Harper,Thompson,1.73,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP0897,Logan,Lewis,1.29,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP0898,Sofia,Garcia,2.04,High Risk,Library Digital Access Pass; Free Tutoring Program Enrollment; Academic Recovery Plan
+SPP0900,Oliver,Anderson,1.06,High Risk,Counseling / Mental Health Session; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0902,Aiden,Robinson,1.4,High Risk,Counseling / Mental Health Session; Library Digital Access Pass; Academic Recovery Plan
+SPP0903,Liam,Robinson,1.88,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0906,Evelyn,Jones,1.69,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP0907,Ella,Wilson,1.8,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0913,Sofia,Brown,1.34,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP0915,Sophia,Harris,1.49,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Free Tutoring Program Enrollment; Academic Recovery Plan
+SPP0922,Evelyn,White,1.92,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP0928,Emma,Anderson,1.47,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP0934,Emily,Williams,1.92,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Free Tutoring Program Enrollment
+SPP0939,Henry,Thompson,1.25,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP0941,Aiden,Johnson,1.86,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Library Digital Access Pass
+SPP0942,Chloe,Brown,1.39,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0944,Victoria,Davis,1.95,High Risk,Counseling / Mental Health Session; Academic Recovery Plan
+SPP0945,Henry,Thomas,1.31,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP0951,Ava,Thompson,1.62,High Risk,Library Digital Access Pass; Academic Recovery Plan
+SPP0957,Amelia,Miller,1.17,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0961,Asher,Martin,1.85,High Risk,Structured Study Group Assignment; Free Tutoring Program Enrollment
+SPP0972,Sofia,White,1.5,High Risk,Counseling / Mental Health Session; Academic Recovery Plan
+SPP0975,Mateo,Thomas,1.74,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP0980,Scarlett,White,1.83,High Risk,Counseling / Mental Health Session; Library Digital Access Pass; Academic Recovery Plan
+SPP0981,Jack,Anderson,1.36,High Risk,Structured Study Group Assignment; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP0995,Logan,Williams,1.3,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP1014,Aiden,Garcia,1.25,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP1018,Ella,Jones,1.41,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP1022,Ethan,White,0.96,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Structured Study Group Assignment; Academic Recovery Plan
+SPP1028,Avery,Taylor,1.97,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Sleep Hygiene Workshop
+SPP1029,Alexander,Taylor,1.69,High Risk,Attendance Monitoring Program; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP1030,Grace,Johnson,1.37,High Risk,Counseling / Mental Health Session; Academic Recovery Plan
+SPP1036,Grace,Thomas,1.91,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP1042,Scarlett,Harris,1.88,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP1052,Olivia,Wilson,1.44,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Sleep Hygiene Workshop
+SPP1056,Elijah,Clark,1.64,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP1057,Sofia,Miller,1.99,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP1058,Samuel,Williams,1.06,High Risk,Attendance Monitoring Program; Free Tutoring Program Enrollment; Academic Recovery Plan
+SPP1060,Evelyn,Robinson,1.78,High Risk,Counseling / Mental Health Session; Academic Recovery Plan
+SPP1062,Ava,Miller,1.11,High Risk,Counseling / Mental Health Session; Library Digital Access Pass; Academic Recovery Plan
+SPP1063,Victoria,Brown,1.6,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP1070,Liam,Garcia,1.62,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP1079,Ethan,Garcia,1.42,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP1082,Jackson,Jackson,1.81,High Risk,Attendance Monitoring Program; Library Digital Access Pass; Academic Recovery Plan
+SPP1084,Isabella,Martin,1.58,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP1086,Mateo,Davis,1.81,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP1089,Emily,White,1.7,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Academic Recovery Plan
+SPP1093,Emily,Thomas,1.87,High Risk,Library Digital Access Pass
+SPP1102,Olivia,Jackson,1.84,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Library Digital Access Pass
+SPP1104,Charlotte,Robinson,1.96,High Risk,Counseling / Mental Health Session
+SPP1110,Alexander,Brown,1.61,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP1117,Jackson,Robinson,1.86,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Academic Recovery Plan
+SPP1118,Scarlett,Jackson,1.42,High Risk,Library Digital Access Pass; Academic Recovery Plan
+SPP1127,Lucas,Martin,1.52,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Library Digital Access Pass; Free Tutoring Program Enrollment; Academic Recovery Plan
+SPP1128,James,Johnson,1.65,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP1131,Elizabeth,Miller,1.55,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP1135,Harper,Robinson,1.79,High Risk,Attendance Monitoring Program; Library Digital Access Pass; Academic Recovery Plan
+SPP1136,Mateo,Jackson,1.84,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP1149,Sophia,Smith,1.73,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP1155,Scarlett,Williams,1.91,High Risk,Structured Study Group Assignment; Sleep Hygiene Workshop
+SPP1159,Scarlett,Wilson,1.8,High Risk,Attendance Monitoring Program; Library Digital Access Pass; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP1162,Oliver,Smith,1.87,High Risk,Structured Study Group Assignment; Free Tutoring Program Enrollment; Academic Recovery Plan
+SPP1163,Ethan,Jackson,1.9,High Risk,Structured Study Group Assignment; Free Tutoring Program Enrollment; Academic Recovery Plan
+SPP1167,Elizabeth,Thomas,1.88,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP1169,Mateo,Anderson,1.97,High Risk,Attendance Monitoring Program
+SPP1177,Sofia,Smith,1.9,High Risk,Counseling / Mental Health Session; Library Digital Access Pass
+SPP1179,Emily,Garcia,1.75,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Academic Recovery Plan
+SPP1181,Charlotte,Garcia,1.6,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Academic Recovery Plan
+SPP1201,Scarlett,Johnson,1.74,High Risk,Counseling / Mental Health Session; Library Digital Access Pass; Academic Recovery Plan
+SPP1202,Ethan,Garcia,1.82,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP1213,Asher,Wilson,1.87,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Free Tutoring Program Enrollment
+SPP1214,Victoria,Brown,1.9,High Risk,Attendance Monitoring Program; Library Digital Access Pass; Academic Recovery Plan
+SPP1218,Mia,White,1.58,High Risk,Attendance Monitoring Program
+SPP1221,Chloe,Taylor,1.97,High Risk,Structured Study Group Assignment; Library Digital Access Pass
+SPP1224,Emily,Davis,1.5,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Library Digital Access Pass; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP1226,Mia,Thomas,1.54,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP1231,Avery,Garcia,1.55,High Risk,Counseling / Mental Health Session; Academic Recovery Plan
+SPP1233,Henry,Wilson,1.78,High Risk,Library Digital Access Pass; Free Tutoring Program Enrollment; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP1234,Samuel,Harris,1.27,High Risk,Counseling / Mental Health Session; Library Digital Access Pass; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP1236,Henry,Thomas,2.16,High Risk,Counseling / Mental Health Session; Academic Recovery Plan
+SPP1239,Chloe,Johnson,1.91,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Academic Recovery Plan
+SPP1241,Avery,Taylor,1.84,High Risk,Monitor Only
+SPP1243,Charlotte,Lewis,1.23,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Library Digital Access Pass; Academic Recovery Plan
+SPP1247,Logan,Williams,1.89,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP1249,Victoria,Williams,1.98,High Risk,Attendance Monitoring Program
+SPP1253,Asher,Williams,1.6,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP1257,Lucas,Harris,1.68,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP1282,Charlotte,Anderson,1.41,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP1284,James,Thomas,1.91,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Academic Recovery Plan
+SPP1295,Emma,Thompson,1.5,High Risk,Structured Study Group Assignment; Free Tutoring Program Enrollment; Academic Recovery Plan
+SPP1298,Liam,Jones,1.75,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Library Digital Access Pass
+SPP1306,Harper,Johnson,1.99,High Risk,Attendance Monitoring Program
+SPP1309,Noah,Clark,1.41,High Risk,Attendance Monitoring Program; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP1310,Sofia,Anderson,1.73,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP1320,Asher,Lewis,1.71,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Academic Recovery Plan
+SPP1330,Charlotte,Harris,2.29,High Risk,Academic Recovery Plan
+SPP1332,Amelia,Garcia,1.95,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Academic Recovery Plan
+SPP1336,Emma,Davis,1.9,High Risk,Structured Study Group Assignment
+SPP1338,Evelyn,Thompson,1.46,High Risk,Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP1340,Henry,Jackson,1.61,High Risk,Counseling / Mental Health Session; Library Digital Access Pass; Academic Recovery Plan
+SPP1342,Asher,Garcia,1.77,High Risk,Monitor Only
+SPP1345,Isabella,White,1.95,High Risk,Academic Recovery Plan
+SPP1352,Sofia,Davis,1.59,High Risk,Attendance Monitoring Program; Free Tutoring Program Enrollment; Academic Recovery Plan
+SPP1369,Asher,Thompson,1.44,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP1372,Asher,Jackson,1.37,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP1375,Logan,Harris,1.61,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Library Digital Access Pass; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP1376,Mia,Clark,1.67,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP1383,Evelyn,Clark,1.46,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP1384,Liam,Lewis,1.92,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP1385,Emily,Brown,1.79,High Risk,Counseling / Mental Health Session
+SPP1388,Samuel,Thomas,1.97,High Risk,Attendance Monitoring Program; Academic Recovery Plan
+SPP1390,Henry,Thompson,1.6,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Academic Recovery Plan
+SPP1394,Mia,Smith,1.78,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment
+SPP1396,Emily,Brown,1.69,High Risk,Counseling / Mental Health Session; Academic Recovery Plan
+SPP1402,Owen,Harris,1.38,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Library Digital Access Pass; Academic Recovery Plan
+SPP1404,Elizabeth,Brown,1.96,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Free Tutoring Program Enrollment
+SPP1411,Owen,Johnson,1.8,High Risk,Academic Recovery Plan
+SPP1412,Logan,Williams,1.83,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP1415,Chloe,Anderson,1.43,High Risk,Counseling / Mental Health Session; Library Digital Access Pass; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP1422,Charlotte,Thomas,1.82,High Risk,Academic Recovery Plan
+SPP1423,Logan,Clark,1.94,High Risk,Counseling / Mental Health Session; Academic Recovery Plan
+SPP1427,Samuel,Williams,1.29,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Academic Recovery Plan
+SPP1433,Evelyn,Miller,1.96,High Risk,Attendance Monitoring Program; Structured Study Group Assignment
+SPP1435,Samuel,Anderson,1.11,High Risk,Structured Study Group Assignment; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP1436,Ethan,Jackson,1.88,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Library Digital Access Pass
+SPP1440,Ella,Thomas,1.27,High Risk,Attendance Monitoring Program; Library Digital Access Pass; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP1450,Olivia,Lewis,1.66,High Risk,Attendance Monitoring Program; Structured Study Group Assignment; Library Digital Access Pass
+SPP1452,Amelia,Martin,2.19,High Risk,Attendance Monitoring Program; Structured Study Group Assignment
+SPP1453,Charlotte,Williams,1.83,High Risk,Structured Study Group Assignment; Free Tutoring Program Enrollment; Academic Recovery Plan
+SPP1454,Isabella,Taylor,1.92,High Risk,Counseling / Mental Health Session; Structured Study Group Assignment; Library Digital Access Pass; Sleep Hygiene Workshop; Academic Recovery Plan
+SPP1456,Ava,Anderson,1.75,High Risk,Counseling / Mental Health Session; Library Digital Access Pass
+SPP1460,Amelia,Thompson,1.6,High Risk,Counseling / Mental Health Session; Library Digital Access Pass; Academic Recovery Plan
+SPP1461,James,Wilson,1.83,High Risk,Academic Recovery Plan
+SPP1463,Jackson,Jones,1.71,High Risk,Free Tutoring Program Enrollment; Academic Recovery Plan
+SPP1464,Ava,Garcia,1.49,High Risk,Attendance Monitoring Program; Structured Study Group Assignment
+SPP1472,Elizabeth,Williams,1.63,High Risk,Library Digital Access Pass
+SPP1480,Noah,Wilson,1.86,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP1482,Owen,Clark,1.68,High Risk,Library Digital Access Pass; Academic Recovery Plan
+SPP1484,Asher,Jones,1.8,High Risk,Academic Recovery Plan
+SPP1487,Jackson,Johnson,1.48,High Risk,Structured Study Group Assignment; Academic Recovery Plan
+SPP1489,Lucas,Martin,1.5,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Academic Recovery Plan
+SPP1494,Asher,White,1.83,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Academic Recovery Plan
+SPP1496,Emily,White,1.94,High Risk,Attendance Monitoring Program; Counseling / Mental Health Session; Academic Recovery Plan

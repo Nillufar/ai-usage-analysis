@@ -1,0 +1,1501 @@
+student_id,first_name,last_name,gender,school_level,internet_access,parent_education,family_income,num_siblings,distance_to_school_km,daily_study_hours,tutoring_sessions_per_month,uses_online_resources,attendance_rate_pct,sleep_hours,stress_level,physical_activity_days_per_week,mental_health_support,prev_semester_gpa,current_gpa,performance_tier,dropout_risk
+SPP0001,Theodore,Jones,Male,Middle School,False,Graduate,Low,1,3.3,2.5,5,False,75.1,5.2,Moderate,4,True,1.62,1.55,D,High Risk
+SPP0002,Olivia,Garcia,Female,Middle School,True,Bachelor,Middle,1,0.5,3.0,4,False,76.7,7.7,High,0,True,2.1,2.0,C,Moderate Risk
+SPP0003,Mia,Miller,Female,Preparatory,True,High School,High,0,9.3,2.6,2,False,88.3,8.1,Low,3,False,2.11,2.15,C,Moderate Risk
+SPP0004,Emily,Smith,Female,Preparatory,True,Graduate,Middle,1,6.3,3.7,3,True,97.1,7.7,Low,6,True,3.44,3.19,B,Low Risk
+SPP0005,Ethan,Miller,Male,High School,False,No Diploma,Middle,2,14.4,5.3,3,True,73.5,6.5,Moderate,2,False,2.04,1.97,D,High Risk
+SPP0006,Liam,Lewis,Male,Middle School,True,Associate,High,1,5.9,2.3,1,True,78.1,7.0,Low,7,False,2.48,2.24,C,Moderate Risk
+SPP0007,Theodore,Thomas,Male,Middle School,True,Graduate,High,3,14.1,5.0,1,False,76.2,6.5,Moderate,1,False,3.59,3.31,B,Low Risk
+SPP0008,Sophia,Martin,Female,Middle School,True,Bachelor,Middle,1,4.0,2.3,2,False,55.9,6.8,High,1,False,1.7,1.57,D,High Risk
+SPP0009,Avery,Martin,Female,Middle School,True,Associate,Low,3,4.6,2.2,2,False,86.7,6.0,Low,4,False,1.98,1.83,D,High Risk
+SPP0010,Emily,Anderson,Female,Preparatory,False,High School,High,3,18.9,4.7,1,True,96.2,7.1,Moderate,2,False,1.81,2.11,C,Moderate Risk
+SPP0011,Oliver,Brown,Male,Middle School,False,High School,Low,2,5.1,4.9,5,False,97.2,5.7,Moderate,0,True,2.04,2.21,C,Moderate Risk
+SPP0012,Avery,Jackson,Female,High School,True,Associate,Middle,1,0.5,4.8,4,True,74.6,7.0,Low,7,False,3.03,2.78,C,Moderate Risk
+SPP0013,Harper,Miller,Female,Middle School,True,High School,Middle,1,6.4,1.5,1,False,70.0,6.0,Moderate,4,False,2.22,1.79,D,High Risk
+SPP0014,Theodore,Brown,Male,Preparatory,True,Graduate,Middle,4,11.8,2.8,3,True,85.3,7.4,High,5,False,1.87,2.45,C,Moderate Risk
+SPP0015,Lucas,Harris,Male,High School,True,Graduate,Middle,4,7.9,4.7,3,True,95.0,6.5,Moderate,1,True,2.41,2.58,C,Moderate Risk
+SPP0016,Jack,Clark,Male,Preparatory,True,Graduate,Middle,0,4.4,3.6,4,True,86.9,7.5,Moderate,7,True,3.43,3.42,B,Low Risk
+SPP0017,Samuel,Wilson,Male,High School,True,Associate,High,3,5.6,1.9,1,True,88.5,8.3,High,5,False,2.24,2.5,C,Moderate Risk
+SPP0018,Emily,Anderson,Female,High School,True,Bachelor,Low,2,23.1,4.2,1,True,98.7,8.8,High,7,True,2.46,2.71,C,Moderate Risk
+SPP0019,Jackson,Davis,Male,Middle School,True,Graduate,Middle,4,0.5,2.4,2,False,76.1,4.7,Low,2,False,2.32,2.18,C,Moderate Risk
+SPP0020,Mateo,Smith,Male,High School,True,Graduate,Middle,1,5.5,6.2,1,True,82.4,6.4,Moderate,3,True,3.6,3.13,B,Low Risk
+SPP0021,Harper,Davis,Female,High School,True,Associate,High,0,1.7,5.8,1,True,100.0,6.9,Moderate,7,False,2.3,2.91,B,Low Risk
+SPP0022,Theodore,Jackson,Male,High School,True,High School,Low,2,5.1,4.4,0,True,82.6,7.7,Moderate,7,False,2.4,2.45,C,Moderate Risk
+SPP0023,Owen,Brown,Male,Middle School,True,No Diploma,Low,1,4.7,5.5,2,True,69.8,5.5,Moderate,5,True,1.96,1.82,D,High Risk
+SPP0024,Owen,Davis,Male,Middle School,True,Associate,Low,1,0.8,3.6,2,False,77.0,6.2,Low,6,True,2.64,2.41,C,Moderate Risk
+SPP0025,Oliver,Williams,Male,High School,True,Bachelor,Low,3,1.2,4.6,1,True,73.7,7.3,Moderate,0,False,2.18,2.08,C,Moderate Risk
+SPP0026,Harper,Wilson,Female,High School,False,Bachelor,High,3,4.9,5.7,1,True,89.3,7.3,Moderate,6,True,3.36,2.83,B,Low Risk
+SPP0027,Henry,Johnson,Male,High School,False,High School,Middle,4,0.7,3.9,3,False,74.2,7.6,Moderate,1,False,2.43,2.42,C,Moderate Risk
+SPP0028,Avery,Johnson,Female,Middle School,True,High School,Middle,4,1.5,3.1,2,False,88.3,7.6,High,6,False,2.95,2.56,C,Moderate Risk
+SPP0029,Isabella,Jackson,Female,High School,True,High School,Middle,1,9.0,0.9,1,True,76.2,7.5,High,2,True,0.5,0.56,F,High Risk
+SPP0030,Mateo,Harris,Male,Middle School,False,High School,Middle,1,2.0,3.4,1,False,59.5,7.4,Moderate,7,False,2.06,2.04,C,Moderate Risk
+SPP0031,Chloe,Thomas,Female,Middle School,True,High School,Low,4,3.3,4.7,1,False,88.7,7.3,Moderate,3,False,1.95,2.31,C,Moderate Risk
+SPP0032,Liam,Brown,Male,High School,True,Bachelor,Middle,4,14.2,4.9,2,False,86.8,7.9,Moderate,1,False,2.78,2.51,C,Moderate Risk
+SPP0033,Jack,Davis,Male,Middle School,False,Associate,Middle,1,1.3,4.3,4,True,91.2,5.0,Moderate,3,True,1.99,2.03,C,Moderate Risk
+SPP0034,Isabella,Wilson,Female,Middle School,False,Bachelor,Low,2,2.5,2.7,1,False,76.9,8.7,High,1,False,1.48,1.37,F,High Risk
+SPP0035,Ella,Jones,Female,High School,False,High School,Middle,1,4.7,0.5,0,True,75.6,5.0,Moderate,4,False,0.9,0.99,F,High Risk
+SPP0036,Victoria,Lewis,Female,Middle School,False,High School,Middle,2,7.0,2.8,1,True,89.8,6.1,Low,6,False,2.0,1.82,D,High Risk
+SPP0037,Jack,Robinson,Male,Middle School,False,Associate,Low,2,11.6,3.0,2,True,100.0,7.0,Moderate,4,True,1.91,1.79,D,High Risk
+SPP0038,Owen,Anderson,Male,Middle School,True,Graduate,Low,1,12.4,3.0,0,True,85.1,7.9,Moderate,4,True,1.8,2.1,C,Moderate Risk
+SPP0039,Ava,Harris,Female,Middle School,True,No Diploma,Middle,0,7.5,4.4,3,False,90.1,4.2,Moderate,2,False,1.77,2.05,C,Moderate Risk
+SPP0040,Aiden,Wilson,Male,Middle School,True,Bachelor,Low,4,1.3,6.5,1,True,81.1,7.2,Moderate,7,False,2.96,2.97,B,Low Risk
+SPP0041,Theodore,Thompson,Male,High School,True,High School,High,3,0.5,3.7,1,True,66.5,8.0,Low,4,False,2.88,2.68,C,Moderate Risk
+SPP0042,Abigail,Thomas,Female,Middle School,True,Graduate,Low,1,2.4,3.2,7,True,96.6,8.2,Low,2,True,3.56,3.0,B,Low Risk
+SPP0043,Oliver,Miller,Male,Middle School,True,Bachelor,Middle,2,0.8,3.1,1,True,95.9,6.5,Moderate,0,False,2.15,2.06,C,Moderate Risk
+SPP0044,Grace,Taylor,Female,High School,True,High School,High,1,6.2,3.7,1,False,93.5,6.9,Moderate,4,False,3.02,2.72,C,Moderate Risk
+SPP0045,Liam,Taylor,Male,High School,True,Bachelor,High,4,5.4,2.3,0,True,82.8,6.6,Low,2,False,1.71,2.19,C,Moderate Risk
+SPP0046,Scarlett,Jackson,Female,Preparatory,True,High School,High,2,0.5,3.7,5,True,92.2,6.8,High,7,True,3.54,2.94,B,Low Risk
+SPP0047,Mateo,Clark,Male,High School,True,Graduate,Middle,3,9.1,4.2,1,False,95.7,6.2,Moderate,1,False,2.48,2.3,C,Moderate Risk
+SPP0048,Isabella,Anderson,Female,High School,True,Associate,Middle,3,1.4,3.8,2,False,100.0,6.3,High,2,False,2.16,2.17,C,Moderate Risk
+SPP0049,Harper,Jackson,Female,High School,True,Associate,Middle,3,2.8,4.2,0,True,96.9,7.6,Low,5,True,2.75,2.8,B,Low Risk
+SPP0050,Mason,Davis,Male,High School,True,Bachelor,Low,0,5.5,4.2,2,True,85.8,7.3,Low,2,False,2.53,2.86,B,Low Risk
+SPP0051,Emily,Davis,Female,High School,True,Bachelor,Low,2,2.8,0.8,2,False,69.3,7.7,Moderate,6,False,1.51,1.76,D,High Risk
+SPP0052,Abigail,Brown,Female,Middle School,True,High School,High,2,2.9,4.5,4,False,86.9,7.4,Low,5,False,3.54,2.97,B,Low Risk
+SPP0053,Charlotte,Harris,Female,Middle School,True,Bachelor,Middle,0,0.5,2.5,2,False,88.1,7.9,High,1,False,2.42,2.72,C,Moderate Risk
+SPP0054,Elizabeth,Anderson,Female,Middle School,True,High School,Middle,2,2.6,1.9,2,False,93.5,8.1,Low,7,False,1.58,1.88,D,High Risk
+SPP0055,Charlotte,Anderson,Female,Preparatory,True,High School,High,0,7.2,1.8,2,False,100.0,5.5,Moderate,6,True,1.8,2.01,C,Moderate Risk
+SPP0056,Scarlett,Smith,Female,High School,True,Bachelor,Middle,1,12.3,4.2,0,False,83.9,6.3,High,2,True,1.54,1.9,D,High Risk
+SPP0057,Elijah,Thompson,Male,High School,False,High School,Middle,4,2.7,3.2,5,False,100.0,7.0,Moderate,6,False,1.83,1.83,D,High Risk
+SPP0058,Elijah,Harris,Male,High School,True,High School,Middle,3,2.8,1.0,1,True,63.9,7.2,Low,7,True,1.92,1.59,D,High Risk
+SPP0059,Oliver,Lewis,Male,High School,True,Bachelor,Low,0,6.1,4.2,6,True,90.0,6.5,Moderate,1,False,2.67,2.85,B,Low Risk
+SPP0060,Alexander,Garcia,Male,Middle School,True,High School,Middle,0,14.3,1.3,3,True,75.4,8.1,Moderate,6,False,1.42,1.83,D,High Risk
+SPP0061,Oliver,Harris,Male,Middle School,True,Bachelor,High,0,1.6,3.7,3,True,62.1,9.2,Low,5,True,2.84,2.75,C,Moderate Risk
+SPP0062,Mason,Wilson,Male,Preparatory,True,High School,High,1,2.9,3.9,2,False,82.6,7.4,Moderate,3,False,1.96,1.98,D,High Risk
+SPP0063,Emma,White,Female,High School,True,No Diploma,High,0,7.9,4.8,1,False,67.5,7.3,High,4,False,2.03,1.73,D,High Risk
+SPP0064,Sebastian,Robinson,Male,High School,True,High School,Middle,4,4.7,6.2,5,False,83.1,8.0,High,5,True,2.52,2.66,C,Moderate Risk
+SPP0065,Mateo,Thompson,Male,Preparatory,True,Bachelor,High,4,0.6,1.5,0,False,85.4,5.3,Low,7,False,2.44,2.52,C,Moderate Risk
+SPP0066,Abigail,Robinson,Female,Middle School,True,Bachelor,Low,3,4.9,3.4,2,True,98.4,7.2,Low,0,False,2.1,2.14,C,Moderate Risk
+SPP0067,Owen,Jones,Male,Preparatory,True,No Diploma,Low,1,1.0,3.1,3,False,66.9,8.2,Low,2,False,1.59,1.56,D,High Risk
+SPP0068,Elizabeth,Lewis,Female,High School,True,No Diploma,Middle,4,3.6,4.2,1,True,95.9,6.6,Moderate,6,False,2.54,2.66,C,Moderate Risk
+SPP0069,Logan,Lewis,Male,High School,False,Graduate,Middle,2,3.8,3.8,2,True,86.2,6.0,Moderate,1,True,2.01,2.18,C,Moderate Risk
+SPP0070,Evelyn,Wilson,Female,High School,True,No Diploma,Middle,2,10.4,3.0,1,True,97.3,7.0,High,4,True,0.77,1.33,F,High Risk
+SPP0071,Avery,Anderson,Female,Middle School,True,Graduate,Middle,2,3.1,2.8,2,False,79.8,7.1,Moderate,7,True,2.67,2.84,B,Low Risk
+SPP0072,Elijah,Smith,Male,Middle School,True,High School,Low,0,1.6,1.8,1,True,69.0,6.3,Low,6,False,2.21,2.0,C,Moderate Risk
+SPP0073,Elijah,Robinson,Male,High School,True,Bachelor,Middle,0,1.3,5.0,1,False,70.4,9.3,Moderate,2,False,3.12,2.86,B,Low Risk
+SPP0074,Amelia,Garcia,Female,Preparatory,False,High School,Middle,2,10.4,4.2,4,True,69.5,6.7,Low,4,True,1.55,1.69,D,High Risk
+SPP0075,Ella,Johnson,Female,High School,True,Graduate,Middle,3,0.9,4.9,3,True,90.7,6.0,Low,3,False,3.92,3.53,A,Low Risk
+SPP0076,Scarlett,Harris,Female,Middle School,False,Bachelor,Low,3,2.8,3.0,3,True,100.0,7.1,Low,2,True,2.19,2.2,C,Moderate Risk
+SPP0077,Sophia,White,Female,High School,True,Associate,Middle,0,1.0,2.5,1,True,78.2,8.1,Low,6,True,1.88,2.28,C,Moderate Risk
+SPP0078,Oliver,Jones,Male,Middle School,False,No Diploma,Middle,2,7.4,1.9,1,False,92.5,7.2,Moderate,1,False,0.71,1.21,F,High Risk
+SPP0079,Samuel,Garcia,Male,Middle School,True,Bachelor,Middle,3,3.2,4.0,3,True,66.7,7.7,Moderate,3,True,3.1,2.73,C,Moderate Risk
+SPP0080,Henry,Garcia,Male,High School,False,Bachelor,Middle,0,2.2,1.9,5,False,87.2,6.3,Low,2,False,1.95,2.06,C,Moderate Risk
+SPP0081,Isabella,Robinson,Female,High School,True,No Diploma,Middle,2,2.2,6.3,1,False,93.0,8.7,High,4,True,2.31,2.67,C,Moderate Risk
+SPP0082,Charlotte,White,Female,Middle School,True,No Diploma,High,1,9.6,1.5,5,False,67.6,7.8,Moderate,6,False,1.13,1.81,D,High Risk
+SPP0083,Elijah,Taylor,Male,Middle School,True,Bachelor,Low,2,4.0,3.9,1,True,82.6,8.2,Low,3,False,2.47,2.59,C,Moderate Risk
+SPP0084,Samuel,White,Male,Preparatory,True,High School,Middle,2,6.3,5.9,2,False,93.6,7.6,Low,1,False,2.76,2.64,C,Moderate Risk
+SPP0085,Henry,Jackson,Male,Middle School,False,Bachelor,Middle,4,11.4,4.4,2,True,49.8,8.0,Moderate,2,False,2.3,2.51,C,Moderate Risk
+SPP0086,Oliver,Williams,Male,High School,True,Associate,Middle,4,11.6,3.8,1,True,100.0,6.3,High,4,False,1.73,2.05,C,Moderate Risk
+SPP0087,Abigail,Garcia,Female,High School,True,Graduate,Low,1,2.0,2.0,2,True,89.2,6.7,Moderate,6,False,2.3,2.46,C,Moderate Risk
+SPP0088,Emma,Davis,Female,Middle School,True,Graduate,Low,1,15.2,1.4,2,False,93.6,8.5,High,4,False,2.61,2.24,C,Moderate Risk
+SPP0089,Grace,Thomas,Female,Middle School,True,Graduate,Middle,2,0.5,4.7,2,True,80.0,8.8,Moderate,7,False,2.96,3.38,B,Low Risk
+SPP0090,Ethan,Jackson,Male,High School,True,High School,High,3,2.4,5.8,2,True,64.3,6.1,Moderate,5,False,2.85,3.04,B,Low Risk
+SPP0091,Owen,Anderson,Male,High School,True,Graduate,Middle,1,11.3,2.8,3,True,91.4,7.4,Moderate,3,False,2.99,2.63,C,Moderate Risk
+SPP0092,Scarlett,Thomas,Female,High School,True,High School,Middle,2,1.6,1.8,0,True,84.0,6.8,Moderate,6,True,2.31,2.16,C,Moderate Risk
+SPP0093,Ava,Smith,Female,High School,False,Associate,High,0,1.6,0.5,4,True,85.4,6.5,Moderate,2,False,2.44,2.39,C,Moderate Risk
+SPP0094,Emily,Thompson,Female,Preparatory,True,Associate,Low,4,1.8,2.0,1,False,98.1,7.5,High,5,False,1.81,2.0,C,Moderate Risk
+SPP0095,Olivia,Martin,Female,High School,True,No Diploma,High,3,4.7,3.3,0,True,94.1,8.3,Low,4,False,2.22,2.21,C,Moderate Risk
+SPP0096,Emma,Anderson,Female,High School,True,Graduate,Middle,2,2.9,5.9,1,False,100.0,7.7,Moderate,3,True,2.93,3.09,B,Low Risk
+SPP0097,Scarlett,Jackson,Female,High School,True,No Diploma,Middle,0,6.5,4.5,0,False,86.8,6.9,Moderate,0,True,1.31,1.57,D,High Risk
+SPP0098,Theodore,Robinson,Male,High School,True,Bachelor,High,4,11.3,4.0,1,False,76.7,7.7,Moderate,6,True,2.49,2.81,B,Low Risk
+SPP0099,Ethan,Anderson,Male,High School,True,Bachelor,High,0,5.6,2.9,1,True,82.7,6.8,Low,4,False,3.27,3.03,B,Low Risk
+SPP0100,Owen,Thomas,Male,High School,True,Bachelor,High,2,1.1,2.6,2,True,90.0,7.6,Moderate,3,True,2.63,2.65,C,Moderate Risk
+SPP0101,Noah,Garcia,Male,High School,True,High School,Low,1,13.5,5.6,2,True,97.2,8.6,Moderate,0,False,2.38,2.29,C,Moderate Risk
+SPP0102,Charlotte,Wilson,Female,Middle School,False,Associate,High,4,1.5,3.8,0,True,67.4,5.1,Moderate,6,True,2.38,2.33,C,Moderate Risk
+SPP0103,Jackson,Martin,Male,High School,True,Bachelor,High,0,0.8,0.5,2,False,85.1,8.0,High,3,True,1.62,1.49,F,High Risk
+SPP0104,Abigail,Brown,Female,Middle School,True,High School,Middle,1,0.5,2.5,2,True,100.0,5.7,Moderate,4,False,1.76,1.84,D,High Risk
+SPP0105,Evelyn,Williams,Female,Middle School,False,Associate,Low,3,4.1,2.2,3,False,82.1,8.4,Moderate,0,False,1.52,1.66,D,High Risk
+SPP0106,Jack,Martin,Male,Middle School,False,High School,Low,2,0.6,2.7,5,False,96.2,6.6,High,7,True,1.75,1.99,D,High Risk
+SPP0107,Mateo,Thomas,Male,High School,True,Associate,High,2,0.7,4.3,2,True,90.9,6.0,High,6,False,2.43,2.85,B,Low Risk
+SPP0108,Olivia,Anderson,Female,High School,True,Graduate,Middle,4,1.8,3.3,1,False,96.5,7.9,Low,3,True,2.49,2.83,B,Low Risk
+SPP0109,Noah,Jones,Male,Middle School,True,Associate,Middle,0,1.7,3.4,2,True,75.3,7.6,Low,2,True,2.85,2.96,B,Low Risk
+SPP0110,Mason,Robinson,Male,High School,False,Associate,Middle,3,4.6,5.5,0,True,75.3,6.2,Moderate,0,False,1.7,2.18,C,Moderate Risk
+SPP0111,Samuel,Clark,Male,High School,False,Associate,Middle,4,8.5,2.5,5,False,85.2,5.9,Moderate,3,False,1.84,2.25,C,Moderate Risk
+SPP0112,Noah,Garcia,Male,Middle School,True,Associate,Middle,4,7.2,6.3,1,False,66.6,7.0,High,2,False,2.88,2.57,C,Moderate Risk
+SPP0113,Abigail,Robinson,Female,High School,True,No Diploma,Middle,0,1.5,2.5,1,True,81.8,6.0,High,7,False,1.33,1.26,F,High Risk
+SPP0114,Charlotte,Garcia,Female,High School,True,High School,High,3,1.4,3.6,1,True,88.0,6.1,High,0,False,2.05,2.19,C,Moderate Risk
+SPP0115,Evelyn,Brown,Female,High School,False,Associate,Middle,0,16.9,3.1,2,True,100.0,7.3,Low,3,True,3.82,3.14,B,Low Risk
+SPP0116,Scarlett,Thomas,Female,High School,True,Bachelor,Middle,2,0.5,3.7,1,True,89.8,6.2,Moderate,4,True,1.92,2.41,C,Moderate Risk
+SPP0117,Harper,Clark,Female,High School,True,Associate,Middle,1,10.6,4.2,3,False,92.5,7.6,Low,0,True,2.8,2.51,C,Moderate Risk
+SPP0118,Mason,Johnson,Male,Middle School,False,High School,Low,2,1.1,4.2,4,False,99.0,8.7,Low,0,False,2.46,2.49,C,Moderate Risk
+SPP0119,Sofia,Thompson,Female,Middle School,True,High School,Middle,2,14.7,2.4,2,False,73.4,7.1,Moderate,6,True,2.06,1.82,D,High Risk
+SPP0120,Chloe,Anderson,Female,Middle School,True,High School,Middle,4,2.1,1.8,2,False,83.0,7.3,Low,2,True,1.83,1.8,D,High Risk
+SPP0121,Isabella,Anderson,Female,Preparatory,True,Graduate,Low,2,2.9,7.3,2,True,100.0,9.2,Moderate,5,False,2.92,3.48,B,Low Risk
+SPP0122,Mia,Martin,Female,Middle School,True,Associate,High,3,6.1,2.8,2,True,84.1,6.0,Moderate,6,True,2.96,2.93,B,Low Risk
+SPP0123,Elijah,Johnson,Male,Middle School,True,No Diploma,Middle,2,4.4,4.5,1,True,98.4,8.4,High,5,True,2.45,2.35,C,Moderate Risk
+SPP0124,Mason,Johnson,Male,Preparatory,True,No Diploma,Low,3,1.9,1.1,2,False,96.6,8.3,Low,3,True,0.72,1.38,F,High Risk
+SPP0125,Mateo,Davis,Male,Preparatory,True,Graduate,Low,0,4.0,3.1,2,False,67.3,8.1,High,4,True,2.14,1.56,D,High Risk
+SPP0126,Jack,Jackson,Male,High School,False,High School,Middle,4,6.6,3.3,2,False,88.7,8.5,High,2,False,2.69,2.6,C,Moderate Risk
+SPP0127,Isabella,Taylor,Female,Middle School,True,Bachelor,High,3,0.5,4.2,5,True,86.8,7.5,High,0,False,2.94,2.74,C,Moderate Risk
+SPP0128,Amelia,Davis,Female,Middle School,True,No Diploma,Middle,2,0.5,0.5,2,True,89.0,6.6,High,5,True,1.21,1.56,D,High Risk
+SPP0129,Ethan,Brown,Male,High School,True,Graduate,Middle,4,3.1,3.7,3,False,76.0,8.3,Moderate,2,True,2.52,2.31,C,Moderate Risk
+SPP0130,Emma,Harris,Female,Middle School,False,Graduate,Middle,4,0.7,1.8,0,True,71.6,8.3,Moderate,2,False,2.29,1.96,D,High Risk
+SPP0131,Oliver,Smith,Male,Middle School,False,Associate,Middle,3,5.5,4.0,2,False,79.3,8.3,Moderate,6,False,2.8,2.72,C,Moderate Risk
+SPP0132,Noah,Anderson,Male,High School,True,No Diploma,Low,3,1.2,1.9,2,True,83.8,7.2,Moderate,2,False,1.36,1.36,F,High Risk
+SPP0133,Logan,Miller,Male,Preparatory,True,High School,Low,1,2.8,2.2,1,True,99.2,6.5,Moderate,0,False,1.86,2.13,C,Moderate Risk
+SPP0134,Aiden,Thompson,Male,High School,True,Associate,Middle,1,1.1,3.1,2,False,100.0,7.4,High,6,True,1.97,2.03,C,Moderate Risk
+SPP0135,Emma,Lewis,Female,High School,True,Associate,Low,4,4.0,1.9,1,True,100.0,8.1,Moderate,1,False,2.66,2.81,B,Low Risk
+SPP0136,Lucas,Robinson,Male,High School,True,High School,Low,1,0.6,2.8,2,False,95.3,8.2,Low,2,False,2.58,2.41,C,Moderate Risk
+SPP0137,Evelyn,Thomas,Female,Middle School,False,No Diploma,High,2,0.5,1.7,4,False,72.9,6.8,Moderate,1,True,1.0,1.25,F,High Risk
+SPP0138,Charlotte,Wilson,Female,High School,False,Associate,Low,0,0.5,0.8,3,True,80.1,7.5,Low,5,False,1.84,1.67,D,High Risk
+SPP0139,Oliver,Jones,Male,Middle School,True,Associate,Middle,4,15.4,5.0,1,False,87.5,5.9,Moderate,4,True,2.14,2.39,C,Moderate Risk
+SPP0140,Elizabeth,Taylor,Female,Middle School,False,High School,Middle,0,0.8,1.6,3,True,77.4,8.2,Low,6,True,1.78,1.86,D,High Risk
+SPP0141,Scarlett,Brown,Female,High School,False,No Diploma,Middle,1,6.2,3.2,3,True,91.9,6.4,Moderate,5,False,1.33,1.15,F,High Risk
+SPP0142,Liam,Jones,Male,Middle School,True,Graduate,Middle,3,0.5,4.6,4,False,93.6,8.0,High,6,False,2.72,2.93,B,Low Risk
+SPP0143,Sophia,Taylor,Female,Preparatory,True,Associate,Low,4,0.6,2.6,3,True,91.4,6.1,Moderate,4,True,2.37,2.17,C,Moderate Risk
+SPP0144,Sebastian,Anderson,Male,Middle School,False,Bachelor,Middle,1,3.6,2.3,1,True,97.3,8.2,Low,4,False,2.8,2.63,C,Moderate Risk
+SPP0145,Aiden,Taylor,Male,High School,True,Associate,Middle,2,3.1,3.8,2,False,74.1,7.5,Moderate,6,False,2.11,2.19,C,Moderate Risk
+SPP0146,Lucas,Davis,Male,High School,False,No Diploma,Middle,4,15.1,5.2,2,True,96.2,6.4,Low,5,True,2.53,2.18,C,Moderate Risk
+SPP0147,Amelia,Johnson,Female,Middle School,False,High School,Low,4,14.5,1.7,2,False,76.7,7.9,Moderate,3,False,1.47,1.45,F,High Risk
+SPP0148,Grace,Davis,Female,Middle School,True,High School,High,3,7.6,3.3,3,False,73.7,6.6,Moderate,7,False,2.2,1.87,D,High Risk
+SPP0149,Noah,Martin,Male,High School,False,Bachelor,Low,4,4.6,0.9,2,True,91.4,7.9,High,0,False,2.17,1.63,D,High Risk
+SPP0150,Sebastian,Jones,Male,Preparatory,True,Bachelor,Middle,3,3.0,2.9,0,True,99.6,6.9,Low,1,False,2.01,2.08,C,Moderate Risk
+SPP0151,Ava,Williams,Female,Preparatory,True,High School,Middle,1,2.2,3.6,1,True,90.9,5.5,Moderate,3,False,2.8,2.61,C,Moderate Risk
+SPP0152,Lucas,Thomas,Male,High School,True,Graduate,Low,2,14.7,2.2,1,True,85.2,6.2,High,1,False,1.95,2.14,C,Moderate Risk
+SPP0153,Liam,Jackson,Male,High School,True,High School,Middle,2,4.6,2.8,1,False,88.7,6.8,High,6,True,1.46,1.77,D,High Risk
+SPP0154,Emily,Jackson,Female,High School,True,Graduate,Middle,4,4.3,1.4,1,False,86.6,8.6,Low,0,False,2.46,2.52,C,Moderate Risk
+SPP0155,Olivia,Taylor,Female,High School,True,Graduate,High,4,1.3,3.6,3,True,71.5,8.1,Moderate,6,True,2.49,2.9,B,Low Risk
+SPP0156,Lucas,Brown,Male,High School,True,High School,High,1,0.5,5.1,0,True,70.1,8.8,Low,2,True,2.2,2.48,C,Moderate Risk
+SPP0157,Scarlett,Wilson,Female,High School,True,High School,Middle,3,14.5,1.9,2,False,84.1,8.9,Moderate,6,True,1.74,1.56,D,High Risk
+SPP0158,Ava,Johnson,Female,Preparatory,True,Associate,Middle,2,1.9,2.6,1,True,86.0,6.7,Low,5,False,2.37,2.52,C,Moderate Risk
+SPP0159,Liam,Clark,Male,High School,True,Bachelor,Low,3,2.9,4.3,2,False,85.1,7.0,High,3,True,2.25,2.04,C,Moderate Risk
+SPP0160,Victoria,Smith,Female,Preparatory,False,Associate,Middle,1,0.6,5.3,1,False,93.1,6.8,Low,6,False,3.13,3.04,B,Low Risk
+SPP0161,Aiden,Miller,Male,High School,False,Graduate,Low,2,9.1,1.3,1,True,82.4,6.5,Moderate,0,False,2.19,1.63,D,High Risk
+SPP0162,Emily,Thompson,Female,Middle School,True,Bachelor,Middle,2,0.5,3.2,1,True,91.8,5.4,Moderate,5,True,2.42,2.26,C,Moderate Risk
+SPP0163,Isabella,Williams,Female,Middle School,False,High School,Middle,0,9.0,3.9,2,False,83.3,7.2,High,3,False,2.76,2.43,C,Moderate Risk
+SPP0164,Sophia,Lewis,Female,High School,True,High School,Middle,1,0.8,3.3,2,True,100.0,5.9,Moderate,6,False,2.81,2.69,C,Moderate Risk
+SPP0165,Mateo,Lewis,Male,High School,True,Bachelor,Middle,1,10.9,0.5,2,True,86.0,7.2,Low,4,False,1.19,1.1,F,High Risk
+SPP0166,Avery,Williams,Female,Preparatory,True,High School,High,0,6.5,4.3,2,False,100.0,9.3,Low,6,True,3.43,3.08,B,Low Risk
+SPP0167,Theodore,Williams,Male,Middle School,True,Bachelor,Middle,3,0.9,5.8,1,False,89.2,6.7,Low,7,False,2.9,2.7,C,Moderate Risk
+SPP0168,Elijah,Thompson,Male,Preparatory,False,High School,High,0,4.2,3.7,1,True,82.4,7.4,High,3,False,1.94,1.88,D,High Risk
+SPP0169,Theodore,Miller,Male,Preparatory,True,High School,Middle,1,1.9,2.0,2,True,74.2,8.1,Moderate,2,False,1.97,1.91,D,High Risk
+SPP0170,Emily,White,Female,Middle School,True,No Diploma,Middle,3,1.0,2.7,2,True,67.7,7.5,Moderate,2,True,1.9,1.74,D,High Risk
+SPP0171,Scarlett,Thompson,Female,Preparatory,True,Bachelor,Middle,2,9.8,6.2,3,True,73.1,7.5,Low,1,False,2.89,3.09,B,Low Risk
+SPP0172,Theodore,Robinson,Male,Preparatory,True,High School,Low,0,2.6,4.9,2,True,74.4,6.8,High,7,False,2.34,2.55,C,Moderate Risk
+SPP0173,Emily,Jackson,Female,High School,True,Bachelor,High,3,2.5,4.5,1,True,89.7,7.0,Moderate,3,True,3.56,3.13,B,Low Risk
+SPP0174,Aiden,Lewis,Male,High School,True,Associate,Middle,3,0.9,4.0,2,True,78.7,6.2,High,6,True,3.03,2.47,C,Moderate Risk
+SPP0175,Victoria,Lewis,Female,Preparatory,True,Bachelor,High,3,2.4,2.5,2,True,87.2,8.0,Moderate,4,False,2.47,2.75,C,Moderate Risk
+SPP0176,Noah,Robinson,Male,High School,True,Associate,Middle,0,10.3,3.2,2,True,100.0,5.5,Moderate,6,True,2.76,2.96,B,Low Risk
+SPP0177,Ella,Brown,Female,High School,True,No Diploma,High,2,2.3,3.4,2,True,83.9,8.2,Moderate,2,False,2.51,2.17,C,Moderate Risk
+SPP0178,Mateo,Smith,Male,Preparatory,True,Bachelor,Middle,3,15.1,4.3,2,True,100.0,5.8,Low,7,True,3.15,2.99,B,Low Risk
+SPP0179,Chloe,Robinson,Female,High School,True,No Diploma,Middle,0,14.6,5.8,1,True,70.9,8.2,Moderate,1,False,1.86,1.66,D,High Risk
+SPP0180,Aiden,Smith,Male,High School,True,Associate,Middle,1,0.8,5.2,0,False,83.2,6.8,Moderate,6,True,3.19,2.92,B,Low Risk
+SPP0181,Ethan,Jackson,Male,Middle School,True,High School,Middle,0,1.0,1.4,1,True,78.5,6.0,Low,4,False,1.82,1.89,D,High Risk
+SPP0182,Alexander,Lewis,Male,High School,True,Bachelor,Middle,0,9.9,3.8,5,False,96.2,7.8,Low,4,False,4.0,3.9,A,Low Risk
+SPP0183,Amelia,Lewis,Female,Middle School,False,Graduate,Low,0,2.5,4.6,4,False,58.1,8.1,Low,6,False,2.29,2.21,C,Moderate Risk
+SPP0184,Emily,Taylor,Female,Preparatory,True,Associate,High,3,0.5,4.4,3,True,67.7,6.8,High,4,False,2.2,2.46,C,Moderate Risk
+SPP0185,James,Anderson,Male,High School,False,Associate,Middle,0,1.6,2.6,2,False,83.7,7.9,Low,0,True,2.28,2.19,C,Moderate Risk
+SPP0186,Victoria,Wilson,Female,Middle School,True,Bachelor,High,1,4.6,7.9,2,True,100.0,4.9,Moderate,2,True,3.59,3.22,B,Low Risk
+SPP0187,Mia,Wilson,Female,High School,True,No Diploma,High,3,8.0,1.6,2,True,87.7,5.9,Low,0,False,1.91,2.01,C,Moderate Risk
+SPP0188,Grace,Jones,Female,Middle School,False,Graduate,Middle,1,0.7,1.9,2,True,68.8,8.5,Moderate,0,False,1.94,1.89,D,High Risk
+SPP0189,Amelia,Smith,Female,High School,True,High School,High,4,0.6,3.9,0,True,70.6,7.0,Moderate,2,False,2.24,2.18,C,Moderate Risk
+SPP0190,Mason,Thompson,Male,Preparatory,True,Graduate,Middle,0,12.8,6.7,1,True,100.0,5.3,High,3,False,3.37,3.46,B,Low Risk
+SPP0191,James,Johnson,Male,Preparatory,True,Bachelor,High,3,7.0,2.2,1,True,77.5,6.5,Low,5,False,2.44,2.24,C,Moderate Risk
+SPP0192,Ella,Jackson,Female,Middle School,True,Bachelor,Middle,3,4.5,3.1,0,False,73.7,6.3,Moderate,1,False,1.87,2.07,C,Moderate Risk
+SPP0193,Emily,Wilson,Female,Middle School,True,Bachelor,Middle,0,7.3,5.1,4,False,100.0,7.0,Moderate,7,True,3.98,3.58,A,Low Risk
+SPP0194,Mia,Brown,Female,Preparatory,False,Associate,Middle,2,2.8,3.5,2,True,97.1,6.8,High,6,False,2.26,2.07,C,Moderate Risk
+SPP0195,Alexander,Jones,Male,Preparatory,True,Associate,Middle,2,7.1,3.0,0,True,100.0,7.4,Low,7,False,2.42,2.7,C,Moderate Risk
+SPP0196,Liam,Anderson,Male,High School,True,No Diploma,Middle,1,2.3,4.3,2,True,73.6,7.1,Low,5,False,3.43,2.92,B,Low Risk
+SPP0197,Sofia,Clark,Female,High School,False,Bachelor,Middle,0,1.4,3.9,0,True,66.7,8.6,Moderate,5,True,2.38,2.33,C,Moderate Risk
+SPP0198,Isabella,Williams,Female,High School,False,Bachelor,Middle,0,6.5,5.0,3,False,86.6,7.6,Low,5,True,2.4,2.62,C,Moderate Risk
+SPP0199,Emma,Thomas,Female,Preparatory,True,Graduate,High,4,2.7,5.4,2,True,89.0,7.7,Low,5,True,4.0,3.74,A,Low Risk
+SPP0200,Grace,Clark,Female,High School,True,Associate,Middle,2,19.9,4.0,1,True,89.4,8.4,Moderate,2,False,2.61,2.46,C,Moderate Risk
+SPP0201,Elizabeth,Clark,Female,Middle School,False,No Diploma,Middle,2,2.1,3.9,1,False,100.0,6.8,Moderate,5,False,0.98,1.51,D,High Risk
+SPP0202,Liam,Jackson,Male,Middle School,True,High School,Middle,0,12.7,3.8,3,False,64.2,5.9,Moderate,1,True,2.12,2.28,C,Moderate Risk
+SPP0203,Logan,Miller,Male,Preparatory,True,Bachelor,Middle,1,13.5,4.2,3,True,95.3,8.4,Moderate,6,False,2.8,2.72,C,Moderate Risk
+SPP0204,Olivia,Harris,Female,Middle School,False,High School,High,0,1.4,3.6,3,True,71.8,7.3,Moderate,3,False,2.25,2.9,B,Low Risk
+SPP0205,Evelyn,Miller,Female,High School,True,High School,Middle,1,8.0,3.5,0,True,95.3,7.3,Moderate,2,False,2.28,2.25,C,Moderate Risk
+SPP0206,James,Davis,Male,High School,True,Bachelor,Low,2,2.8,5.3,0,True,79.3,6.6,Moderate,5,True,3.26,3.21,B,Low Risk
+SPP0207,Jackson,Jones,Male,Middle School,True,Associate,Middle,4,12.5,5.8,3,True,75.2,6.6,Moderate,4,False,1.96,2.32,C,Moderate Risk
+SPP0208,Ava,White,Female,Middle School,True,Associate,Middle,3,3.0,1.2,3,True,77.7,8.0,Low,6,False,2.65,2.57,C,Moderate Risk
+SPP0209,Alexander,Brown,Male,Preparatory,False,High School,High,2,6.8,3.5,1,False,67.7,8.2,Low,2,True,2.25,2.25,C,Moderate Risk
+SPP0210,Oliver,Taylor,Male,Preparatory,True,Bachelor,Middle,1,3.1,2.5,4,True,85.5,8.0,Moderate,3,False,2.41,2.77,C,Moderate Risk
+SPP0211,Grace,Lewis,Female,Preparatory,True,High School,High,0,1.3,3.0,0,True,75.7,8.0,Moderate,5,False,2.93,2.65,C,Moderate Risk
+SPP0212,Mia,Harris,Female,Preparatory,True,Bachelor,Middle,2,1.1,4.1,1,True,94.4,7.8,High,0,True,2.66,2.41,C,Moderate Risk
+SPP0213,Ava,Robinson,Female,High School,True,No Diploma,High,4,2.8,4.5,3,True,92.7,7.3,Moderate,2,True,2.08,2.17,C,Moderate Risk
+SPP0214,Jackson,Lewis,Male,Preparatory,True,Graduate,Low,1,7.0,3.3,2,True,100.0,7.0,Low,6,False,2.83,2.89,B,Low Risk
+SPP0215,Avery,Jackson,Female,High School,True,Associate,High,0,4.6,0.6,2,True,89.4,8.4,Low,6,True,2.81,2.59,C,Moderate Risk
+SPP0216,Ethan,Davis,Male,High School,True,Associate,High,3,5.8,2.1,1,True,91.2,6.8,Low,4,True,2.39,2.45,C,Moderate Risk
+SPP0217,Alexander,Wilson,Male,Preparatory,False,Bachelor,High,1,1.7,4.8,4,True,100.0,7.6,Moderate,6,False,2.66,3.24,B,Low Risk
+SPP0218,Abigail,Martin,Female,Middle School,True,Bachelor,Low,0,3.3,0.5,2,True,77.5,6.4,Moderate,2,False,1.9,1.75,D,High Risk
+SPP0219,Emily,Clark,Female,High School,True,High School,Low,3,0.5,5.3,2,True,67.1,6.5,Moderate,0,False,1.59,1.83,D,High Risk
+SPP0220,Avery,Martin,Female,High School,False,Bachelor,Middle,0,8.5,4.3,1,True,87.4,7.0,Moderate,2,False,2.39,2.51,C,Moderate Risk
+SPP0221,Scarlett,Miller,Female,Middle School,True,High School,Low,3,23.0,5.5,4,True,67.9,6.4,High,4,True,2.56,2.12,C,Moderate Risk
+SPP0222,Abigail,White,Female,Middle School,True,Graduate,Low,3,2.6,3.2,5,True,100.0,8.0,High,3,False,2.45,2.49,C,Moderate Risk
+SPP0223,Lucas,White,Male,Preparatory,False,Bachelor,Low,3,0.5,0.5,2,True,100.0,5.9,Moderate,4,False,1.99,1.99,D,High Risk
+SPP0224,Samuel,Brown,Male,Preparatory,True,High School,Middle,0,0.9,4.1,2,False,100.0,7.3,High,3,False,2.35,2.2,C,Moderate Risk
+SPP0225,Mateo,Harris,Male,High School,True,Bachelor,Middle,3,5.3,5.4,0,False,85.7,7.3,Moderate,4,False,2.77,2.62,C,Moderate Risk
+SPP0226,Noah,Williams,Male,Middle School,True,High School,Low,1,4.7,4.9,3,True,91.6,5.4,High,1,True,1.97,2.25,C,Moderate Risk
+SPP0227,Abigail,Jones,Female,Middle School,True,High School,Low,4,7.8,2.5,2,False,79.5,6.8,High,2,False,2.01,2.03,C,Moderate Risk
+SPP0228,Jack,Smith,Male,Preparatory,False,Graduate,Middle,4,1.5,3.6,5,True,95.6,7.5,High,7,True,2.75,2.74,C,Moderate Risk
+SPP0229,Mia,Williams,Female,High School,True,Bachelor,Middle,3,7.2,2.7,6,False,70.4,7.6,Moderate,6,False,2.6,2.52,C,Moderate Risk
+SPP0230,Ava,Harris,Female,High School,False,Associate,Low,4,5.8,2.3,3,True,54.5,7.0,High,2,True,1.22,1.13,F,High Risk
+SPP0231,Ella,Davis,Female,High School,False,High School,Middle,4,1.9,4.9,3,True,75.5,7.9,Moderate,0,True,2.97,2.19,C,Moderate Risk
+SPP0232,Charlotte,Brown,Female,High School,True,High School,High,3,3.9,1.7,3,True,67.5,7.1,Low,1,False,1.72,2.07,C,Moderate Risk
+SPP0233,Victoria,Johnson,Female,High School,True,Graduate,High,3,0.8,2.2,2,True,100.0,7.2,Moderate,0,False,3.12,2.83,B,Low Risk
+SPP0234,Sofia,Taylor,Female,Preparatory,True,High School,High,1,3.0,1.8,3,False,100.0,7.5,High,2,False,2.52,2.16,C,Moderate Risk
+SPP0235,Logan,Brown,Male,High School,True,High School,High,2,10.7,1.3,2,True,68.2,8.1,Low,0,False,2.58,2.43,C,Moderate Risk
+SPP0236,Avery,Williams,Female,High School,True,Associate,Middle,0,2.7,3.7,0,True,100.0,6.5,Moderate,3,False,2.26,2.46,C,Moderate Risk
+SPP0237,Noah,Johnson,Male,High School,False,Associate,Middle,3,9.1,5.2,2,True,96.4,6.7,Moderate,1,False,2.56,2.06,C,Moderate Risk
+SPP0238,Liam,Thompson,Male,High School,False,Associate,Middle,3,4.5,3.2,2,True,66.2,6.5,Moderate,6,False,2.06,2.72,C,Moderate Risk
+SPP0239,Olivia,Lewis,Female,High School,True,High School,Middle,4,1.1,1.2,2,True,80.3,6.9,High,4,True,1.42,1.62,D,High Risk
+SPP0240,Noah,Jackson,Male,Middle School,True,High School,Middle,1,4.4,4.8,2,True,78.0,8.6,High,3,False,3.18,2.83,B,Low Risk
+SPP0241,Grace,Jones,Female,High School,False,High School,Middle,4,3.5,6.0,1,True,94.0,7.8,Moderate,5,False,3.06,3.17,B,Low Risk
+SPP0242,Sofia,Wilson,Female,Middle School,True,Graduate,Middle,3,2.5,2.5,2,False,70.3,6.1,Low,4,False,3.0,2.52,C,Moderate Risk
+SPP0243,Victoria,Garcia,Female,Preparatory,False,High School,Low,3,0.6,2.8,5,True,83.8,6.6,Moderate,0,False,1.27,1.72,D,High Risk
+SPP0244,Samuel,Jones,Male,High School,True,Bachelor,Middle,4,2.7,4.3,1,True,76.8,7.6,Moderate,2,False,2.29,2.62,C,Moderate Risk
+SPP0245,Elijah,Taylor,Male,Preparatory,True,Bachelor,Low,3,0.5,5.9,0,True,90.7,6.3,Moderate,3,False,2.22,2.38,C,Moderate Risk
+SPP0246,Olivia,Davis,Female,Middle School,False,Bachelor,Middle,2,0.5,2.7,2,False,82.4,6.5,Low,1,False,2.77,2.64,C,Moderate Risk
+SPP0247,James,Miller,Male,High School,True,Graduate,Low,0,2.7,1.5,0,True,78.6,8.5,Moderate,4,False,1.77,1.84,D,High Risk
+SPP0248,Isabella,Miller,Female,High School,False,High School,Middle,0,1.8,4.4,3,True,82.4,6.6,Moderate,5,False,2.04,2.19,C,Moderate Risk
+SPP0249,Sofia,Garcia,Female,High School,False,High School,Low,0,13.0,4.7,2,False,100.0,8.2,Moderate,3,True,2.83,2.4,C,Moderate Risk
+SPP0250,Emma,Lewis,Female,High School,True,Associate,High,2,2.4,3.5,3,True,80.0,8.5,Moderate,6,False,3.22,2.77,C,Moderate Risk
+SPP0251,Jack,Williams,Male,High School,True,High School,Middle,3,7.1,2.7,4,True,72.5,6.5,Moderate,6,False,1.81,1.93,D,High Risk
+SPP0252,Theodore,Clark,Male,High School,False,Bachelor,Middle,4,3.8,5.0,1,True,92.0,6.3,Low,2,True,2.59,3.1,B,Low Risk
+SPP0253,Sofia,Harris,Female,Middle School,False,Bachelor,Middle,1,6.1,4.3,1,False,83.3,6.9,High,1,False,1.68,2.33,C,Moderate Risk
+SPP0254,Alexander,Brown,Male,Middle School,True,Graduate,Middle,3,1.5,2.3,1,False,68.0,6.1,Moderate,1,False,2.05,1.98,D,High Risk
+SPP0255,Noah,Thomas,Male,High School,False,No Diploma,Middle,2,14.2,3.6,2,False,100.0,7.3,Low,4,False,2.21,2.01,C,Moderate Risk
+SPP0256,Ava,Garcia,Female,High School,True,Graduate,Middle,2,3.8,1.5,1,True,80.8,7.0,Moderate,3,False,2.51,2.49,C,Moderate Risk
+SPP0257,Evelyn,Clark,Female,Middle School,True,High School,Middle,0,8.9,4.5,3,True,80.5,7.6,High,3,True,2.22,2.24,C,Moderate Risk
+SPP0258,Mia,Brown,Female,Middle School,False,Associate,High,3,2.3,3.1,4,True,86.9,8.6,High,7,False,2.75,2.99,B,Low Risk
+SPP0259,Elizabeth,Harris,Female,Middle School,True,Associate,High,0,0.5,2.8,2,False,100.0,8.0,Moderate,1,True,2.88,2.68,C,Moderate Risk
+SPP0260,Liam,Wilson,Male,High School,False,Bachelor,Middle,1,5.6,3.5,3,False,64.8,7.7,Low,6,True,3.08,2.58,C,Moderate Risk
+SPP0261,Amelia,Jones,Female,High School,True,Associate,Low,0,0.5,3.6,1,True,88.3,5.2,Moderate,7,False,1.58,2.25,C,Moderate Risk
+SPP0262,Olivia,Jackson,Female,Preparatory,True,Graduate,Middle,1,3.2,4.8,1,False,100.0,7.6,High,0,True,2.76,2.78,C,Moderate Risk
+SPP0263,Oliver,Robinson,Male,Preparatory,True,Graduate,Middle,2,1.1,4.4,4,True,86.5,8.9,Moderate,1,True,3.06,3.35,B,Low Risk
+SPP0264,Avery,Jones,Female,High School,True,Graduate,Middle,0,4.9,3.3,3,True,70.2,4.2,High,2,False,2.22,2.67,C,Moderate Risk
+SPP0265,Isabella,Martin,Female,Middle School,True,No Diploma,High,0,19.4,4.6,1,True,77.6,7.9,Low,3,False,2.63,2.97,B,Low Risk
+SPP0266,Elizabeth,Clark,Female,Middle School,True,Graduate,Middle,4,3.1,4.1,3,True,87.5,7.0,Low,6,False,3.43,3.32,B,Low Risk
+SPP0267,Emily,White,Female,Middle School,True,Bachelor,High,2,8.5,2.9,2,True,100.0,6.4,High,4,False,2.98,2.86,B,Low Risk
+SPP0268,Elizabeth,Martin,Female,Preparatory,True,High School,Low,4,3.5,3.3,2,True,80.9,8.0,Moderate,7,False,2.57,2.13,C,Moderate Risk
+SPP0269,Jack,Harris,Male,High School,True,High School,Low,1,3.4,3.3,4,False,94.9,8.9,Low,3,True,2.66,2.66,C,Moderate Risk
+SPP0270,Alexander,Brown,Male,Middle School,False,High School,Middle,1,13.3,4.3,2,False,67.8,8.0,Moderate,6,False,1.23,1.76,D,High Risk
+SPP0271,Grace,Miller,Female,High School,True,No Diploma,High,2,11.0,2.9,2,False,67.7,6.8,High,1,False,1.58,1.65,D,High Risk
+SPP0272,Mia,Martin,Female,High School,True,Associate,High,1,7.7,2.9,4,False,79.2,6.3,Low,2,True,2.19,2.61,C,Moderate Risk
+SPP0273,Harper,Davis,Female,High School,True,Graduate,Middle,2,1.8,6.5,4,True,100.0,7.3,Low,0,False,2.61,2.97,B,Low Risk
+SPP0274,Olivia,Thompson,Female,Middle School,True,Associate,Middle,1,3.9,4.9,2,True,85.8,8.1,Low,6,False,3.2,3.03,B,Low Risk
+SPP0275,Chloe,Martin,Female,Preparatory,True,Associate,Middle,3,1.3,2.4,1,False,88.5,6.8,High,6,True,2.25,2.19,C,Moderate Risk
+SPP0276,Chloe,Taylor,Female,High School,True,Graduate,High,0,2.9,4.4,1,True,88.3,6.9,High,3,True,3.0,2.82,B,Low Risk
+SPP0277,Sophia,Taylor,Female,Middle School,True,High School,High,3,3.3,3.7,2,False,98.3,10.0,Moderate,1,True,2.84,2.95,B,Low Risk
+SPP0278,Chloe,Johnson,Female,Preparatory,True,Graduate,Middle,2,8.9,4.1,2,False,77.7,8.3,Moderate,5,False,2.53,2.29,C,Moderate Risk
+SPP0279,Olivia,Wilson,Female,Middle School,False,Associate,Middle,2,11.3,3.7,2,False,93.3,8.4,Moderate,1,False,1.94,2.06,C,Moderate Risk
+SPP0280,Abigail,Thompson,Female,Preparatory,True,Associate,Low,3,2.7,5.3,2,True,75.0,5.7,Low,1,False,3.09,2.75,C,Moderate Risk
+SPP0281,Olivia,Anderson,Female,Preparatory,True,High School,Middle,0,0.5,4.0,2,True,100.0,6.5,High,2,False,2.53,2.43,C,Moderate Risk
+SPP0282,Jackson,Taylor,Male,High School,True,Associate,Middle,0,9.9,3.4,2,False,75.4,7.3,Low,7,False,2.5,2.56,C,Moderate Risk
+SPP0283,Samuel,Thompson,Male,High School,True,No Diploma,Low,4,1.0,5.1,2,False,74.4,6.2,Moderate,7,False,1.86,1.8,D,High Risk
+SPP0284,Owen,Brown,Male,High School,True,Bachelor,High,1,4.9,3.8,2,False,91.6,8.8,Moderate,1,False,2.86,2.87,B,Low Risk
+SPP0285,Evelyn,Martin,Female,Preparatory,True,High School,Middle,4,0.5,3.7,6,True,86.0,8.6,Low,6,False,2.7,2.22,C,Moderate Risk
+SPP0286,Henry,Lewis,Male,High School,True,Graduate,High,0,2.6,4.0,2,True,88.9,6.7,Moderate,1,False,3.22,3.15,B,Low Risk
+SPP0287,Logan,Harris,Male,High School,True,High School,Middle,3,21.3,3.4,1,False,87.7,9.0,Moderate,1,False,2.85,2.85,B,Low Risk
+SPP0288,Ava,Jones,Female,Preparatory,True,High School,Middle,1,0.5,3.5,3,False,71.9,7.2,Moderate,7,False,1.82,1.89,D,High Risk
+SPP0289,Logan,Garcia,Male,Preparatory,True,Bachelor,Middle,3,2.8,2.6,1,True,100.0,9.8,Low,3,False,2.89,2.64,C,Moderate Risk
+SPP0290,Sofia,Thompson,Female,Preparatory,True,High School,Low,4,1.8,2.4,5,True,95.7,7.3,Low,1,False,2.72,2.51,C,Moderate Risk
+SPP0291,Henry,Smith,Male,High School,True,Bachelor,Middle,2,11.8,2.0,2,False,100.0,7.8,Moderate,2,False,2.78,2.86,B,Low Risk
+SPP0292,Mason,Clark,Male,Preparatory,True,Graduate,Middle,3,10.2,1.4,1,True,78.7,8.6,High,5,False,1.8,2.15,C,Moderate Risk
+SPP0293,Ella,Brown,Female,High School,True,Bachelor,Low,4,1.4,2.2,2,False,90.0,8.5,Low,3,False,1.75,2.02,C,Moderate Risk
+SPP0294,Theodore,Thompson,Male,Preparatory,True,No Diploma,Middle,4,0.5,3.2,1,True,87.4,7.7,High,7,False,1.88,1.94,D,High Risk
+SPP0295,James,Wilson,Male,High School,True,Associate,Low,4,4.9,3.7,0,True,98.5,7.1,Moderate,6,False,2.63,2.23,C,Moderate Risk
+SPP0296,Isabella,Johnson,Female,High School,True,Bachelor,Middle,2,2.1,3.1,5,False,98.9,7.7,High,5,True,2.37,2.45,C,Moderate Risk
+SPP0297,Isabella,Davis,Female,High School,True,Bachelor,Low,2,5.6,0.5,3,True,87.3,6.4,Low,1,True,1.69,1.87,D,High Risk
+SPP0298,Mason,Harris,Male,High School,True,No Diploma,Middle,2,0.5,5.9,1,True,66.8,7.4,Moderate,0,False,1.28,1.81,D,High Risk
+SPP0299,Amelia,Miller,Female,High School,True,Associate,Middle,1,0.7,5.1,4,True,100.0,6.1,Low,5,True,3.38,2.93,B,Low Risk
+SPP0300,Asher,Garcia,Male,High School,True,Associate,Middle,2,5.8,4.2,0,False,91.7,5.4,Moderate,2,False,2.51,2.34,C,Moderate Risk
+SPP0301,Ethan,Smith,Male,High School,True,High School,High,2,1.2,6.4,2,True,77.7,7.3,High,7,False,3.24,3.0,B,Low Risk
+SPP0302,Charlotte,Harris,Female,High School,True,High School,Middle,2,9.7,2.0,0,True,89.9,8.5,Low,0,False,2.1,1.81,D,High Risk
+SPP0303,Victoria,Miller,Female,Preparatory,False,Associate,Middle,3,0.5,6.3,4,False,66.9,8.1,Moderate,2,False,2.52,2.57,C,Moderate Risk
+SPP0304,Victoria,Thompson,Female,High School,True,Bachelor,Low,2,1.2,2.1,4,True,97.7,7.1,Low,6,False,2.56,2.53,C,Moderate Risk
+SPP0305,Isabella,Johnson,Female,Middle School,True,Graduate,Middle,1,30.0,3.9,2,True,67.3,8.9,Moderate,0,False,3.16,2.71,C,Moderate Risk
+SPP0306,Mia,Wilson,Female,Middle School,False,Bachelor,High,4,2.8,1.6,2,True,82.3,6.6,Low,1,False,2.44,2.39,C,Moderate Risk
+SPP0307,Charlotte,Wilson,Female,Middle School,False,High School,Middle,3,6.1,3.5,3,False,87.9,5.3,Low,0,False,2.0,1.82,D,High Risk
+SPP0308,Samuel,Jackson,Male,High School,True,High School,Low,0,1.0,4.1,1,True,97.5,5.0,Moderate,6,True,2.81,2.55,C,Moderate Risk
+SPP0309,Sophia,Garcia,Female,Middle School,True,Graduate,Middle,2,4.7,3.3,4,True,86.3,6.0,High,5,True,2.46,2.27,C,Moderate Risk
+SPP0310,Alexander,Garcia,Male,Middle School,True,Graduate,Middle,4,6.5,4.6,0,True,92.6,8.0,Low,7,False,3.57,3.61,A,Low Risk
+SPP0311,Noah,Lewis,Male,Preparatory,True,Graduate,Middle,4,1.9,3.6,2,False,84.7,6.6,Low,0,False,2.32,2.33,C,Moderate Risk
+SPP0312,Mason,Lewis,Male,Preparatory,True,Bachelor,Middle,3,8.8,2.7,0,False,84.6,7.7,Low,2,False,2.71,2.48,C,Moderate Risk
+SPP0313,Jack,Williams,Male,High School,True,High School,Low,0,4.6,2.6,0,True,86.0,8.8,High,1,False,2.06,1.83,D,High Risk
+SPP0314,Charlotte,Thompson,Female,Preparatory,True,Bachelor,High,1,2.5,4.7,6,True,82.7,6.1,Moderate,2,False,3.01,2.66,C,Moderate Risk
+SPP0315,Sophia,Thompson,Female,Middle School,False,Associate,Middle,4,4.1,2.5,2,False,64.8,7.7,Moderate,1,False,2.03,1.86,D,High Risk
+SPP0316,Sophia,Thomas,Female,High School,False,High School,Low,4,4.3,4.9,1,True,75.8,7.7,Moderate,5,True,2.12,1.94,D,High Risk
+SPP0317,Liam,Martin,Male,High School,True,Bachelor,Middle,4,0.9,5.3,2,False,87.9,6.3,Low,4,False,2.28,2.41,C,Moderate Risk
+SPP0318,Lucas,Harris,Male,High School,True,No Diploma,Low,4,2.6,1.0,4,True,82.0,8.6,Moderate,3,False,0.56,0.73,F,High Risk
+SPP0319,Owen,Jackson,Male,High School,True,No Diploma,Low,3,2.1,5.2,1,False,83.1,6.9,Low,5,False,2.19,1.96,D,High Risk
+SPP0320,Elijah,Smith,Male,High School,False,Associate,Middle,0,2.6,6.6,5,True,81.1,6.8,Moderate,6,False,3.12,3.29,B,Low Risk
+SPP0321,Charlotte,Thompson,Female,High School,True,Associate,Middle,4,7.2,3.9,1,False,74.6,9.3,Moderate,5,False,2.82,2.83,B,Low Risk
+SPP0322,Sophia,Williams,Female,High School,True,Graduate,High,1,3.3,4.4,0,True,79.1,7.7,Moderate,3,False,3.07,2.66,C,Moderate Risk
+SPP0323,Emma,Harris,Female,Middle School,True,High School,High,1,14.1,5.1,1,True,81.3,8.1,Low,2,False,3.19,2.82,B,Low Risk
+SPP0324,Mateo,Brown,Male,Middle School,True,High School,Middle,2,1.7,3.1,1,True,85.1,8.6,Low,5,False,2.51,2.42,C,Moderate Risk
+SPP0325,Grace,Brown,Female,Middle School,True,High School,Low,4,2.7,3.8,0,True,89.7,6.5,High,1,False,1.48,1.57,D,High Risk
+SPP0326,Elizabeth,Robinson,Female,Middle School,False,No Diploma,Middle,4,7.7,1.5,4,True,82.8,8.4,Moderate,0,True,1.16,1.2,F,High Risk
+SPP0327,Grace,Thompson,Female,High School,True,No Diploma,Middle,4,3.9,3.7,1,True,72.6,6.7,Low,7,True,2.64,2.38,C,Moderate Risk
+SPP0328,Sophia,Clark,Female,Middle School,True,Bachelor,Middle,4,4.0,4.2,2,False,68.2,6.7,Low,5,False,2.63,2.64,C,Moderate Risk
+SPP0329,Mateo,Anderson,Male,Preparatory,True,Associate,Low,4,0.5,4.3,4,True,100.0,6.9,High,3,False,2.48,2.65,C,Moderate Risk
+SPP0330,Oliver,Lewis,Male,Middle School,True,Bachelor,Middle,1,2.5,5.1,2,False,71.4,6.6,High,5,False,2.35,1.99,D,High Risk
+SPP0331,Asher,Williams,Male,Middle School,False,Graduate,Middle,0,1.6,2.3,4,True,78.8,8.0,High,2,False,2.13,2.08,C,Moderate Risk
+SPP0332,Ava,Davis,Female,High School,False,Bachelor,Middle,0,30.0,2.7,2,True,91.2,7.5,Low,7,False,1.68,1.85,D,High Risk
+SPP0333,Asher,White,Male,Middle School,False,No Diploma,High,2,1.8,6.3,4,True,89.3,6.7,Moderate,2,False,2.97,2.83,B,Low Risk
+SPP0334,Jackson,Smith,Male,High School,False,High School,Middle,1,10.8,3.3,4,False,91.3,7.9,Low,7,True,2.83,2.54,C,Moderate Risk
+SPP0335,Alexander,White,Male,High School,True,Graduate,Low,4,5.6,3.8,3,False,79.7,6.9,Moderate,2,False,1.65,1.95,D,High Risk
+SPP0336,Oliver,Johnson,Male,Middle School,True,Associate,Middle,0,2.1,3.4,3,True,87.9,6.9,Low,1,False,3.0,3.06,B,Low Risk
+SPP0337,Olivia,Brown,Female,Middle School,True,Bachelor,Middle,3,3.9,2.3,1,False,85.7,7.2,Low,6,True,1.83,1.9,D,High Risk
+SPP0338,Victoria,Clark,Female,High School,False,Graduate,Low,3,9.2,5.9,1,True,81.3,7.7,Low,6,True,3.16,3.02,B,Low Risk
+SPP0339,Theodore,Garcia,Male,Middle School,True,Graduate,Low,3,10.7,2.7,3,True,87.9,7.6,Moderate,5,False,2.88,2.69,C,Moderate Risk
+SPP0340,Samuel,Smith,Male,Middle School,True,Graduate,Low,4,0.9,1.8,2,True,97.7,6.8,Moderate,7,False,1.93,2.1,C,Moderate Risk
+SPP0341,Amelia,Thompson,Female,Middle School,False,Associate,Low,4,2.1,2.8,3,True,84.7,8.0,Moderate,2,False,1.53,1.98,D,High Risk
+SPP0342,Noah,Davis,Male,Middle School,True,High School,Middle,2,2.0,0.5,1,True,84.8,7.0,High,4,False,1.45,1.14,F,High Risk
+SPP0343,Logan,Clark,Male,High School,True,Graduate,High,2,0.5,2.5,2,False,97.8,6.5,Moderate,0,False,1.42,1.76,D,High Risk
+SPP0344,Alexander,Smith,Male,High School,True,Associate,Middle,2,4.6,2.0,2,True,96.5,5.7,Moderate,6,False,2.08,2.0,C,Moderate Risk
+SPP0345,Lucas,Jones,Male,High School,True,No Diploma,Middle,3,9.6,4.4,2,False,100.0,8.2,High,2,False,2.01,2.05,C,Moderate Risk
+SPP0346,Abigail,Martin,Female,Middle School,True,Bachelor,Middle,4,2.4,2.5,1,True,63.9,7.2,Moderate,6,False,2.34,2.29,C,Moderate Risk
+SPP0347,Abigail,Garcia,Female,Middle School,False,Associate,Middle,3,6.7,4.8,2,True,95.9,7.4,Low,7,True,3.4,2.9,B,Low Risk
+SPP0348,Mateo,Davis,Male,Preparatory,True,Graduate,Low,2,4.9,5.6,2,False,92.2,8.2,High,1,False,3.69,2.78,C,Moderate Risk
+SPP0349,Asher,Jackson,Male,High School,False,Bachelor,Middle,4,2.4,4.7,1,False,74.4,6.7,Low,0,False,1.44,1.93,D,High Risk
+SPP0350,Evelyn,Martin,Female,Preparatory,True,High School,Middle,1,0.8,3.2,2,False,88.0,5.8,Moderate,0,False,2.18,1.88,D,High Risk
+SPP0351,Scarlett,Williams,Female,High School,True,Graduate,Low,0,6.2,3.7,4,True,97.6,7.3,Moderate,3,False,2.48,2.53,C,Moderate Risk
+SPP0352,Evelyn,Clark,Female,High School,True,Bachelor,Middle,0,9.6,1.2,3,False,75.1,7.5,Moderate,2,True,1.86,1.55,D,High Risk
+SPP0353,Evelyn,Thomas,Female,High School,True,Bachelor,Middle,2,5.8,3.3,0,False,90.3,6.9,Moderate,2,True,2.47,2.18,C,Moderate Risk
+SPP0354,James,Martin,Male,High School,True,High School,Middle,3,0.5,2.2,4,True,95.5,8.7,Low,5,False,3.12,2.7,C,Moderate Risk
+SPP0355,Liam,Anderson,Male,High School,False,High School,Low,1,1.2,4.5,2,True,72.1,4.7,Moderate,1,False,1.59,1.5,D,High Risk
+SPP0356,Ella,Taylor,Female,High School,True,Bachelor,Middle,4,0.5,7.4,2,True,83.3,8.3,High,4,False,2.82,3.09,B,Low Risk
+SPP0357,James,Lewis,Male,Middle School,True,No Diploma,Middle,3,4.2,4.2,2,True,88.6,8.0,Low,5,True,2.99,2.71,C,Moderate Risk
+SPP0358,Abigail,Brown,Female,High School,True,High School,Middle,2,7.1,0.5,3,True,75.4,7.7,Moderate,4,False,1.66,1.62,D,High Risk
+SPP0359,Grace,Thomas,Female,High School,True,Bachelor,Low,3,0.6,3.0,0,False,74.5,4.0,Low,3,True,1.39,1.46,F,High Risk
+SPP0360,Amelia,Johnson,Female,Preparatory,True,Associate,Middle,2,9.1,3.7,1,True,83.4,8.5,High,6,False,2.49,2.63,C,Moderate Risk
+SPP0361,Jackson,Clark,Male,High School,True,Associate,Low,0,4.1,3.6,1,False,94.6,6.2,Moderate,6,True,2.71,2.41,C,Moderate Risk
+SPP0362,Olivia,Jones,Female,High School,True,High School,Middle,0,5.9,2.4,1,False,92.7,6.7,High,4,False,2.54,2.06,C,Moderate Risk
+SPP0363,Aiden,Davis,Male,Middle School,False,Associate,Middle,3,17.8,3.9,2,True,74.7,7.0,Low,6,False,2.17,2.53,C,Moderate Risk
+SPP0364,Amelia,Miller,Female,High School,True,Bachelor,Low,1,0.5,1.6,1,True,92.8,7.6,Low,7,False,2.76,2.57,C,Moderate Risk
+SPP0365,Scarlett,White,Female,High School,True,High School,Low,4,11.6,2.1,1,True,75.0,7.8,Low,1,True,1.79,1.9,D,High Risk
+SPP0366,Owen,Williams,Male,Preparatory,True,No Diploma,Middle,2,0.7,4.5,1,False,65.7,8.1,Low,7,False,2.42,2.86,B,Low Risk
+SPP0367,Scarlett,Robinson,Female,High School,True,Bachelor,Middle,4,2.5,2.0,3,False,80.6,8.0,Moderate,6,False,1.96,1.92,D,High Risk
+SPP0368,Elizabeth,Martin,Female,High School,True,Graduate,Low,0,9.5,4.3,0,True,98.5,7.5,High,3,True,2.21,2.46,C,Moderate Risk
+SPP0369,Henry,Clark,Male,High School,True,Bachelor,Middle,1,11.8,1.4,1,False,92.9,7.6,Moderate,2,False,1.97,2.44,C,Moderate Risk
+SPP0370,Ethan,Clark,Male,Preparatory,False,High School,Middle,1,3.5,6.1,1,True,85.0,6.1,High,4,False,2.13,2.36,C,Moderate Risk
+SPP0371,Sebastian,Robinson,Male,High School,True,High School,Middle,4,4.5,2.3,3,False,80.0,6.4,Low,1,False,1.94,2.25,C,Moderate Risk
+SPP0372,James,Lewis,Male,High School,True,Graduate,Low,0,6.2,3.2,4,True,80.3,8.1,High,1,True,2.17,2.36,C,Moderate Risk
+SPP0373,Ethan,Martin,Male,Preparatory,True,High School,Middle,4,8.9,4.0,1,True,86.3,8.0,Low,2,False,2.61,3.01,B,Low Risk
+SPP0374,Amelia,Davis,Female,Middle School,True,Bachelor,Middle,3,0.6,2.7,2,True,72.2,7.9,High,6,False,1.78,1.9,D,High Risk
+SPP0375,Mateo,Smith,Male,Preparatory,True,Associate,High,1,8.3,3.7,4,True,80.8,6.7,Low,1,False,2.94,3.15,B,Low Risk
+SPP0376,Aiden,Thompson,Male,Middle School,False,High School,Middle,1,3.3,4.4,2,True,82.4,8.1,High,3,True,2.6,2.49,C,Moderate Risk
+SPP0377,Harper,Thomas,Female,High School,True,Bachelor,Low,3,3.0,4.9,0,False,68.8,6.0,Low,3,False,2.1,1.92,D,High Risk
+SPP0378,James,Anderson,Male,High School,False,Bachelor,Middle,0,2.8,4.7,0,True,74.9,8.3,Moderate,7,False,2.76,2.68,C,Moderate Risk
+SPP0379,Elizabeth,Jones,Female,High School,True,Bachelor,Middle,1,3.6,3.2,2,True,89.9,6.9,Moderate,5,True,2.52,2.59,C,Moderate Risk
+SPP0380,Henry,Thomas,Male,Preparatory,True,High School,Middle,2,14.5,3.3,4,True,85.1,8.9,Moderate,0,False,2.18,2.26,C,Moderate Risk
+SPP0381,Noah,Thompson,Male,Middle School,True,No Diploma,High,2,4.0,7.0,0,False,81.3,5.7,Moderate,2,False,1.67,1.92,D,High Risk
+SPP0382,Scarlett,Garcia,Female,Middle School,True,Associate,Middle,0,15.3,4.9,0,False,74.1,9.0,High,6,True,1.9,2.14,C,Moderate Risk
+SPP0383,Sophia,Smith,Female,High School,True,Associate,Low,3,1.0,2.1,0,False,100.0,6.8,Moderate,1,False,2.42,2.21,C,Moderate Risk
+SPP0384,Victoria,Jones,Female,High School,True,High School,Middle,4,6.4,3.6,2,True,74.9,6.8,Moderate,4,False,1.92,2.45,C,Moderate Risk
+SPP0385,Amelia,White,Female,High School,False,No Diploma,Low,0,8.4,3.0,1,True,88.0,7.4,Low,5,True,1.7,1.72,D,High Risk
+SPP0386,Sofia,Jones,Female,Middle School,True,No Diploma,Middle,4,5.7,3.3,3,False,79.1,6.5,Moderate,7,True,2.07,2.17,C,Moderate Risk
+SPP0387,Oliver,Smith,Male,Middle School,True,Graduate,Middle,0,4.7,1.7,1,True,85.4,7.1,Moderate,3,False,2.74,2.56,C,Moderate Risk
+SPP0388,Jackson,Robinson,Male,Middle School,False,Bachelor,Middle,2,4.2,2.9,3,True,90.5,6.5,High,2,False,1.69,2.12,C,Moderate Risk
+SPP0389,Victoria,Martin,Female,Middle School,False,Graduate,Middle,3,9.9,6.2,2,True,68.6,6.5,Moderate,6,True,2.45,2.45,C,Moderate Risk
+SPP0390,Avery,Wilson,Female,High School,True,High School,Middle,2,8.6,4.4,1,False,84.9,7.7,Moderate,2,False,2.61,2.51,C,Moderate Risk
+SPP0391,Chloe,Clark,Female,High School,True,Graduate,Middle,3,0.7,0.5,2,False,99.3,6.3,Low,6,False,1.96,2.53,C,Moderate Risk
+SPP0392,Mason,Jones,Male,Preparatory,False,High School,Middle,4,9.4,5.3,2,False,100.0,6.4,Low,3,True,2.51,2.83,B,Low Risk
+SPP0393,Henry,Johnson,Male,Preparatory,True,Associate,Middle,0,2.7,5.1,1,True,83.4,5.8,Moderate,7,False,2.91,2.94,B,Low Risk
+SPP0394,Chloe,Harris,Female,Middle School,True,Bachelor,Middle,1,1.5,3.0,3,True,85.5,6.7,Moderate,0,False,2.11,1.96,D,High Risk
+SPP0395,Jackson,Miller,Male,High School,True,High School,Low,1,10.2,4.6,1,False,100.0,8.5,Low,2,True,2.6,2.55,C,Moderate Risk
+SPP0396,Sophia,Brown,Female,Middle School,True,Associate,Low,3,2.8,2.2,1,True,98.6,6.4,Low,1,False,1.85,1.68,D,High Risk
+SPP0397,Sophia,Smith,Female,Middle School,True,High School,Low,3,8.3,2.8,1,True,77.6,6.5,High,4,False,1.65,1.97,D,High Risk
+SPP0398,Aiden,Jackson,Male,High School,True,High School,Low,2,1.5,5.7,0,True,77.6,7.4,Low,4,True,2.05,2.53,C,Moderate Risk
+SPP0399,Abigail,Lewis,Female,Middle School,True,Bachelor,Middle,1,0.5,3.1,2,True,96.5,6.8,High,3,True,2.62,2.59,C,Moderate Risk
+SPP0400,Mia,Miller,Female,Middle School,True,Bachelor,High,2,3.4,0.7,2,True,72.9,9.4,Low,2,True,1.54,1.91,D,High Risk
+SPP0401,Owen,Harris,Male,Preparatory,True,Bachelor,Middle,4,0.5,3.4,1,True,98.1,7.0,Low,4,True,3.01,3.27,B,Low Risk
+SPP0402,Ella,White,Female,High School,False,Associate,Low,1,7.0,3.4,2,True,89.0,7.5,Moderate,2,True,2.0,1.72,D,High Risk
+SPP0403,Scarlett,Clark,Female,High School,False,Bachelor,Middle,4,1.6,5.3,0,True,91.2,8.1,Moderate,3,False,3.0,2.94,B,Low Risk
+SPP0404,Amelia,Lewis,Female,Middle School,True,No Diploma,Middle,0,2.9,3.5,3,False,81.9,8.1,Moderate,0,False,1.79,1.96,D,High Risk
+SPP0405,Aiden,Robinson,Male,Middle School,True,High School,Low,2,0.5,2.9,2,True,77.4,7.4,Moderate,4,True,1.75,1.96,D,High Risk
+SPP0406,Evelyn,Taylor,Female,Preparatory,True,Graduate,High,3,1.7,5.1,1,True,100.0,7.0,Low,1,False,3.5,3.31,B,Low Risk
+SPP0407,Liam,Wilson,Male,Middle School,True,No Diploma,Middle,1,7.6,3.7,3,False,82.0,9.2,Moderate,7,True,2.13,2.07,C,Moderate Risk
+SPP0408,Owen,Davis,Male,High School,True,Bachelor,High,2,0.8,2.4,1,False,80.1,7.1,Moderate,5,True,2.42,2.78,C,Moderate Risk
+SPP0409,Grace,Taylor,Female,Middle School,True,High School,Middle,3,5.2,5.2,2,True,84.0,6.8,Moderate,3,True,2.03,2.61,C,Moderate Risk
+SPP0410,Noah,Thompson,Male,High School,False,Bachelor,Middle,0,12.5,3.8,2,False,87.3,6.6,High,5,False,2.33,1.77,D,High Risk
+SPP0411,Asher,Johnson,Male,Middle School,True,Bachelor,Low,1,5.7,3.5,0,True,72.6,5.5,Moderate,7,False,1.63,2.0,C,Moderate Risk
+SPP0412,Isabella,Garcia,Female,Preparatory,True,High School,Middle,4,8.3,3.8,6,True,78.2,8.0,Moderate,7,False,2.84,2.68,C,Moderate Risk
+SPP0413,Isabella,Jones,Female,Preparatory,True,High School,Low,0,0.6,1.9,2,True,77.6,4.9,High,0,False,2.09,1.64,D,High Risk
+SPP0414,Sofia,Wilson,Female,High School,True,Bachelor,High,3,1.4,2.7,0,True,95.1,7.2,High,1,True,2.32,2.28,C,Moderate Risk
+SPP0415,Evelyn,Jones,Female,Middle School,False,High School,Middle,1,11.2,3.5,3,False,74.4,7.0,Moderate,5,True,1.58,1.76,D,High Risk
+SPP0416,Logan,Robinson,Male,Preparatory,True,High School,High,1,6.3,3.2,1,True,63.9,9.4,Low,1,False,1.98,2.41,C,Moderate Risk
+SPP0417,Samuel,Lewis,Male,High School,True,Bachelor,Middle,0,5.1,5.4,1,True,61.4,5.4,High,4,True,2.06,2.49,C,Moderate Risk
+SPP0418,Elijah,Wilson,Male,High School,False,High School,High,1,5.4,3.8,2,False,67.4,6.3,Low,2,False,1.73,1.62,D,High Risk
+SPP0419,Isabella,Thompson,Female,High School,True,Graduate,Low,3,2.7,4.8,2,True,100.0,7.1,Low,3,True,3.69,3.25,B,Low Risk
+SPP0420,Emily,Thompson,Female,Middle School,False,Associate,Middle,0,0.5,3.5,1,False,85.2,7.0,Moderate,1,False,1.72,1.84,D,High Risk
+SPP0421,Amelia,Thomas,Female,Middle School,True,High School,Middle,4,7.7,5.1,3,False,91.0,6.7,Moderate,7,False,2.48,2.65,C,Moderate Risk
+SPP0422,Olivia,Miller,Female,High School,True,Bachelor,Middle,0,5.7,4.1,0,True,91.4,7.1,High,4,True,3.35,3.14,B,Low Risk
+SPP0423,Mateo,Williams,Male,Middle School,True,Associate,Middle,0,3.2,3.5,4,False,85.7,5.9,Moderate,7,False,2.18,2.39,C,Moderate Risk
+SPP0424,Ella,Taylor,Female,High School,True,High School,Low,4,11.5,3.5,0,True,84.1,7.6,High,0,False,2.2,2.12,C,Moderate Risk
+SPP0425,Liam,Johnson,Male,High School,True,Associate,Low,3,2.0,2.1,4,True,97.5,4.9,Low,6,True,2.59,2.58,C,Moderate Risk
+SPP0426,Harper,Williams,Female,Preparatory,True,High School,High,2,1.7,4.3,0,True,86.8,7.2,Low,1,False,2.25,2.37,C,Moderate Risk
+SPP0427,Elijah,Martin,Male,Preparatory,True,High School,Middle,2,10.3,3.4,0,True,100.0,6.6,Moderate,0,True,1.78,1.78,D,High Risk
+SPP0428,Avery,Johnson,Female,Preparatory,True,High School,Low,4,8.0,2.7,1,True,92.4,8.2,High,3,True,2.83,2.3,C,Moderate Risk
+SPP0429,Asher,Taylor,Male,Middle School,True,High School,Middle,3,3.6,5.2,2,True,77.6,9.0,Moderate,4,True,2.57,2.39,C,Moderate Risk
+SPP0430,Aiden,Garcia,Male,Middle School,True,High School,High,1,0.7,1.6,2,True,79.0,6.9,Low,0,False,1.98,1.65,D,High Risk
+SPP0431,Samuel,Anderson,Male,High School,True,Bachelor,Low,4,1.2,2.9,3,True,76.3,8.6,Low,2,True,2.46,2.74,C,Moderate Risk
+SPP0432,Evelyn,Miller,Female,Middle School,True,Bachelor,High,2,5.3,5.0,3,False,99.6,6.9,Low,5,True,3.39,3.06,B,Low Risk
+SPP0433,Amelia,Harris,Female,Middle School,True,Associate,High,3,2.4,4.0,3,False,80.1,6.2,Moderate,0,False,2.39,2.2,C,Moderate Risk
+SPP0434,Jack,Garcia,Male,High School,False,Bachelor,High,0,9.1,3.4,0,False,75.4,8.9,Low,0,True,2.49,2.94,B,Low Risk
+SPP0435,Samuel,Lewis,Male,High School,True,Bachelor,High,3,15.0,3.9,1,False,88.8,7.7,High,7,False,2.41,2.25,C,Moderate Risk
+SPP0436,Victoria,Wilson,Female,Preparatory,True,Associate,Middle,3,8.2,3.8,1,True,83.8,7.2,Moderate,4,True,1.95,2.1,C,Moderate Risk
+SPP0437,Alexander,Lewis,Male,Middle School,True,Bachelor,Middle,2,2.4,1.2,1,True,88.5,7.9,Moderate,4,False,1.63,2.09,C,Moderate Risk
+SPP0438,Emily,Thomas,Female,Middle School,True,High School,Low,2,7.8,3.0,1,True,100.0,7.5,Low,1,False,2.37,2.33,C,Moderate Risk
+SPP0439,Chloe,Clark,Female,Middle School,True,Graduate,Low,1,2.2,5.9,1,False,96.0,7.1,Low,5,False,3.05,2.89,B,Low Risk
+SPP0440,Jack,Lewis,Male,Preparatory,False,No Diploma,Middle,1,0.9,2.5,3,True,85.3,5.9,Moderate,7,True,1.38,1.33,F,High Risk
+SPP0441,Asher,Williams,Male,High School,False,High School,Middle,4,0.5,3.0,2,True,68.1,6.9,High,0,False,1.91,1.94,D,High Risk
+SPP0442,Ava,Harris,Female,Preparatory,True,Bachelor,Low,0,2.4,2.7,5,False,79.0,7.8,Moderate,0,False,2.12,2.22,C,Moderate Risk
+SPP0443,Mason,Johnson,Male,Preparatory,True,No Diploma,Middle,1,11.7,3.4,1,False,93.5,7.1,High,4,True,2.8,2.06,C,Moderate Risk
+SPP0444,Asher,Johnson,Male,High School,True,High School,Low,2,1.4,2.6,2,True,70.9,8.1,High,6,True,1.44,1.79,D,High Risk
+SPP0445,Emily,Williams,Female,High School,True,Associate,High,3,1.2,4.2,1,True,100.0,7.6,Low,2,True,3.46,3.2,B,Low Risk
+SPP0446,Evelyn,Garcia,Female,High School,True,Associate,Middle,4,17.5,3.8,0,False,85.2,6.3,Low,7,False,2.8,2.8,B,Low Risk
+SPP0447,Avery,Harris,Female,High School,True,Bachelor,Middle,1,0.5,4.7,2,True,85.6,5.9,Moderate,6,False,2.2,2.46,C,Moderate Risk
+SPP0448,Grace,Taylor,Female,High School,True,Bachelor,Middle,3,7.7,1.9,1,True,77.0,7.0,Moderate,7,True,2.27,2.28,C,Moderate Risk
+SPP0449,Mateo,Wilson,Male,High School,False,High School,Low,3,1.9,3.0,1,True,91.0,6.7,Low,4,True,1.83,2.25,C,Moderate Risk
+SPP0450,Aiden,Smith,Male,Preparatory,True,No Diploma,High,1,0.5,3.2,2,True,71.1,7.5,Moderate,2,True,2.26,2.44,C,Moderate Risk
+SPP0451,Sofia,Martin,Female,Preparatory,True,Bachelor,Middle,0,12.5,4.2,2,False,100.0,6.5,Moderate,5,True,3.38,3.39,B,Low Risk
+SPP0452,Amelia,Garcia,Female,High School,False,High School,Middle,0,0.8,2.3,2,True,100.0,6.6,High,6,False,1.55,2.02,C,Moderate Risk
+SPP0453,Jack,Wilson,Male,High School,True,Bachelor,Low,4,4.0,4.9,4,True,96.8,8.3,Low,4,False,3.66,3.51,A,Low Risk
+SPP0454,Charlotte,Brown,Female,High School,False,High School,Middle,0,1.6,5.3,1,True,68.3,7.3,Low,5,True,1.26,1.55,D,High Risk
+SPP0455,Sebastian,Johnson,Male,Middle School,True,Associate,Low,4,0.5,2.0,1,True,87.5,6.5,Moderate,3,False,1.99,2.43,C,Moderate Risk
+SPP0456,Harper,Brown,Female,Middle School,True,Associate,Middle,2,0.5,2.8,3,True,99.5,7.2,Moderate,0,False,1.95,2.27,C,Moderate Risk
+SPP0457,Jackson,Smith,Male,High School,False,Associate,Middle,1,0.6,2.7,3,False,92.1,8.6,Moderate,5,False,2.85,2.2,C,Moderate Risk
+SPP0458,Mateo,Clark,Male,High School,True,Associate,High,3,0.5,7.4,2,True,73.0,7.5,High,2,False,2.55,3.14,B,Low Risk
+SPP0459,Samuel,Taylor,Male,Middle School,True,Associate,Middle,4,7.1,2.9,2,True,77.2,7.8,High,3,True,2.2,2.07,C,Moderate Risk
+SPP0460,Liam,Harris,Male,Preparatory,True,High School,Low,0,3.3,6.0,1,False,79.6,6.4,Moderate,2,False,2.16,2.39,C,Moderate Risk
+SPP0461,Owen,Clark,Male,Middle School,True,No Diploma,Low,4,2.1,1.6,4,True,77.8,8.2,Low,1,True,2.06,2.17,C,Moderate Risk
+SPP0462,Victoria,Martin,Female,Middle School,True,No Diploma,Middle,4,2.7,2.0,2,True,100.0,9.5,Moderate,1,False,2.19,2.01,C,Moderate Risk
+SPP0463,Grace,Brown,Female,High School,False,Associate,Low,0,13.2,2.5,5,False,61.9,6.4,Moderate,0,False,1.23,1.06,F,High Risk
+SPP0464,Avery,Johnson,Female,Middle School,False,High School,Low,0,12.1,2.2,3,True,92.9,6.0,High,3,True,1.97,2.17,C,Moderate Risk
+SPP0465,Chloe,Jackson,Female,Middle School,False,Associate,High,1,6.3,3.1,3,True,69.5,7.4,High,3,False,1.75,2.16,C,Moderate Risk
+SPP0466,Sebastian,Smith,Male,High School,True,High School,Low,3,10.8,2.4,1,True,73.5,8.1,Moderate,1,False,2.56,2.37,C,Moderate Risk
+SPP0467,Mateo,Thompson,Male,High School,True,Bachelor,High,1,1.9,2.3,4,False,60.9,7.1,Moderate,0,False,2.48,2.31,C,Moderate Risk
+SPP0468,Harper,Jackson,Female,High School,True,Graduate,Low,1,2.4,5.2,0,True,78.4,6.1,Low,5,False,2.26,2.35,C,Moderate Risk
+SPP0469,Ethan,Brown,Male,High School,False,High School,High,0,4.8,5.3,1,True,100.0,7.1,Low,1,True,3.21,3.08,B,Low Risk
+SPP0470,Emma,Miller,Female,High School,True,High School,Middle,0,4.9,4.9,2,True,88.2,7.8,Low,3,False,2.42,2.55,C,Moderate Risk
+SPP0471,Noah,Thompson,Male,Middle School,True,High School,Middle,3,3.3,4.3,0,True,70.6,6.8,Low,2,False,2.03,2.28,C,Moderate Risk
+SPP0472,Chloe,Wilson,Female,Preparatory,True,Bachelor,Low,4,2.6,3.6,2,True,97.2,7.8,Moderate,6,False,2.71,2.71,C,Moderate Risk
+SPP0473,Mason,Brown,Male,Middle School,True,Associate,High,1,21.4,2.8,1,True,99.8,8.4,Moderate,3,False,2.47,2.31,C,Moderate Risk
+SPP0474,Emily,Clark,Female,Preparatory,True,High School,High,3,8.6,2.1,2,True,86.2,7.4,Moderate,0,True,2.08,1.99,D,High Risk
+SPP0475,Avery,Smith,Female,High School,False,Bachelor,Middle,1,2.9,4.0,6,True,100.0,7.2,Moderate,3,True,3.58,3.43,B,Low Risk
+SPP0476,Sophia,Taylor,Female,Preparatory,False,High School,Middle,4,6.5,1.7,3,True,94.9,8.0,Moderate,4,False,1.9,2.13,C,Moderate Risk
+SPP0477,Owen,Brown,Male,Middle School,True,Associate,Middle,1,1.6,2.0,3,True,93.2,6.3,Moderate,3,False,2.68,2.21,C,Moderate Risk
+SPP0478,Amelia,Wilson,Female,High School,True,Associate,Low,2,0.5,5.2,2,True,75.4,6.2,Low,4,False,3.0,3.1,B,Low Risk
+SPP0479,Abigail,Jackson,Female,Middle School,False,Bachelor,Middle,3,2.2,6.4,3,True,92.5,6.9,High,1,False,2.58,2.62,C,Moderate Risk
+SPP0480,Ella,White,Female,Middle School,True,No Diploma,High,0,2.6,4.1,2,False,87.6,6.7,Low,5,False,2.04,2.44,C,Moderate Risk
+SPP0481,Amelia,Taylor,Female,High School,True,Graduate,Middle,1,0.5,5.2,1,False,91.2,6.4,High,4,False,2.96,3.02,B,Low Risk
+SPP0482,Emma,Garcia,Female,Middle School,True,Bachelor,Low,3,8.4,3.1,4,True,76.8,9.0,Moderate,3,False,2.46,2.3,C,Moderate Risk
+SPP0483,Sebastian,Martin,Male,High School,True,High School,Middle,3,2.2,1.5,4,True,86.5,9.4,Moderate,5,False,2.33,2.1,C,Moderate Risk
+SPP0484,Sophia,Garcia,Female,Middle School,True,High School,Middle,1,4.3,4.4,5,True,75.2,6.8,Low,7,False,2.51,2.04,C,Moderate Risk
+SPP0485,Ava,Thompson,Female,High School,True,Associate,Low,0,0.5,4.4,0,True,59.2,7.3,Low,6,False,2.12,1.96,D,High Risk
+SPP0486,Emma,Taylor,Female,High School,True,Bachelor,Low,0,1.0,3.6,1,True,97.0,7.0,Moderate,5,True,2.39,2.31,C,Moderate Risk
+SPP0487,Oliver,Robinson,Male,High School,True,Bachelor,Low,1,11.0,3.1,0,True,67.0,8.3,Moderate,3,True,1.98,2.11,C,Moderate Risk
+SPP0488,Aiden,Robinson,Male,High School,False,Associate,Middle,3,4.7,4.9,1,False,86.3,8.5,Low,3,True,2.2,2.4,C,Moderate Risk
+SPP0489,Ava,Williams,Female,High School,False,Graduate,Low,0,15.0,2.0,1,True,89.0,5.4,Moderate,6,True,2.88,2.59,C,Moderate Risk
+SPP0490,Abigail,Lewis,Female,Preparatory,False,No Diploma,Middle,1,30.0,2.3,1,True,88.9,7.7,Low,7,True,1.88,1.59,D,High Risk
+SPP0491,Liam,Harris,Male,High School,True,No Diploma,Middle,1,2.3,2.0,0,False,81.6,5.9,Moderate,0,False,1.45,1.77,D,High Risk
+SPP0492,Harper,Harris,Female,High School,True,Graduate,Middle,1,1.8,3.6,3,False,88.3,9.0,High,1,False,2.87,2.65,C,Moderate Risk
+SPP0493,Elijah,Brown,Male,Preparatory,True,Bachelor,High,3,9.8,1.9,2,True,90.7,7.6,High,4,True,2.9,2.7,C,Moderate Risk
+SPP0494,Jack,Wilson,Male,High School,False,Associate,Low,0,30.0,2.5,0,True,93.8,6.4,Moderate,2,False,1.72,2.05,C,Moderate Risk
+SPP0495,Mason,Clark,Male,High School,True,Bachelor,Middle,3,5.0,2.4,1,True,100.0,7.0,Low,4,False,2.19,2.03,C,Moderate Risk
+SPP0496,Liam,Thompson,Male,High School,True,Graduate,High,2,7.9,3.1,2,True,87.8,6.9,Low,3,True,2.63,2.94,B,Low Risk
+SPP0497,Evelyn,Anderson,Female,High School,True,Bachelor,Middle,0,7.6,1.3,7,True,85.8,7.7,High,2,False,1.41,2.14,C,Moderate Risk
+SPP0498,Theodore,Wilson,Male,High School,True,Bachelor,Low,3,2.2,3.6,5,True,74.1,8.2,Low,2,True,2.18,2.23,C,Moderate Risk
+SPP0499,Elizabeth,Taylor,Female,Middle School,True,Bachelor,High,0,4.3,5.4,3,True,90.2,6.1,High,4,False,3.22,3.14,B,Low Risk
+SPP0500,Evelyn,Robinson,Female,Middle School,False,High School,High,2,9.0,3.7,0,False,93.0,9.0,Moderate,6,True,2.99,3.02,B,Low Risk
+SPP0501,Victoria,Lewis,Female,Preparatory,False,Bachelor,Middle,4,5.8,5.8,1,False,82.7,8.8,High,4,False,2.6,1.74,D,High Risk
+SPP0502,Isabella,Jackson,Female,Middle School,True,High School,Middle,1,0.5,5.5,2,True,91.5,6.3,Moderate,4,False,2.71,2.6,C,Moderate Risk
+SPP0503,Elijah,Davis,Male,High School,False,Graduate,Middle,3,2.1,4.7,1,True,81.5,7.3,Moderate,4,True,2.22,2.18,C,Moderate Risk
+SPP0504,Emily,Miller,Female,High School,True,Associate,Low,2,0.8,3.6,1,True,93.1,8.9,Moderate,6,False,2.77,2.64,C,Moderate Risk
+SPP0505,Scarlett,Thompson,Female,High School,True,Bachelor,Middle,2,1.3,3.5,1,True,96.0,8.4,High,6,True,2.48,2.61,C,Moderate Risk
+SPP0506,Jack,Harris,Male,Middle School,True,Associate,Middle,0,11.8,4.6,5,True,95.8,6.9,High,1,False,2.79,2.51,C,Moderate Risk
+SPP0507,Sofia,Lewis,Female,Middle School,True,No Diploma,High,0,0.5,2.9,2,False,86.4,8.0,Moderate,0,False,2.35,2.24,C,Moderate Risk
+SPP0508,Olivia,Harris,Female,Preparatory,True,High School,Low,1,1.2,0.7,1,False,72.5,10.0,High,0,False,1.93,1.84,D,High Risk
+SPP0509,Victoria,Smith,Female,Preparatory,False,Graduate,Middle,0,1.9,4.2,3,False,77.7,7.3,Moderate,4,True,3.0,3.19,B,Low Risk
+SPP0510,Harper,White,Female,High School,True,Graduate,Low,3,4.8,1.8,5,False,92.1,6.6,High,0,True,1.34,1.81,D,High Risk
+SPP0511,Ella,Jones,Female,High School,True,High School,Middle,3,3.8,2.1,1,False,100.0,7.4,High,4,False,1.38,1.53,D,High Risk
+SPP0512,Henry,Anderson,Male,High School,True,Graduate,Middle,3,1.2,3.5,3,True,80.9,7.4,Moderate,4,True,2.92,2.84,B,Low Risk
+SPP0513,Mia,Martin,Female,High School,False,Bachelor,Low,4,0.9,3.4,1,False,90.5,6.7,Moderate,4,False,2.41,2.54,C,Moderate Risk
+SPP0514,Chloe,Johnson,Female,High School,True,Bachelor,Middle,3,1.4,1.4,3,True,78.3,7.6,Moderate,5,False,2.53,2.44,C,Moderate Risk
+SPP0515,Ethan,Davis,Male,Middle School,True,No Diploma,Middle,0,3.5,3.7,5,True,73.3,5.9,Moderate,1,False,2.27,2.34,C,Moderate Risk
+SPP0516,Oliver,Anderson,Male,High School,True,Graduate,High,0,1.6,4.9,2,True,76.9,6.5,High,3,True,2.83,2.7,C,Moderate Risk
+SPP0517,Owen,Robinson,Male,High School,True,Associate,Middle,3,14.7,1.8,1,False,60.0,8.0,Moderate,0,False,1.13,1.42,F,High Risk
+SPP0518,Isabella,Williams,Female,Preparatory,True,Graduate,High,2,3.1,5.4,0,True,100.0,5.4,Low,0,False,3.34,3.28,B,Low Risk
+SPP0519,Victoria,Smith,Female,Middle School,True,Bachelor,Middle,2,0.5,1.2,1,True,58.2,8.1,Moderate,1,False,1.41,1.6,D,High Risk
+SPP0520,Elijah,Anderson,Male,High School,True,Bachelor,Low,2,6.5,6.7,3,True,81.8,5.2,Low,1,False,2.63,3.09,B,Low Risk
+SPP0521,Ava,Martin,Female,High School,True,Bachelor,Middle,1,2.0,2.9,4,True,70.9,5.5,Moderate,4,True,2.44,2.49,C,Moderate Risk
+SPP0522,Ethan,Robinson,Male,High School,False,High School,Middle,4,5.3,3.7,1,True,74.4,6.7,High,4,True,2.55,2.09,C,Moderate Risk
+SPP0523,Mia,Martin,Female,Middle School,True,High School,Middle,3,1.6,0.7,5,False,100.0,7.5,Moderate,5,True,1.88,2.32,C,Moderate Risk
+SPP0524,Amelia,Taylor,Female,High School,True,High School,Middle,1,4.2,3.4,2,False,87.4,8.5,High,5,False,2.39,2.35,C,Moderate Risk
+SPP0525,Charlotte,Robinson,Female,High School,False,No Diploma,Middle,2,7.4,3.8,3,False,73.4,7.3,Low,7,True,2.37,2.13,C,Moderate Risk
+SPP0526,Elijah,Garcia,Male,High School,True,Associate,Middle,3,13.2,3.4,1,True,77.9,7.0,High,3,False,2.22,1.53,D,High Risk
+SPP0527,Lucas,Clark,Male,High School,False,Bachelor,Low,1,1.5,2.7,3,True,75.8,7.8,Moderate,0,False,1.78,1.93,D,High Risk
+SPP0528,Jack,Brown,Male,High School,True,Graduate,Middle,0,2.0,2.1,1,True,84.5,6.3,Low,1,False,2.19,2.38,C,Moderate Risk
+SPP0529,Oliver,Jackson,Male,High School,True,High School,Middle,2,3.1,5.2,5,True,87.1,7.3,Moderate,3,True,2.53,2.88,B,Low Risk
+SPP0530,Elizabeth,White,Female,Preparatory,True,Associate,Middle,1,13.1,3.5,4,True,100.0,6.0,High,0,False,2.73,2.39,C,Moderate Risk
+SPP0531,Victoria,Williams,Female,High School,False,No Diploma,Middle,0,11.6,5.8,2,False,62.0,7.3,Low,3,False,1.79,2.05,C,Moderate Risk
+SPP0532,Scarlett,Taylor,Female,Middle School,True,No Diploma,Middle,2,0.5,2.7,3,True,84.6,7.1,Moderate,7,True,1.77,1.88,D,High Risk
+SPP0533,Charlotte,Garcia,Female,High School,True,No Diploma,Middle,4,0.7,2.8,1,False,81.2,6.4,High,3,True,1.3,1.85,D,High Risk
+SPP0534,Isabella,Smith,Female,Middle School,False,Bachelor,Middle,2,3.4,4.7,2,False,96.4,7.4,Low,6,False,3.25,2.98,B,Low Risk
+SPP0535,Sofia,White,Female,High School,True,No Diploma,Middle,4,0.6,1.1,1,True,89.3,7.4,Moderate,4,False,2.08,1.73,D,High Risk
+SPP0536,Ava,Davis,Female,Middle School,True,Bachelor,Middle,4,2.1,1.7,5,False,92.1,8.4,Moderate,3,True,2.49,2.24,C,Moderate Risk
+SPP0537,Sophia,Clark,Female,Middle School,True,High School,Middle,4,0.8,5.1,1,False,89.1,5.6,Moderate,4,True,2.22,2.7,C,Moderate Risk
+SPP0538,Theodore,White,Male,Preparatory,True,Graduate,Middle,3,5.1,1.7,2,True,73.8,7.1,Moderate,0,True,2.3,2.12,C,Moderate Risk
+SPP0539,Alexander,Taylor,Male,Middle School,True,Bachelor,High,3,14.9,0.8,0,True,99.5,6.4,Low,5,False,1.82,2.32,C,Moderate Risk
+SPP0540,Oliver,Thompson,Male,High School,True,Graduate,Middle,4,28.6,6.3,1,True,94.6,8.1,High,0,False,3.09,3.07,B,Low Risk
+SPP0541,Olivia,Wilson,Female,Middle School,True,Graduate,Middle,0,2.4,1.4,0,True,96.0,8.0,Low,7,False,2.94,2.88,B,Low Risk
+SPP0542,Grace,Garcia,Female,High School,True,Graduate,Middle,4,4.6,3.8,3,True,100.0,7.7,Moderate,4,False,3.29,3.2,B,Low Risk
+SPP0543,Henry,Anderson,Male,High School,False,Graduate,Middle,1,9.7,3.6,0,True,90.0,6.5,Moderate,5,False,2.72,2.56,C,Moderate Risk
+SPP0544,Chloe,Miller,Female,High School,False,Bachelor,Middle,4,0.6,0.5,4,True,100.0,8.1,Moderate,6,False,2.25,2.25,C,Moderate Risk
+SPP0545,Scarlett,Thompson,Female,High School,True,High School,Middle,3,5.8,3.1,1,True,89.5,5.7,Moderate,2,True,1.87,2.46,C,Moderate Risk
+SPP0546,Jack,Smith,Male,Middle School,False,High School,Middle,3,2.6,4.2,2,True,82.4,5.5,High,5,False,2.49,2.33,C,Moderate Risk
+SPP0547,Henry,Jones,Male,High School,True,High School,Low,1,1.2,4.0,2,True,84.9,5.9,High,3,True,2.28,2.25,C,Moderate Risk
+SPP0548,Elizabeth,Wilson,Female,Middle School,True,Bachelor,High,1,2.6,4.9,2,True,84.7,7.2,High,7,False,2.52,2.79,C,Moderate Risk
+SPP0549,Emily,Robinson,Female,High School,False,Associate,Middle,2,0.5,2.9,1,True,78.8,7.9,Moderate,7,True,1.34,1.81,D,High Risk
+SPP0550,Mia,Johnson,Female,High School,True,Graduate,Middle,0,5.9,4.6,2,True,100.0,4.2,High,0,True,2.89,2.43,C,Moderate Risk
+SPP0551,Isabella,Anderson,Female,Preparatory,True,Graduate,Middle,0,1.5,2.5,0,False,88.6,8.5,High,6,True,3.34,2.97,B,Low Risk
+SPP0552,Chloe,Garcia,Female,Middle School,False,Associate,Low,0,1.9,1.4,5,True,86.1,7.3,Moderate,3,False,2.11,1.9,D,High Risk
+SPP0553,Ella,Davis,Female,High School,True,Associate,Low,3,0.6,1.6,4,True,89.7,5.6,Low,6,False,2.65,2.85,B,Low Risk
+SPP0554,Elizabeth,Brown,Female,Middle School,False,Graduate,Middle,0,10.0,1.3,4,True,100.0,7.3,Low,5,False,1.73,2.49,C,Moderate Risk
+SPP0555,Isabella,Robinson,Female,High School,True,High School,Middle,2,3.4,5.0,1,True,71.4,8.3,Moderate,2,False,2.58,2.35,C,Moderate Risk
+SPP0556,Asher,Anderson,Male,High School,True,Bachelor,High,2,4.2,1.2,1,True,74.9,7.8,High,3,False,2.13,2.02,C,Moderate Risk
+SPP0557,James,Jones,Male,Preparatory,True,High School,Middle,0,4.2,3.9,3,True,68.4,8.3,Moderate,2,False,2.13,2.24,C,Moderate Risk
+SPP0558,Samuel,Harris,Male,Middle School,True,Bachelor,Middle,1,2.6,3.1,1,False,82.2,5.8,Moderate,1,True,2.23,1.89,D,High Risk
+SPP0559,Victoria,Robinson,Female,Middle School,False,High School,Middle,2,1.1,3.3,3,False,87.9,6.8,Low,2,False,2.04,1.79,D,High Risk
+SPP0560,Scarlett,Johnson,Female,High School,True,Graduate,Low,1,6.8,5.5,0,True,79.4,6.3,Low,0,True,2.88,2.83,B,Low Risk
+SPP0561,Avery,Anderson,Female,Middle School,True,Associate,Low,3,0.7,2.8,1,False,78.5,8.9,Moderate,5,False,2.45,2.44,C,Moderate Risk
+SPP0562,Jackson,Jackson,Male,Middle School,True,High School,Middle,2,0.5,4.4,3,True,86.7,7.8,High,4,False,3.25,3.23,B,Low Risk
+SPP0563,Mateo,Brown,Male,High School,True,High School,High,1,6.2,3.6,2,False,79.0,10.0,Moderate,4,False,2.7,2.5,C,Moderate Risk
+SPP0564,James,Miller,Male,Middle School,True,Associate,Middle,0,1.2,3.3,3,True,88.7,6.7,High,7,True,2.07,2.33,C,Moderate Risk
+SPP0565,Asher,Anderson,Male,Middle School,False,Graduate,Middle,3,1.8,6.9,2,True,98.4,6.5,Low,3,False,3.2,3.07,B,Low Risk
+SPP0566,Mia,Brown,Female,High School,True,Bachelor,High,4,3.2,1.3,1,True,93.1,7.1,Moderate,5,False,2.54,2.82,B,Low Risk
+SPP0567,Oliver,Harris,Male,High School,True,Associate,Low,4,3.0,5.4,2,True,95.6,8.6,Moderate,7,False,3.67,3.27,B,Low Risk
+SPP0568,Alexander,Smith,Male,Middle School,False,High School,Middle,0,6.2,4.5,1,False,98.0,6.8,High,6,False,2.14,1.98,D,High Risk
+SPP0569,Ella,Williams,Female,Middle School,True,Associate,Middle,3,4.9,2.8,1,True,88.4,7.3,Low,1,True,1.95,2.16,C,Moderate Risk
+SPP0570,Owen,White,Male,High School,True,Bachelor,Middle,3,5.2,5.9,3,True,83.1,7.3,Low,7,False,3.57,3.55,A,Low Risk
+SPP0571,Avery,Garcia,Female,Middle School,False,Bachelor,Middle,3,6.3,0.7,6,True,75.7,7.2,Low,3,True,1.82,2.08,C,Moderate Risk
+SPP0572,Mia,Robinson,Female,High School,True,High School,Middle,3,1.7,2.7,1,True,80.3,6.5,High,2,False,2.53,2.08,C,Moderate Risk
+SPP0573,Owen,Smith,Male,Middle School,True,Bachelor,Middle,4,1.9,1.7,2,True,78.7,7.1,Low,4,True,2.52,2.03,C,Moderate Risk
+SPP0574,Sofia,Garcia,Female,High School,True,Bachelor,Low,1,2.9,4.1,5,False,93.8,7.0,Low,2,False,2.41,2.2,C,Moderate Risk
+SPP0575,Harper,Garcia,Female,High School,False,Graduate,Middle,3,1.8,1.8,2,False,89.2,7.2,Moderate,4,False,2.29,1.82,D,High Risk
+SPP0576,Charlotte,Martin,Female,High School,False,Graduate,Low,1,21.0,4.1,0,True,93.4,8.1,Moderate,7,False,2.85,2.8,B,Low Risk
+SPP0577,Logan,Jones,Male,Preparatory,False,Bachelor,High,3,8.4,3.2,4,True,71.1,9.0,High,4,False,3.2,2.97,B,Low Risk
+SPP0578,Ella,Thompson,Female,High School,True,Bachelor,Middle,2,0.9,2.8,1,True,100.0,6.4,High,4,True,2.66,2.29,C,Moderate Risk
+SPP0579,Sophia,Taylor,Female,Middle School,True,High School,High,2,0.5,4.1,1,False,79.9,6.8,Moderate,7,False,3.21,3.21,B,Low Risk
+SPP0580,Alexander,Robinson,Male,Middle School,True,Bachelor,Middle,2,0.5,3.1,0,False,71.8,6.4,High,5,False,2.21,2.19,C,Moderate Risk
+SPP0581,Elijah,Miller,Male,High School,True,Associate,Low,3,1.4,1.9,1,True,79.7,7.4,Moderate,6,False,1.86,1.58,D,High Risk
+SPP0582,Grace,Williams,Female,Middle School,True,High School,Low,1,0.6,7.7,3,False,100.0,6.7,Low,7,True,3.6,3.41,B,Low Risk
+SPP0583,Ava,Jackson,Female,Middle School,False,High School,Middle,4,3.8,2.8,3,True,80.3,7.4,High,6,True,1.92,2.15,C,Moderate Risk
+SPP0584,Mateo,Harris,Male,High School,False,Bachelor,Low,0,9.8,0.5,2,True,81.1,8.3,Moderate,6,True,0.5,1.0,F,High Risk
+SPP0585,Harper,Lewis,Female,High School,True,High School,Middle,4,6.7,2.2,0,False,82.7,4.7,Moderate,0,False,1.75,1.8,D,High Risk
+SPP0586,Asher,Clark,Male,High School,True,Associate,Low,3,1.2,1.6,2,True,83.2,7.7,Moderate,7,True,1.81,2.44,C,Moderate Risk
+SPP0587,Mateo,Williams,Male,High School,True,Associate,Middle,2,2.5,4.7,1,True,75.6,6.7,Moderate,5,False,2.32,2.62,C,Moderate Risk
+SPP0588,Lucas,Brown,Male,High School,True,No Diploma,Middle,2,3.5,4.0,3,False,86.7,7.7,Low,2,False,1.98,2.24,C,Moderate Risk
+SPP0589,Asher,Jones,Male,Middle School,False,High School,Middle,1,8.3,4.1,0,True,97.9,6.3,Moderate,6,False,2.11,2.28,C,Moderate Risk
+SPP0590,Mateo,Smith,Male,Preparatory,False,Bachelor,Middle,3,9.1,2.9,1,True,88.8,8.4,High,5,True,2.39,2.14,C,Moderate Risk
+SPP0591,Henry,Brown,Male,Middle School,True,Bachelor,Middle,4,12.0,3.1,3,False,71.7,8.1,Moderate,6,False,2.33,2.02,C,Moderate Risk
+SPP0592,Chloe,Thomas,Female,High School,True,High School,High,3,3.6,2.9,4,False,80.9,7.8,Low,3,False,2.5,2.35,C,Moderate Risk
+SPP0593,Elijah,Taylor,Male,High School,True,Graduate,Low,3,5.9,3.4,0,False,78.4,8.0,High,1,False,2.12,1.93,D,High Risk
+SPP0594,Noah,Lewis,Male,High School,True,Bachelor,Middle,2,0.6,4.8,2,True,85.6,6.5,Low,3,False,3.12,2.92,B,Low Risk
+SPP0595,Sofia,Jackson,Female,High School,True,Associate,Middle,4,4.2,4.0,1,True,100.0,6.6,Moderate,5,True,1.82,2.57,C,Moderate Risk
+SPP0596,Henry,White,Male,Middle School,True,Bachelor,Middle,0,1.4,4.3,1,False,83.2,8.0,Low,2,False,2.45,2.45,C,Moderate Risk
+SPP0597,Sophia,Jones,Female,High School,True,Graduate,Middle,2,2.8,4.2,2,True,83.9,6.4,Low,1,True,2.47,3.01,B,Low Risk
+SPP0598,Ethan,Brown,Male,High School,False,Associate,Middle,4,5.0,4.8,1,True,100.0,8.6,Moderate,3,False,2.99,2.84,B,Low Risk
+SPP0599,Alexander,White,Male,High School,True,High School,Middle,1,1.5,3.9,4,True,95.5,6.9,Moderate,1,False,1.78,2.41,C,Moderate Risk
+SPP0600,Asher,Taylor,Male,Preparatory,True,Graduate,Middle,2,0.5,4.0,3,True,91.9,7.7,High,2,True,2.84,2.89,B,Low Risk
+SPP0601,Elijah,Thompson,Male,High School,True,Bachelor,High,1,0.5,5.3,3,True,100.0,9.3,High,4,False,3.41,3.25,B,Low Risk
+SPP0602,Ethan,Taylor,Male,Middle School,True,High School,High,2,0.5,2.5,3,False,90.9,6.5,High,2,False,1.84,2.18,C,Moderate Risk
+SPP0603,Oliver,Miller,Male,Middle School,True,Associate,Middle,3,0.5,2.2,4,False,61.2,7.3,Moderate,6,False,2.52,2.23,C,Moderate Risk
+SPP0604,Lucas,Martin,Male,High School,True,Associate,Low,4,0.6,1.7,1,True,95.0,8.3,Moderate,0,True,2.05,1.9,D,High Risk
+SPP0605,Oliver,Smith,Male,High School,True,Graduate,High,1,1.4,3.8,3,False,65.9,8.2,High,1,True,2.18,2.07,C,Moderate Risk
+SPP0606,Mason,Thompson,Male,High School,True,Associate,High,2,1.3,0.7,3,False,90.4,6.9,Moderate,2,False,2.28,2.07,C,Moderate Risk
+SPP0607,Mason,Wilson,Male,High School,False,High School,Middle,1,21.6,4.2,3,False,64.4,6.7,High,4,True,1.17,1.28,F,High Risk
+SPP0608,Samuel,Garcia,Male,Preparatory,True,Bachelor,Middle,2,1.8,3.3,4,True,79.4,7.0,Moderate,7,False,2.58,2.53,C,Moderate Risk
+SPP0609,Ava,Clark,Female,Preparatory,False,Associate,High,2,0.7,5.2,1,True,80.6,8.6,Moderate,4,True,2.65,2.65,C,Moderate Risk
+SPP0610,Emma,Jackson,Female,Preparatory,True,High School,Middle,0,3.9,2.5,1,True,75.8,6.9,Moderate,2,True,1.19,1.19,F,High Risk
+SPP0611,Oliver,Williams,Male,Middle School,True,Associate,Middle,0,9.8,3.2,0,True,80.8,7.3,Moderate,3,False,2.22,2.42,C,Moderate Risk
+SPP0612,Mia,Miller,Female,High School,True,Bachelor,Middle,0,5.7,5.2,6,True,97.4,6.8,Moderate,2,False,2.71,3.08,B,Low Risk
+SPP0613,Evelyn,Wilson,Female,Middle School,True,No Diploma,High,1,1.8,5.6,0,True,76.4,7.9,Moderate,4,False,2.76,2.86,B,Low Risk
+SPP0614,Jack,Jones,Male,Middle School,False,Bachelor,High,3,4.1,2.5,1,True,91.5,7.4,Moderate,7,False,2.45,2.57,C,Moderate Risk
+SPP0615,Emily,Taylor,Female,High School,True,High School,Middle,2,6.3,3.8,3,True,73.4,6.2,High,2,False,2.01,2.23,C,Moderate Risk
+SPP0616,Victoria,Thompson,Female,High School,False,High School,Middle,4,6.5,3.9,1,True,82.7,6.2,High,0,False,2.39,2.13,C,Moderate Risk
+SPP0617,Oliver,Thomas,Male,Middle School,False,High School,Low,0,5.5,4.1,2,True,88.9,5.2,Low,3,False,1.71,2.06,C,Moderate Risk
+SPP0618,Sebastian,Martin,Male,Middle School,True,High School,High,1,10.2,3.1,1,False,73.0,6.4,Low,2,False,2.16,2.21,C,Moderate Risk
+SPP0619,Abigail,Williams,Female,Middle School,True,Bachelor,Middle,1,10.2,5.4,1,True,69.3,8.0,Moderate,4,False,2.58,2.23,C,Moderate Risk
+SPP0620,Charlotte,Wilson,Female,Preparatory,True,High School,High,1,4.3,0.7,2,False,90.9,8.5,Moderate,2,False,2.75,2.48,C,Moderate Risk
+SPP0621,Noah,Harris,Male,Middle School,False,Bachelor,Middle,4,2.8,2.9,2,False,98.5,7.9,Low,6,False,2.9,2.54,C,Moderate Risk
+SPP0622,Jack,Jones,Male,Middle School,False,No Diploma,High,4,5.1,4.2,2,False,84.1,7.8,Moderate,2,True,1.54,1.72,D,High Risk
+SPP0623,Elijah,Jackson,Male,High School,True,Graduate,Middle,0,8.5,4.2,2,False,79.5,7.1,High,1,True,2.83,2.59,C,Moderate Risk
+SPP0624,Ella,White,Female,High School,False,Bachelor,Middle,4,0.5,5.5,2,False,86.9,8.0,High,2,True,1.49,1.81,D,High Risk
+SPP0625,Ella,Lewis,Female,Preparatory,True,Bachelor,Low,0,24.1,5.3,2,True,85.7,7.5,Moderate,7,True,2.67,2.75,C,Moderate Risk
+SPP0626,Elijah,Harris,Male,Middle School,True,High School,Middle,4,1.0,3.1,4,False,87.9,9.0,Moderate,0,True,2.57,2.62,C,Moderate Risk
+SPP0627,Mateo,Martin,Male,High School,True,Associate,High,4,3.2,5.4,1,False,54.7,7.1,Moderate,4,False,2.11,2.28,C,Moderate Risk
+SPP0628,Mia,Jackson,Female,High School,True,High School,Middle,4,10.3,2.4,1,False,72.2,8.5,Low,5,False,1.8,1.91,D,High Risk
+SPP0629,Sebastian,Thompson,Male,Preparatory,False,Graduate,Middle,0,1.3,4.9,2,True,74.9,8.1,Moderate,1,True,2.23,2.38,C,Moderate Risk
+SPP0630,Logan,Davis,Male,High School,True,Associate,Low,2,3.2,6.2,2,True,86.8,7.9,Low,5,False,2.18,2.47,C,Moderate Risk
+SPP0631,Elizabeth,Johnson,Female,Preparatory,True,Bachelor,High,0,0.7,5.3,3,False,87.2,5.2,Moderate,2,False,3.33,3.07,B,Low Risk
+SPP0632,Isabella,Jones,Female,Middle School,True,Bachelor,Middle,2,2.5,3.7,2,True,92.6,8.1,Moderate,6,False,2.77,2.82,B,Low Risk
+SPP0633,Harper,Garcia,Female,High School,True,High School,Middle,1,1.0,3.0,1,False,88.1,7.1,Moderate,3,False,2.13,2.07,C,Moderate Risk
+SPP0634,Victoria,Thomas,Female,High School,True,Bachelor,Middle,1,2.3,1.2,3,True,69.4,6.8,Moderate,0,False,1.79,1.74,D,High Risk
+SPP0635,Samuel,Robinson,Male,Preparatory,True,Bachelor,Middle,0,2.3,4.0,5,True,100.0,5.7,Moderate,0,True,2.8,2.78,C,Moderate Risk
+SPP0636,Jackson,Smith,Male,Middle School,True,Bachelor,Middle,2,24.9,1.8,2,True,100.0,7.2,Low,6,True,2.93,2.9,B,Low Risk
+SPP0637,Isabella,Thompson,Female,Middle School,True,Associate,Middle,2,26.3,2.3,3,True,69.9,7.2,Low,0,True,2.0,2.09,C,Moderate Risk
+SPP0638,Samuel,Anderson,Male,High School,True,High School,Middle,2,0.6,1.7,1,True,89.0,5.9,Moderate,6,False,2.05,1.62,D,High Risk
+SPP0639,James,Taylor,Male,Middle School,True,High School,High,1,6.5,2.8,4,True,77.9,5.7,Low,1,False,2.77,2.54,C,Moderate Risk
+SPP0640,Mason,Clark,Male,Middle School,True,Bachelor,High,0,0.5,3.5,3,True,86.7,7.7,Low,6,True,3.25,3.24,B,Low Risk
+SPP0641,Lucas,White,Male,Preparatory,True,Bachelor,Low,3,0.5,3.9,2,True,97.6,8.1,Moderate,7,True,2.78,2.91,B,Low Risk
+SPP0642,Owen,Taylor,Male,High School,True,Associate,Middle,2,0.6,2.6,3,True,100.0,7.4,High,6,False,2.79,2.83,B,Low Risk
+SPP0643,Samuel,Harris,Male,High School,True,Graduate,Low,2,16.8,5.1,2,False,94.0,8.4,Moderate,2,False,3.02,2.89,B,Low Risk
+SPP0644,Jackson,Clark,Male,High School,True,No Diploma,Low,3,14.1,3.2,1,False,88.5,7.1,Moderate,0,False,2.44,1.99,D,High Risk
+SPP0645,Alexander,Brown,Male,High School,True,Graduate,Middle,0,1.1,2.3,1,False,80.9,7.1,High,2,False,2.05,2.46,C,Moderate Risk
+SPP0646,Avery,Johnson,Female,Middle School,False,Graduate,High,2,0.9,3.8,3,True,87.2,6.3,High,3,False,2.88,2.68,C,Moderate Risk
+SPP0647,Ella,Wilson,Female,Middle School,False,Graduate,Low,0,1.4,6.4,4,True,100.0,5.6,Moderate,6,True,3.15,2.81,B,Low Risk
+SPP0648,Charlotte,Taylor,Female,High School,True,Bachelor,Middle,2,3.6,4.0,5,True,84.5,9.1,High,2,False,2.23,2.68,C,Moderate Risk
+SPP0649,Abigail,Anderson,Female,High School,True,High School,High,4,4.2,3.0,3,False,74.4,8.3,Moderate,5,True,2.71,2.76,C,Moderate Risk
+SPP0650,Emily,White,Female,High School,False,High School,High,2,1.3,1.2,2,False,65.6,5.8,High,2,False,0.5,0.75,F,High Risk
+SPP0651,Jack,Miller,Male,Middle School,True,Bachelor,Middle,4,7.1,3.2,0,True,91.2,7.4,Moderate,2,False,2.5,2.37,C,Moderate Risk
+SPP0652,Sophia,Harris,Female,High School,True,High School,Middle,0,1.9,3.9,3,False,88.0,7.1,High,6,True,2.12,2.23,C,Moderate Risk
+SPP0653,Grace,Clark,Female,Preparatory,False,High School,Middle,2,12.8,2.9,3,True,77.2,6.9,High,7,False,1.56,1.6,D,High Risk
+SPP0654,Sophia,Harris,Female,Preparatory,True,Bachelor,Low,1,5.3,1.0,3,True,97.3,6.8,Moderate,4,False,2.31,2.43,C,Moderate Risk
+SPP0655,Noah,Davis,Male,Preparatory,True,High School,Low,1,2.9,2.2,1,False,79.9,7.6,High,5,True,2.02,1.8,D,High Risk
+SPP0656,Ethan,Anderson,Male,High School,True,Graduate,Low,3,7.8,5.7,2,True,83.4,8.0,Low,1,True,2.88,2.81,B,Low Risk
+SPP0657,Asher,Wilson,Male,High School,True,Bachelor,Middle,1,8.5,5.7,3,True,84.8,7.6,Low,6,True,3.5,3.43,B,Low Risk
+SPP0658,Henry,Harris,Male,High School,True,Bachelor,High,4,1.7,2.2,1,False,80.8,7.1,Moderate,2,False,2.27,2.22,C,Moderate Risk
+SPP0659,Chloe,Smith,Female,Middle School,True,Bachelor,Middle,1,2.1,4.5,4,True,87.8,7.0,High,0,False,2.49,2.32,C,Moderate Risk
+SPP0660,Emily,Smith,Female,High School,True,Graduate,Middle,1,13.7,1.7,2,True,98.8,8.1,Moderate,6,False,2.4,2.48,C,Moderate Risk
+SPP0661,Logan,Clark,Male,High School,True,Bachelor,Middle,1,0.9,5.6,2,False,71.3,7.7,Moderate,7,False,3.42,2.91,B,Low Risk
+SPP0662,Emma,Williams,Female,Middle School,True,Bachelor,Middle,2,0.5,3.9,2,True,90.9,7.3,Moderate,4,False,2.66,3.03,B,Low Risk
+SPP0663,Grace,Taylor,Female,High School,True,High School,Middle,3,3.0,4.9,1,True,87.1,7.2,Low,2,False,2.04,2.56,C,Moderate Risk
+SPP0664,Oliver,Davis,Male,Preparatory,True,Graduate,High,0,8.1,0.9,2,True,86.8,7.5,Moderate,4,False,2.08,2.62,C,Moderate Risk
+SPP0665,Elijah,Harris,Male,Middle School,True,Bachelor,Low,3,7.4,4.5,1,True,95.5,6.7,Moderate,1,False,2.45,3.07,B,Low Risk
+SPP0666,Mason,Taylor,Male,Preparatory,True,Associate,Low,4,12.6,3.5,5,True,85.6,8.0,High,6,False,2.25,2.05,C,Moderate Risk
+SPP0667,James,Smith,Male,Middle School,False,No Diploma,Middle,2,3.8,4.8,3,True,90.8,6.1,Low,4,True,2.53,2.36,C,Moderate Risk
+SPP0668,Asher,Robinson,Male,High School,True,Bachelor,Middle,2,0.5,4.9,1,True,93.6,6.8,Moderate,0,True,3.37,3.01,B,Low Risk
+SPP0669,Liam,Johnson,Male,High School,True,No Diploma,Middle,1,4.4,3.6,2,True,78.9,7.8,Low,2,True,1.79,2.11,C,Moderate Risk
+SPP0670,Jackson,Clark,Male,High School,True,Graduate,Middle,1,7.5,2.6,3,False,88.6,6.1,Low,0,False,3.04,2.82,B,Low Risk
+SPP0671,Logan,Jackson,Male,Preparatory,True,Graduate,Middle,4,0.5,4.7,3,False,82.0,5.6,Moderate,6,False,3.4,3.38,B,Low Risk
+SPP0672,Charlotte,Smith,Female,Preparatory,True,High School,Middle,2,0.9,3.4,5,False,83.4,7.3,Moderate,6,True,2.58,2.53,C,Moderate Risk
+SPP0673,Asher,Johnson,Male,High School,True,Bachelor,Middle,0,0.5,2.2,1,True,81.1,5.5,Low,7,False,2.47,2.28,C,Moderate Risk
+SPP0674,Scarlett,Martin,Female,Middle School,True,No Diploma,Middle,3,4.5,2.1,0,True,90.7,5.9,Low,3,False,1.91,2.14,C,Moderate Risk
+SPP0675,Liam,Harris,Male,Preparatory,True,Bachelor,High,2,10.9,1.3,0,False,86.0,8.0,High,4,False,3.16,2.38,C,Moderate Risk
+SPP0676,Mia,Jackson,Female,Middle School,False,High School,High,0,5.6,2.7,4,True,89.7,7.0,High,4,True,1.81,1.41,F,High Risk
+SPP0677,Jack,Martin,Male,Preparatory,False,Bachelor,High,0,20.1,5.2,0,True,84.8,8.5,Moderate,4,False,2.69,2.85,B,Low Risk
+SPP0678,Lucas,Thompson,Male,High School,True,High School,Middle,3,0.5,3.8,1,False,65.8,6.0,Moderate,5,True,1.49,1.82,D,High Risk
+SPP0679,Olivia,Miller,Female,Middle School,True,High School,Middle,0,11.7,2.7,1,True,85.4,7.1,Low,6,True,2.49,2.52,C,Moderate Risk
+SPP0680,Emma,Thompson,Female,High School,True,Associate,Middle,4,8.4,4.7,2,True,85.8,7.6,High,6,False,2.64,2.59,C,Moderate Risk
+SPP0681,Abigail,Miller,Female,Middle School,True,High School,High,0,1.9,2.3,1,False,87.9,6.0,Moderate,1,False,2.37,2.05,C,Moderate Risk
+SPP0682,Ethan,Jackson,Male,Middle School,True,Associate,Low,4,18.2,3.6,3,False,77.9,8.2,High,5,True,1.53,1.88,D,High Risk
+SPP0683,Liam,Jones,Male,High School,True,No Diploma,Middle,0,1.7,3.2,4,True,70.7,7.7,Low,0,False,2.27,2.18,C,Moderate Risk
+SPP0684,Ella,Thompson,Female,Middle School,False,Associate,Middle,1,11.0,4.7,2,True,92.5,5.6,Moderate,6,False,2.52,2.98,B,Low Risk
+SPP0685,Olivia,Williams,Female,Middle School,True,Graduate,Middle,0,10.6,1.1,3,True,81.7,7.2,Moderate,3,False,2.08,1.95,D,High Risk
+SPP0686,Abigail,Miller,Female,Middle School,True,Bachelor,Middle,4,7.1,2.2,2,False,87.1,7.6,Low,7,False,2.1,2.13,C,Moderate Risk
+SPP0687,Olivia,Thompson,Female,High School,True,Graduate,Middle,0,4.1,1.0,2,True,81.6,6.6,Low,1,True,2.77,2.19,C,Moderate Risk
+SPP0688,Theodore,Miller,Male,Middle School,True,Graduate,Middle,0,0.6,3.1,2,True,84.9,5.7,Moderate,1,False,1.92,2.38,C,Moderate Risk
+SPP0689,Ella,Smith,Female,High School,True,High School,Middle,0,3.8,5.3,2,False,79.6,7.5,Moderate,2,True,3.24,2.83,B,Low Risk
+SPP0690,Henry,Thompson,Male,Middle School,True,High School,Middle,4,2.2,2.7,4,True,73.4,9.4,Low,6,False,1.65,2.16,C,Moderate Risk
+SPP0691,Mason,Thompson,Male,Preparatory,False,Associate,Middle,0,7.9,2.7,1,False,90.7,6.8,Moderate,3,True,1.4,1.8,D,High Risk
+SPP0692,Sebastian,Anderson,Male,Preparatory,True,Graduate,High,3,7.1,4.8,1,False,77.8,8.8,Low,6,False,2.06,2.56,C,Moderate Risk
+SPP0693,Avery,Williams,Female,Middle School,True,Graduate,Middle,3,12.1,5.1,1,True,87.0,6.4,Low,4,True,3.53,3.45,B,Low Risk
+SPP0694,Aiden,Harris,Male,High School,False,No Diploma,Middle,4,0.5,3.4,5,False,89.9,7.4,Moderate,5,False,1.67,2.02,C,Moderate Risk
+SPP0695,Lucas,Anderson,Male,Preparatory,True,High School,Low,1,8.3,4.5,4,True,78.0,8.0,Moderate,7,False,2.0,2.4,C,Moderate Risk
+SPP0696,Abigail,Martin,Female,Preparatory,True,High School,Low,3,13.9,1.9,1,False,70.6,7.2,Moderate,7,False,1.34,1.28,F,High Risk
+SPP0697,Noah,Wilson,Male,High School,False,Bachelor,Middle,2,7.8,5.6,2,False,100.0,6.9,Moderate,4,True,2.58,2.44,C,Moderate Risk
+SPP0698,Chloe,Smith,Female,Middle School,True,Bachelor,Middle,3,0.7,6.7,4,True,78.7,7.9,Moderate,6,False,3.39,3.38,B,Low Risk
+SPP0699,Asher,Martin,Male,High School,True,High School,Middle,2,0.5,4.3,0,False,92.5,9.1,Moderate,2,True,2.16,2.21,C,Moderate Risk
+SPP0700,Charlotte,Wilson,Female,High School,True,Associate,Low,4,0.5,0.5,3,False,100.0,7.5,High,5,False,2.44,1.89,D,High Risk
+SPP0701,Victoria,Clark,Female,High School,False,Bachelor,High,1,5.0,2.7,3,True,94.5,6.7,Moderate,4,False,3.18,3.14,B,Low Risk
+SPP0702,Oliver,Thomas,Male,High School,True,Bachelor,Middle,2,5.0,4.4,3,True,81.4,7.0,Moderate,7,False,2.93,2.69,C,Moderate Risk
+SPP0703,Jack,Clark,Male,Preparatory,True,No Diploma,Low,2,21.7,2.9,4,True,84.2,9.7,Low,0,False,1.87,1.83,D,High Risk
+SPP0704,Alexander,Wilson,Male,Preparatory,True,Graduate,Middle,3,2.5,5.4,2,True,75.0,7.3,Moderate,7,True,2.75,3.08,B,Low Risk
+SPP0705,Owen,Miller,Male,Middle School,True,Associate,High,2,2.0,4.4,2,False,95.6,6.6,Moderate,4,True,2.64,2.48,C,Moderate Risk
+SPP0706,Amelia,White,Female,Middle School,True,Bachelor,Middle,4,4.9,2.4,1,False,91.8,6.1,Moderate,6,False,2.63,2.83,B,Low Risk
+SPP0707,Owen,Clark,Male,Middle School,True,Bachelor,Middle,4,8.7,3.5,3,True,78.8,5.4,Moderate,7,False,2.86,2.89,B,Low Risk
+SPP0708,Victoria,Clark,Female,Preparatory,True,High School,Middle,4,13.8,2.2,3,True,72.5,7.6,Low,5,False,2.25,2.16,C,Moderate Risk
+SPP0709,Jack,Johnson,Male,High School,True,High School,Low,3,8.1,3.2,2,True,69.1,7.9,Low,0,False,1.17,1.75,D,High Risk
+SPP0710,Evelyn,Wilson,Female,High School,False,Bachelor,Middle,1,2.8,2.7,2,True,96.8,6.8,Low,2,True,1.81,2.29,C,Moderate Risk
+SPP0711,Amelia,Jackson,Female,High School,True,High School,Low,3,5.0,5.3,2,True,86.4,7.2,Moderate,7,False,2.84,2.57,C,Moderate Risk
+SPP0712,Scarlett,Harris,Female,High School,True,Bachelor,Middle,4,9.7,6.7,5,True,87.6,6.0,High,2,False,2.92,3.12,B,Low Risk
+SPP0713,Liam,Williams,Male,High School,False,Bachelor,Low,3,3.4,1.4,3,True,75.1,7.3,Low,0,False,1.86,2.04,C,Moderate Risk
+SPP0714,Noah,Anderson,Male,High School,True,Bachelor,High,4,1.2,0.6,2,False,67.4,7.7,Moderate,5,False,1.7,1.65,D,High Risk
+SPP0715,Aiden,White,Male,High School,True,High School,Middle,0,0.9,3.1,3,True,96.6,6.7,Low,5,False,2.84,2.96,B,Low Risk
+SPP0716,Emily,Davis,Female,Preparatory,False,High School,Low,0,0.5,1.2,4,True,85.5,8.9,Low,4,False,2.25,2.12,C,Moderate Risk
+SPP0717,Emma,Robinson,Female,Preparatory,True,Bachelor,Middle,2,6.3,3.6,3,True,95.9,6.4,High,7,False,2.5,2.52,C,Moderate Risk
+SPP0718,Abigail,Clark,Female,Preparatory,True,No Diploma,Middle,1,0.6,4.6,1,False,80.4,7.5,Moderate,2,False,1.76,1.7,D,High Risk
+SPP0719,Alexander,Martin,Male,High School,True,Bachelor,Middle,0,1.4,5.7,0,False,82.2,8.0,Low,2,True,2.73,2.94,B,Low Risk
+SPP0720,Ava,Johnson,Female,High School,True,Bachelor,Middle,4,1.8,3.8,7,False,93.6,7.1,Low,7,True,2.83,2.77,C,Moderate Risk
+SPP0721,Mia,Davis,Female,High School,True,Associate,Low,3,4.1,3.2,2,True,93.8,7.0,High,0,True,2.76,2.43,C,Moderate Risk
+SPP0722,Mason,Garcia,Male,Preparatory,True,Bachelor,Middle,3,2.5,0.5,4,True,94.6,5.8,Low,2,False,1.73,1.9,D,High Risk
+SPP0723,Alexander,Thomas,Male,Middle School,True,High School,Middle,2,5.6,3.5,0,True,81.5,8.6,Moderate,6,False,2.85,2.58,C,Moderate Risk
+SPP0724,Grace,Harris,Female,High School,True,High School,Low,3,0.5,3.6,1,True,92.4,7.0,Moderate,4,False,2.25,2.27,C,Moderate Risk
+SPP0725,Harper,Davis,Female,Middle School,True,Graduate,Middle,0,0.7,4.5,2,False,98.3,7.7,Moderate,2,False,2.99,2.77,C,Moderate Risk
+SPP0726,Chloe,Brown,Female,High School,True,Graduate,Middle,3,3.5,2.4,1,False,83.7,7.9,Moderate,7,True,2.47,2.43,C,Moderate Risk
+SPP0727,Ethan,Harris,Male,High School,False,Associate,Middle,0,2.1,2.8,0,True,78.8,6.6,High,7,False,2.13,2.14,C,Moderate Risk
+SPP0728,Chloe,Lewis,Female,High School,True,Graduate,Middle,0,1.8,1.3,1,True,100.0,7.0,Low,0,True,2.22,2.12,C,Moderate Risk
+SPP0729,Jackson,Thompson,Male,Middle School,False,Associate,Middle,1,0.5,0.5,1,False,77.1,8.5,Moderate,4,False,1.77,1.41,F,High Risk
+SPP0730,Sebastian,Jackson,Male,High School,True,High School,High,2,11.3,1.8,0,True,92.6,6.1,Low,3,True,2.18,2.11,C,Moderate Risk
+SPP0731,Elijah,Robinson,Male,Preparatory,True,High School,Low,4,5.9,1.1,2,True,84.3,9.3,Moderate,0,False,1.96,1.82,D,High Risk
+SPP0732,Amelia,Johnson,Female,Middle School,True,Graduate,Low,0,0.6,4.0,3,False,62.9,6.5,High,7,False,1.79,1.9,D,High Risk
+SPP0733,Evelyn,Jackson,Female,High School,True,High School,Low,2,0.5,2.7,2,True,98.5,6.0,Moderate,3,False,2.1,1.63,D,High Risk
+SPP0734,Isabella,Jackson,Female,High School,True,Associate,Low,4,18.4,2.7,8,False,51.9,7.3,Moderate,7,False,1.8,1.61,D,High Risk
+SPP0735,Ethan,Harris,Male,Preparatory,True,Associate,Low,3,5.7,2.0,1,True,61.2,9.4,High,2,True,2.14,2.12,C,Moderate Risk
+SPP0736,Amelia,Lewis,Female,Middle School,True,Bachelor,Middle,2,2.7,0.5,1,False,91.3,5.3,Low,4,True,2.02,2.06,C,Moderate Risk
+SPP0737,Logan,Taylor,Male,Preparatory,True,Associate,Middle,2,6.0,5.8,5,False,91.3,7.1,Moderate,2,False,3.29,3.0,B,Low Risk
+SPP0738,Avery,Williams,Female,High School,True,High School,High,2,7.1,2.0,2,False,77.3,7.7,High,4,False,1.72,1.9,D,High Risk
+SPP0739,Owen,Clark,Male,Preparatory,True,High School,Low,3,7.6,2.9,1,True,86.8,7.2,Moderate,1,False,1.47,2.0,C,Moderate Risk
+SPP0740,Theodore,Williams,Male,Preparatory,True,Bachelor,Middle,3,3.2,1.3,2,True,54.6,7.6,Low,2,True,1.74,1.72,D,High Risk
+SPP0741,Jack,White,Male,Middle School,True,Bachelor,High,2,2.8,5.0,2,True,93.5,6.5,Low,2,False,3.73,3.37,B,Low Risk
+SPP0742,Aiden,Davis,Male,Middle School,True,Associate,High,1,0.5,3.7,3,True,88.0,6.6,Low,2,False,3.35,2.87,B,Low Risk
+SPP0743,Grace,Brown,Female,Middle School,True,Bachelor,Middle,0,13.1,2.3,3,False,84.5,7.1,Low,5,False,2.08,2.11,C,Moderate Risk
+SPP0744,Abigail,Lewis,Female,High School,True,High School,Middle,3,4.6,2.9,1,True,85.3,6.1,Moderate,0,False,2.11,2.1,C,Moderate Risk
+SPP0745,Alexander,Anderson,Male,Middle School,False,Graduate,High,1,1.1,6.0,1,False,90.9,7.2,Low,5,False,2.63,2.47,C,Moderate Risk
+SPP0746,Mia,Anderson,Female,Middle School,True,Associate,Middle,3,12.6,3.4,4,True,84.7,6.8,Low,4,True,2.7,2.78,C,Moderate Risk
+SPP0747,Sebastian,Anderson,Male,High School,True,High School,Low,2,12.3,3.2,3,True,62.5,6.7,Moderate,4,True,1.56,1.41,F,High Risk
+SPP0748,Olivia,Johnson,Female,Middle School,True,Associate,High,1,22.6,2.1,2,False,100.0,7.5,Moderate,4,False,2.51,2.54,C,Moderate Risk
+SPP0749,Charlotte,Thompson,Female,Middle School,False,Bachelor,Middle,4,10.4,0.7,3,True,99.4,5.4,Moderate,0,False,1.76,1.46,F,High Risk
+SPP0750,Ella,Wilson,Female,High School,True,Graduate,Low,0,30.0,3.3,3,False,69.6,7.0,Moderate,4,True,2.4,2.18,C,Moderate Risk
+SPP0751,Noah,Johnson,Male,Middle School,False,High School,Middle,0,1.4,4.0,1,True,80.9,9.5,Low,5,False,2.89,2.65,C,Moderate Risk
+SPP0752,Elizabeth,Harris,Female,High School,True,Bachelor,Middle,3,9.2,5.1,3,False,82.2,6.1,Low,6,True,3.27,3.33,B,Low Risk
+SPP0753,Ava,Martin,Female,High School,True,No Diploma,High,0,8.7,0.5,0,True,97.9,8.5,Low,5,False,2.25,1.67,D,High Risk
+SPP0754,Samuel,Brown,Male,High School,False,No Diploma,Low,4,1.3,1.8,1,False,59.1,7.3,Moderate,6,True,1.35,1.2,F,High Risk
+SPP0755,Jackson,Davis,Male,Preparatory,True,Associate,High,1,0.5,2.6,3,True,79.0,6.6,Low,2,False,2.62,2.55,C,Moderate Risk
+SPP0756,Amelia,Wilson,Female,High School,True,Bachelor,Middle,1,19.4,3.5,0,True,63.9,5.9,Moderate,3,False,1.68,1.91,D,High Risk
+SPP0757,Mia,Jones,Female,High School,False,Bachelor,Middle,2,1.8,3.3,2,False,81.6,7.3,Low,6,True,2.55,2.58,C,Moderate Risk
+SPP0758,Emma,Martin,Female,High School,False,High School,Low,1,10.2,3.3,3,False,79.3,8.7,High,1,False,1.63,1.6,D,High Risk
+SPP0759,Emma,Jackson,Female,Preparatory,True,No Diploma,Middle,3,0.5,4.1,4,True,86.0,6.8,Moderate,7,True,2.31,2.55,C,Moderate Risk
+SPP0760,Amelia,Miller,Female,Preparatory,True,Associate,High,4,0.5,2.1,1,True,77.7,7.1,Moderate,4,False,1.88,1.97,D,High Risk
+SPP0761,Ethan,Lewis,Male,Preparatory,False,No Diploma,Middle,2,3.1,4.9,3,True,76.0,8.2,High,0,False,1.55,1.6,D,High Risk
+SPP0762,Theodore,Thompson,Male,High School,True,No Diploma,Low,3,1.4,4.2,0,True,92.4,7.5,Moderate,6,False,2.47,2.45,C,Moderate Risk
+SPP0763,Jackson,Williams,Male,Middle School,False,High School,Middle,3,5.9,3.0,1,False,90.5,5.6,Moderate,0,False,1.65,2.18,C,Moderate Risk
+SPP0764,Sophia,Jones,Female,Middle School,True,Associate,Middle,3,4.2,5.9,1,True,91.6,7.3,High,4,False,2.77,2.81,B,Low Risk
+SPP0765,Oliver,Clark,Male,Middle School,True,High School,Low,0,0.5,5.8,3,True,82.9,8.7,Moderate,3,False,1.79,1.9,D,High Risk
+SPP0766,Mia,Thomas,Female,Preparatory,False,Associate,Middle,3,0.9,4.9,2,False,78.1,7.2,High,5,True,2.08,2.09,C,Moderate Risk
+SPP0767,Sofia,Miller,Female,High School,True,No Diploma,Middle,0,2.5,0.5,0,True,83.6,4.5,Moderate,4,True,1.54,1.23,F,High Risk
+SPP0768,Chloe,Wilson,Female,High School,True,High School,Middle,1,1.0,5.9,2,False,91.0,7.6,High,0,False,3.11,2.49,C,Moderate Risk
+SPP0769,Logan,Garcia,Male,High School,True,Bachelor,Middle,0,7.9,4.7,2,False,58.9,7.0,Low,1,False,2.65,2.45,C,Moderate Risk
+SPP0770,Emily,Thompson,Female,Preparatory,True,High School,Low,3,2.7,6.5,4,True,89.7,5.4,Low,3,False,2.38,2.75,C,Moderate Risk
+SPP0771,Jackson,Martin,Male,Middle School,True,Bachelor,Middle,4,0.5,5.4,3,False,88.7,5.5,Moderate,7,True,3.02,3.12,B,Low Risk
+SPP0772,Sofia,Williams,Female,Middle School,False,No Diploma,Middle,4,3.3,5.9,5,True,85.7,8.2,Low,4,False,2.45,2.27,C,Moderate Risk
+SPP0773,Theodore,Brown,Male,High School,True,Associate,Middle,1,0.5,4.8,2,True,83.2,6.5,Low,6,False,3.35,3.21,B,Low Risk
+SPP0774,James,Taylor,Male,High School,True,High School,Middle,3,0.7,5.5,4,True,54.2,6.3,Moderate,1,False,2.96,2.66,C,Moderate Risk
+SPP0775,Elizabeth,Jones,Female,High School,False,High School,Middle,0,1.4,6.5,3,True,79.7,7.2,Moderate,7,True,2.41,2.44,C,Moderate Risk
+SPP0776,Mateo,Taylor,Male,Preparatory,True,Associate,High,4,9.8,3.8,5,True,100.0,6.6,High,4,True,2.49,2.6,C,Moderate Risk
+SPP0777,Liam,Thomas,Male,Middle School,True,Graduate,Middle,2,12.9,1.1,0,True,85.2,7.3,Moderate,3,True,2.8,2.27,C,Moderate Risk
+SPP0778,Isabella,Taylor,Female,High School,True,No Diploma,Middle,3,8.8,3.0,1,False,81.3,7.0,High,0,False,1.17,1.15,F,High Risk
+SPP0779,Mia,Jackson,Female,High School,False,Associate,Middle,3,2.0,4.1,2,False,85.2,6.0,Moderate,5,False,1.71,2.02,C,Moderate Risk
+SPP0780,Sophia,Anderson,Female,Middle School,True,Bachelor,Middle,2,1.6,3.6,2,False,89.3,6.7,Low,6,True,3.5,3.06,B,Low Risk
+SPP0781,Ava,Martin,Female,Preparatory,True,Associate,Middle,4,4.0,1.6,1,True,92.9,7.6,Low,5,False,2.2,2.65,C,Moderate Risk
+SPP0782,Emma,Davis,Female,High School,True,Bachelor,Low,2,6.4,1.1,3,True,82.3,7.2,Moderate,3,False,1.51,2.56,C,Moderate Risk
+SPP0783,Oliver,Davis,Male,High School,True,High School,Low,1,25.1,2.4,6,True,90.1,7.1,Moderate,7,True,2.63,2.4,C,Moderate Risk
+SPP0784,Alexander,Davis,Male,Preparatory,True,Graduate,Middle,0,0.7,4.7,5,True,100.0,9.1,Low,7,False,3.72,3.45,B,Low Risk
+SPP0785,Liam,Jackson,Male,High School,True,High School,Low,0,0.5,5.9,0,True,97.1,7.9,Moderate,2,False,2.89,2.77,C,Moderate Risk
+SPP0786,Sophia,Johnson,Female,Middle School,True,High School,Low,4,5.9,4.9,2,False,100.0,8.1,Moderate,5,False,2.27,2.66,C,Moderate Risk
+SPP0787,Ava,Thomas,Female,High School,False,Graduate,Middle,2,8.9,5.1,0,True,77.1,7.0,Moderate,4,False,2.44,2.46,C,Moderate Risk
+SPP0788,Logan,Taylor,Male,High School,True,Associate,Low,3,9.4,3.4,3,True,100.0,7.4,High,1,False,2.26,2.34,C,Moderate Risk
+SPP0789,Alexander,Thomas,Male,Middle School,True,Associate,Middle,3,5.7,0.9,1,True,75.5,6.8,Moderate,1,True,1.26,1.42,F,High Risk
+SPP0790,Mia,Anderson,Female,Middle School,True,Bachelor,Middle,3,15.4,2.8,4,True,89.2,8.0,Moderate,6,True,3.22,2.8,B,Low Risk
+SPP0791,Samuel,Harris,Male,High School,True,Associate,Low,1,3.6,3.1,2,True,93.8,7.1,High,5,True,1.53,1.84,D,High Risk
+SPP0792,Mia,Martin,Female,High School,True,High School,Middle,1,12.3,2.8,3,True,78.9,7.4,Low,3,False,2.21,2.12,C,Moderate Risk
+SPP0793,Chloe,Thompson,Female,Middle School,True,Bachelor,Low,3,17.2,3.6,0,False,86.1,7.4,Moderate,6,True,2.68,2.32,C,Moderate Risk
+SPP0794,Emily,Johnson,Female,High School,True,High School,High,4,9.4,4.2,2,True,95.9,7.2,High,3,True,2.12,2.01,C,Moderate Risk
+SPP0795,Jackson,Robinson,Male,Preparatory,True,Bachelor,Middle,1,1.9,4.8,2,False,76.5,10.0,Moderate,3,False,3.38,3.01,B,Low Risk
+SPP0796,Olivia,Thomas,Female,Middle School,True,Graduate,Low,1,1.1,3.1,1,True,100.0,6.5,High,1,False,1.9,1.73,D,High Risk
+SPP0797,Avery,Clark,Female,Middle School,True,High School,Low,0,4.0,0.6,4,True,68.4,6.5,Moderate,0,True,1.69,1.56,D,High Risk
+SPP0798,Emily,Robinson,Female,High School,True,Associate,Middle,0,3.0,2.8,1,False,100.0,7.9,Moderate,1,True,2.12,2.01,C,Moderate Risk
+SPP0799,Emily,Thompson,Female,Middle School,True,No Diploma,Low,4,10.5,3.6,1,True,97.0,6.6,Low,0,False,2.12,1.94,D,High Risk
+SPP0800,Evelyn,Garcia,Female,High School,True,No Diploma,Middle,1,0.5,5.3,1,True,83.9,6.9,High,6,True,2.27,2.39,C,Moderate Risk
+SPP0801,Olivia,Harris,Female,Middle School,True,Graduate,Middle,1,1.5,2.6,3,False,80.2,6.1,High,6,False,2.47,2.86,B,Low Risk
+SPP0802,Noah,Williams,Male,High School,True,High School,High,2,7.0,4.3,2,True,78.9,7.7,High,6,False,2.9,2.61,C,Moderate Risk
+SPP0803,Emily,Garcia,Female,High School,False,Associate,Middle,4,0.5,3.9,0,True,83.4,7.7,Moderate,3,True,1.96,1.61,D,High Risk
+SPP0804,Ella,Williams,Female,High School,True,Bachelor,Middle,4,1.9,3.6,6,False,84.4,6.9,Low,7,True,3.23,3.15,B,Low Risk
+SPP0805,James,Smith,Male,Preparatory,True,Graduate,High,2,2.4,4.9,2,False,100.0,7.9,Low,2,True,3.17,3.33,B,Low Risk
+SPP0806,Ava,Jackson,Female,Preparatory,True,Associate,Low,2,4.9,2.5,1,True,100.0,5.3,High,1,True,1.49,1.96,D,High Risk
+SPP0807,Victoria,White,Female,High School,True,Associate,High,0,0.9,2.6,1,True,87.4,6.5,Moderate,7,False,2.74,2.71,C,Moderate Risk
+SPP0808,Olivia,Jackson,Female,High School,True,Bachelor,Middle,4,9.9,3.5,4,False,74.9,7.0,Low,3,False,1.44,1.84,D,High Risk
+SPP0809,Logan,Brown,Male,Middle School,False,Graduate,Middle,4,3.0,2.5,4,True,78.5,6.0,Moderate,1,False,1.59,2.04,C,Moderate Risk
+SPP0810,Henry,Miller,Male,High School,True,Bachelor,High,2,12.4,4.3,2,True,82.8,5.5,Moderate,3,False,2.59,2.6,C,Moderate Risk
+SPP0811,Avery,Taylor,Female,Middle School,False,Associate,Middle,3,3.2,2.4,5,True,72.6,6.9,Moderate,1,True,1.98,2.21,C,Moderate Risk
+SPP0812,Grace,Miller,Female,Preparatory,False,No Diploma,Middle,3,1.6,3.8,1,False,70.9,7.9,Moderate,4,True,1.9,1.8,D,High Risk
+SPP0813,Jackson,Harris,Male,High School,True,No Diploma,Middle,0,0.8,3.3,0,True,100.0,8.5,Moderate,1,False,1.66,1.71,D,High Risk
+SPP0814,Ella,Harris,Female,High School,True,Associate,Middle,3,0.5,3.8,4,False,88.6,6.7,High,4,False,2.57,2.75,C,Moderate Risk
+SPP0815,Scarlett,Brown,Female,Middle School,True,Graduate,Middle,3,3.8,2.8,7,True,75.0,7.9,Low,7,False,2.52,3.03,B,Low Risk
+SPP0816,Sophia,Garcia,Female,High School,True,Graduate,Low,3,0.6,3.0,3,True,94.8,7.8,Moderate,0,False,1.83,2.09,C,Moderate Risk
+SPP0817,Emily,Lewis,Female,Preparatory,False,Graduate,Middle,1,2.5,3.6,2,False,70.9,8.4,Moderate,1,False,1.92,2.16,C,Moderate Risk
+SPP0818,Jackson,Jones,Male,High School,True,Associate,Middle,0,4.4,3.8,1,False,71.8,6.8,High,0,True,1.83,2.2,C,Moderate Risk
+SPP0819,Owen,Lewis,Male,Preparatory,False,Bachelor,Middle,2,1.6,3.5,2,True,75.4,5.4,Moderate,2,True,1.51,1.61,D,High Risk
+SPP0820,Noah,Thomas,Male,Middle School,True,Bachelor,High,3,1.0,6.1,1,True,100.0,7.3,Moderate,5,True,3.54,3.88,A,Low Risk
+SPP0821,Emma,Smith,Female,High School,False,Bachelor,Middle,1,7.5,2.0,1,False,82.0,6.2,Moderate,5,False,1.32,1.37,F,High Risk
+SPP0822,Alexander,Davis,Male,Preparatory,False,High School,Low,3,14.7,3.4,3,False,55.7,6.5,Moderate,4,True,1.24,1.17,F,High Risk
+SPP0823,Theodore,Smith,Male,High School,True,Associate,Middle,1,0.5,1.1,3,True,99.5,6.9,High,7,False,1.68,1.93,D,High Risk
+SPP0824,Liam,Jones,Male,Preparatory,True,Graduate,Middle,0,0.8,4.1,6,True,81.3,6.9,High,7,False,3.35,3.22,B,Low Risk
+SPP0825,Olivia,Garcia,Female,Middle School,True,High School,Low,3,16.1,1.8,3,False,62.8,7.3,Moderate,1,False,0.89,1.3,F,High Risk
+SPP0826,Ava,Williams,Female,Middle School,False,Graduate,Low,1,0.5,3.1,1,False,81.2,7.9,Moderate,5,True,1.41,1.74,D,High Risk
+SPP0827,Aiden,Harris,Male,Preparatory,False,High School,High,4,19.0,2.9,4,False,91.3,6.8,Low,0,False,2.39,2.42,C,Moderate Risk
+SPP0828,Owen,Jones,Male,Middle School,False,Bachelor,High,4,0.5,3.9,3,True,89.8,7.6,Moderate,5,False,3.18,2.97,B,Low Risk
+SPP0829,Charlotte,White,Female,Preparatory,True,Bachelor,Middle,1,10.3,2.7,2,True,100.0,7.2,Moderate,5,True,3.15,2.89,B,Low Risk
+SPP0830,Lucas,Robinson,Male,Preparatory,True,Bachelor,Middle,3,1.8,2.6,7,True,74.8,8.1,Moderate,3,True,2.9,2.42,C,Moderate Risk
+SPP0831,Logan,Martin,Male,Middle School,False,Associate,High,3,14.0,5.7,1,True,85.6,7.0,Low,5,False,2.92,3.03,B,Low Risk
+SPP0832,Alexander,Garcia,Male,High School,True,Graduate,High,0,1.9,3.9,0,True,76.6,7.1,High,0,True,2.23,2.27,C,Moderate Risk
+SPP0833,James,White,Male,Middle School,False,Bachelor,Middle,0,5.3,2.7,1,True,66.5,6.8,Moderate,5,False,2.05,2.36,C,Moderate Risk
+SPP0834,Aiden,Davis,Male,High School,True,High School,High,2,0.5,3.1,2,True,95.6,7.0,Moderate,1,False,2.52,2.9,B,Low Risk
+SPP0835,Ava,Miller,Female,Middle School,True,Bachelor,High,0,1.4,6.0,5,True,90.6,6.4,Low,5,True,3.94,3.87,A,Low Risk
+SPP0836,Oliver,Davis,Male,Middle School,True,High School,High,3,7.4,3.1,1,False,88.4,6.3,Moderate,2,False,2.29,2.52,C,Moderate Risk
+SPP0837,Avery,Jackson,Female,High School,True,High School,High,2,3.8,2.5,2,False,90.1,8.0,High,5,False,2.84,2.47,C,Moderate Risk
+SPP0838,Lucas,Garcia,Male,High School,True,High School,Middle,0,13.2,2.5,1,True,76.8,6.1,Moderate,4,True,1.13,1.57,D,High Risk
+SPP0839,Avery,Robinson,Female,Preparatory,True,Graduate,Middle,1,2.8,2.7,2,True,72.9,6.9,Moderate,7,True,2.76,2.61,C,Moderate Risk
+SPP0840,Ava,Johnson,Female,Preparatory,True,Associate,Middle,4,10.2,2.6,1,True,85.5,8.2,Low,3,False,2.22,2.52,C,Moderate Risk
+SPP0841,Jack,Davis,Male,High School,True,Bachelor,Middle,0,3.0,1.6,0,False,98.9,6.8,Moderate,6,True,2.42,2.67,C,Moderate Risk
+SPP0842,Victoria,Anderson,Female,High School,True,High School,Middle,0,19.4,1.8,1,True,100.0,8.0,High,0,True,2.45,2.29,C,Moderate Risk
+SPP0843,Jack,Smith,Male,Preparatory,True,High School,High,1,16.1,2.3,4,False,94.5,6.6,Moderate,7,True,2.49,2.69,C,Moderate Risk
+SPP0844,Isabella,Garcia,Female,High School,False,Graduate,Middle,3,2.0,4.4,0,True,85.4,6.1,High,7,True,1.71,1.86,D,High Risk
+SPP0845,Sebastian,Martin,Male,High School,True,Bachelor,Middle,1,10.9,2.9,2,True,88.2,5.6,High,5,False,2.0,2.24,C,Moderate Risk
+SPP0846,Asher,Lewis,Male,Preparatory,False,Graduate,Middle,0,9.4,3.2,3,False,85.1,8.5,High,5,False,2.67,2.13,C,Moderate Risk
+SPP0847,Mason,Thomas,Male,High School,True,High School,Middle,3,1.2,5.4,1,True,72.7,6.1,High,1,False,2.05,2.24,C,Moderate Risk
+SPP0848,Evelyn,Anderson,Female,High School,True,High School,Middle,2,4.9,5.4,2,True,85.3,7.9,Low,6,False,2.88,2.86,B,Low Risk
+SPP0849,Ava,Taylor,Female,Preparatory,True,Graduate,Low,0,0.5,3.1,3,True,69.0,6.2,High,1,False,1.79,1.85,D,High Risk
+SPP0850,Elizabeth,Williams,Female,Preparatory,True,Bachelor,Middle,1,9.1,2.6,4,True,83.5,8.5,Low,4,True,2.93,2.86,B,Low Risk
+SPP0851,Owen,Jackson,Male,High School,True,High School,Low,2,1.0,2.2,3,True,100.0,9.4,Low,6,True,2.33,2.51,C,Moderate Risk
+SPP0852,Grace,Williams,Female,Middle School,True,High School,Low,4,0.5,4.5,5,True,94.9,5.5,Low,7,False,2.75,2.81,B,Low Risk
+SPP0853,Henry,Harris,Male,High School,True,Bachelor,Middle,2,2.6,3.2,1,False,73.9,6.1,Moderate,3,False,1.76,1.64,D,High Risk
+SPP0854,Emma,Martin,Female,Middle School,True,Associate,Middle,1,4.3,2.9,2,False,84.1,8.0,Moderate,0,False,1.69,1.95,D,High Risk
+SPP0855,Lucas,Jackson,Male,High School,True,Bachelor,Middle,2,9.7,2.3,2,False,75.0,7.7,Moderate,0,True,2.56,2.23,C,Moderate Risk
+SPP0856,Liam,Thompson,Male,Middle School,True,High School,Low,1,18.3,2.3,2,True,84.2,8.0,Low,7,True,2.29,1.93,D,High Risk
+SPP0857,Jack,Williams,Male,Preparatory,True,High School,Low,0,2.9,4.0,3,True,97.5,6.6,Moderate,0,False,2.93,2.75,C,Moderate Risk
+SPP0858,Lucas,Lewis,Male,Middle School,True,Graduate,Middle,3,0.5,1.5,2,True,92.8,9.2,Moderate,4,False,2.91,2.89,B,Low Risk
+SPP0859,Sofia,Anderson,Female,Middle School,True,High School,Middle,4,6.9,5.0,2,True,100.0,7.3,High,4,False,1.75,2.65,C,Moderate Risk
+SPP0860,Oliver,Clark,Male,High School,True,Associate,High,3,4.2,2.7,5,True,99.3,6.0,Low,5,True,3.98,3.85,A,Low Risk
+SPP0861,Amelia,Anderson,Female,High School,True,Bachelor,Middle,3,3.0,3.3,2,False,87.4,6.9,Low,3,False,2.82,2.94,B,Low Risk
+SPP0862,Noah,Martin,Male,Middle School,False,High School,Middle,3,1.9,1.5,2,True,93.1,6.0,Low,0,True,1.47,1.54,D,High Risk
+SPP0863,Chloe,Williams,Female,High School,False,Associate,Middle,1,3.5,3.5,3,False,82.6,8.8,Moderate,0,True,1.79,2.36,C,Moderate Risk
+SPP0864,Jack,Garcia,Male,High School,True,Bachelor,Middle,1,2.1,3.0,1,True,71.5,6.5,Moderate,5,True,2.39,2.24,C,Moderate Risk
+SPP0865,Alexander,White,Male,Middle School,True,Associate,Middle,4,7.1,3.4,3,True,100.0,7.7,Moderate,3,False,2.07,2.5,C,Moderate Risk
+SPP0866,Scarlett,Robinson,Female,Middle School,True,Associate,High,1,3.9,5.7,1,True,97.1,6.7,Moderate,6,False,2.95,2.91,B,Low Risk
+SPP0867,Aiden,Thompson,Male,Preparatory,True,High School,Middle,1,10.5,3.8,2,True,82.1,6.6,Moderate,3,False,2.88,2.61,C,Moderate Risk
+SPP0868,Jack,Brown,Male,High School,True,Associate,Middle,1,3.9,2.3,2,True,88.3,5.3,Moderate,3,True,1.81,1.95,D,High Risk
+SPP0869,Mia,Harris,Female,Middle School,True,Bachelor,Middle,1,1.4,2.4,2,False,99.9,7.8,High,7,True,2.82,2.46,C,Moderate Risk
+SPP0870,Ella,Anderson,Female,Preparatory,True,Bachelor,High,0,9.5,4.4,2,False,95.2,8.5,Low,1,True,2.66,2.88,B,Low Risk
+SPP0871,Henry,Williams,Male,Preparatory,True,No Diploma,Middle,4,4.1,5.4,5,False,67.4,6.3,High,3,False,1.88,1.7,D,High Risk
+SPP0872,Jack,Williams,Male,High School,True,Bachelor,Low,1,1.2,3.9,3,True,87.9,5.7,Moderate,2,False,1.97,2.36,C,Moderate Risk
+SPP0873,Chloe,Martin,Female,High School,True,Graduate,Middle,4,4.9,4.5,0,False,83.0,8.0,Low,4,True,3.29,2.98,B,Low Risk
+SPP0874,Noah,Jones,Male,Preparatory,True,Associate,Middle,2,2.2,4.4,1,False,98.4,5.6,High,3,False,1.87,1.61,D,High Risk
+SPP0875,Elijah,Taylor,Male,Preparatory,True,Bachelor,High,0,9.3,5.6,1,True,97.4,8.4,High,1,False,3.3,3.16,B,Low Risk
+SPP0876,Henry,Clark,Male,High School,True,Associate,Middle,1,3.0,0.6,0,False,100.0,6.3,Moderate,7,False,1.67,1.79,D,High Risk
+SPP0877,Evelyn,Brown,Female,High School,True,Graduate,Low,0,6.5,4.5,2,True,71.6,6.1,Moderate,7,False,2.51,2.93,B,Low Risk
+SPP0878,Victoria,Clark,Female,High School,True,Graduate,High,0,0.5,5.0,4,True,75.6,7.4,Moderate,6,True,3.88,4.0,A,Low Risk
+SPP0879,Mateo,Anderson,Male,High School,True,High School,High,2,2.5,1.5,3,True,98.4,6.2,Low,2,False,2.69,2.36,C,Moderate Risk
+SPP0880,Mason,Johnson,Male,Middle School,True,Associate,Low,4,20.4,2.2,0,True,77.9,6.5,Low,1,False,1.43,1.39,F,High Risk
+SPP0881,Jack,Taylor,Male,High School,False,High School,High,0,8.3,2.2,1,True,66.7,7.6,High,1,True,1.13,1.6,D,High Risk
+SPP0882,Evelyn,Anderson,Female,Preparatory,True,Associate,Middle,3,0.9,2.4,3,True,91.4,4.8,High,5,False,1.7,2.04,C,Moderate Risk
+SPP0883,Henry,Lewis,Male,High School,False,High School,Middle,2,1.6,2.8,3,False,78.4,8.8,Low,1,False,3.0,2.62,C,Moderate Risk
+SPP0884,Owen,Martin,Male,High School,True,Bachelor,High,3,2.0,3.9,2,False,100.0,7.2,High,1,True,3.38,3.23,B,Low Risk
+SPP0885,Victoria,Clark,Female,High School,True,No Diploma,Middle,2,5.3,4.8,1,False,88.6,5.9,Moderate,0,False,1.89,2.26,C,Moderate Risk
+SPP0886,Jack,Anderson,Male,Middle School,True,Associate,Low,3,7.1,5.1,1,True,86.9,6.2,Low,4,False,1.97,2.5,C,Moderate Risk
+SPP0887,Mia,White,Female,High School,True,Bachelor,Middle,3,6.9,2.2,0,True,80.6,8.2,Moderate,5,True,2.32,2.51,C,Moderate Risk
+SPP0888,Oliver,Johnson,Male,High School,True,High School,Middle,0,3.6,2.2,3,True,100.0,7.8,Moderate,5,True,2.0,2.56,C,Moderate Risk
+SPP0889,Aiden,Jones,Male,Middle School,True,Graduate,Low,0,8.3,5.5,2,False,89.3,8.6,High,0,False,2.71,2.76,C,Moderate Risk
+SPP0890,Asher,Jones,Male,Middle School,False,Bachelor,Middle,2,2.9,4.5,2,True,80.1,6.5,High,2,True,2.44,1.7,D,High Risk
+SPP0891,Evelyn,Clark,Female,Preparatory,False,Associate,Middle,4,0.7,3.6,3,True,75.5,7.5,Low,0,False,2.03,2.51,C,Moderate Risk
+SPP0892,Emma,Thomas,Female,Middle School,True,Associate,Middle,0,4.2,4.2,1,False,84.1,7.6,Moderate,5,True,2.48,2.54,C,Moderate Risk
+SPP0893,Victoria,Robinson,Female,Middle School,True,High School,Middle,0,15.2,3.5,1,True,73.3,7.9,High,2,True,2.37,1.98,D,High Risk
+SPP0894,Jack,Brown,Male,Preparatory,True,Bachelor,High,1,7.9,4.3,3,True,97.3,8.3,High,5,True,3.15,2.93,B,Low Risk
+SPP0895,Harper,Thompson,Female,High School,True,High School,Middle,0,4.3,3.0,3,False,63.3,6.5,Low,3,False,1.69,1.73,D,High Risk
+SPP0896,Noah,Taylor,Male,High School,False,Bachelor,Middle,4,5.2,3.9,3,True,83.3,7.1,Moderate,2,False,2.4,2.44,C,Moderate Risk
+SPP0897,Logan,Lewis,Male,Preparatory,False,Bachelor,Middle,1,13.3,1.2,1,True,92.3,6.6,High,5,False,0.94,1.29,F,High Risk
+SPP0898,Sofia,Garcia,Female,Middle School,False,High School,Middle,3,2.8,2.5,0,True,89.1,7.1,Moderate,0,True,1.96,2.04,C,Moderate Risk
+SPP0899,Logan,White,Male,High School,True,Graduate,High,3,2.0,2.5,3,True,76.4,7.9,Moderate,5,False,2.45,2.38,C,Moderate Risk
+SPP0900,Oliver,Anderson,Male,High School,True,No Diploma,Middle,1,18.9,2.9,2,True,92.9,5.5,High,0,True,1.39,1.06,F,High Risk
+SPP0901,Oliver,Anderson,Male,Preparatory,True,Graduate,Middle,1,10.0,2.1,2,False,74.4,8.3,Low,2,True,2.7,2.89,B,Low Risk
+SPP0902,Aiden,Robinson,Male,High School,False,High School,Middle,1,2.0,2.7,3,True,84.7,6.1,High,0,True,1.34,1.4,F,High Risk
+SPP0903,Liam,Robinson,Male,High School,True,Bachelor,Middle,2,3.1,1.2,2,False,92.8,6.9,Moderate,2,True,1.6,1.88,D,High Risk
+SPP0904,Evelyn,Anderson,Female,High School,True,High School,Low,4,2.7,4.3,6,True,90.6,8.4,Low,1,False,3.18,3.11,B,Low Risk
+SPP0905,Jack,Thomas,Male,High School,True,Bachelor,High,4,0.8,3.4,1,True,76.9,7.5,Low,4,True,3.57,3.33,B,Low Risk
+SPP0906,Evelyn,Jones,Female,High School,False,Associate,Middle,3,15.8,0.9,3,False,99.4,7.5,Low,6,True,1.88,1.69,D,High Risk
+SPP0907,Ella,Wilson,Female,High School,True,High School,Middle,3,2.6,2.2,3,False,86.0,6.0,Low,2,False,1.45,1.8,D,High Risk
+SPP0908,Asher,Wilson,Male,High School,True,Associate,Middle,3,10.4,4.0,1,True,93.9,6.2,Moderate,6,True,2.41,2.37,C,Moderate Risk
+SPP0909,Theodore,Taylor,Male,High School,False,Associate,Middle,0,1.0,2.7,1,False,100.0,8.1,Low,7,False,2.56,2.76,C,Moderate Risk
+SPP0910,Sebastian,Clark,Male,High School,False,Bachelor,Low,3,4.0,2.5,1,True,98.4,6.6,High,6,False,2.81,2.51,C,Moderate Risk
+SPP0911,Ava,Smith,Female,High School,True,Graduate,Middle,1,0.5,3.4,1,True,98.4,6.7,Moderate,1,True,2.31,2.36,C,Moderate Risk
+SPP0912,Jackson,Miller,Male,Preparatory,True,Associate,Low,3,7.2,4.0,3,False,87.3,8.2,Moderate,1,False,2.34,2.8,B,Low Risk
+SPP0913,Sofia,Brown,Female,High School,False,High School,Low,1,4.3,1.3,2,True,94.5,6.2,Moderate,1,False,1.27,1.34,F,High Risk
+SPP0914,Samuel,Smith,Male,Preparatory,False,No Diploma,Middle,2,4.9,4.3,2,True,87.6,7.5,Moderate,6,True,2.33,2.19,C,Moderate Risk
+SPP0915,Sophia,Harris,Female,Preparatory,True,Associate,Middle,0,0.5,2.3,0,True,70.5,7.2,Moderate,1,False,1.56,1.49,F,High Risk
+SPP0916,Theodore,Davis,Male,High School,True,Associate,Low,0,1.2,3.5,1,True,88.6,7.2,Low,2,False,2.24,2.39,C,Moderate Risk
+SPP0917,Alexander,Thomas,Male,High School,True,High School,Low,4,0.5,3.4,5,True,88.1,6.7,High,6,False,2.03,2.21,C,Moderate Risk
+SPP0918,Sophia,Robinson,Female,Preparatory,False,High School,High,2,1.7,2.7,0,True,92.0,6.6,Moderate,6,False,1.82,2.12,C,Moderate Risk
+SPP0919,Ava,Harris,Female,High School,True,Associate,High,1,4.9,2.0,2,True,83.5,6.1,Low,7,True,2.53,2.65,C,Moderate Risk
+SPP0920,Sebastian,Thompson,Male,Preparatory,True,Graduate,Low,2,4.2,3.1,5,True,75.9,7.7,Moderate,0,True,1.8,2.06,C,Moderate Risk
+SPP0921,Emma,White,Female,High School,True,High School,Middle,0,4.7,5.9,1,True,92.9,6.5,Moderate,1,True,2.77,2.48,C,Moderate Risk
+SPP0922,Evelyn,White,Female,High School,False,Associate,Middle,1,4.0,1.5,1,True,69.2,8.2,Low,3,False,1.65,1.92,D,High Risk
+SPP0923,Evelyn,Robinson,Female,Middle School,True,Bachelor,Middle,2,1.6,6.0,2,True,100.0,7.0,High,1,False,3.44,3.4,B,Low Risk
+SPP0924,Isabella,Lewis,Female,High School,True,Bachelor,High,0,1.4,3.1,1,False,82.2,6.1,Moderate,7,False,2.54,2.52,C,Moderate Risk
+SPP0925,Noah,Robinson,Male,Preparatory,True,High School,Low,1,0.7,3.6,0,False,87.9,7.0,Moderate,0,True,2.4,2.12,C,Moderate Risk
+SPP0926,Asher,Martin,Male,High School,True,Bachelor,Middle,1,9.5,1.9,3,False,91.7,6.8,Moderate,0,True,2.73,2.4,C,Moderate Risk
+SPP0927,Liam,Smith,Male,High School,True,Graduate,Middle,0,4.8,2.3,0,True,92.1,8.2,High,4,False,2.88,2.67,C,Moderate Risk
+SPP0928,Emma,Anderson,Female,Preparatory,True,No Diploma,Middle,1,1.0,2.7,1,True,68.1,6.8,Low,4,False,1.58,1.47,F,High Risk
+SPP0929,Amelia,Harris,Female,High School,True,Associate,Middle,0,1.0,1.9,2,True,94.9,6.9,Moderate,6,True,1.83,2.14,C,Moderate Risk
+SPP0930,Mateo,Thomas,Male,High School,False,High School,High,3,10.3,3.2,2,False,88.6,8.6,Moderate,1,True,1.72,2.04,C,Moderate Risk
+SPP0931,Owen,Davis,Male,High School,True,High School,Low,3,6.8,2.9,0,True,77.4,7.7,Moderate,1,True,2.2,2.45,C,Moderate Risk
+SPP0932,Amelia,Lewis,Female,High School,True,Associate,Low,1,5.4,6.3,3,False,76.0,8.9,Low,5,True,3.33,3.1,B,Low Risk
+SPP0933,Emily,Garcia,Female,Middle School,True,Bachelor,Low,1,2.6,1.8,2,False,81.0,8.5,Low,6,False,2.43,2.41,C,Moderate Risk
+SPP0934,Emily,Williams,Female,High School,True,No Diploma,High,0,1.5,3.7,0,True,69.4,6.3,High,5,False,2.18,1.92,D,High Risk
+SPP0935,Jack,Jackson,Male,High School,True,Associate,Middle,1,19.4,3.9,3,True,100.0,8.2,Moderate,4,False,2.8,2.5,C,Moderate Risk
+SPP0936,Owen,Jackson,Male,High School,False,Associate,Middle,4,8.0,1.9,3,True,100.0,8.7,Moderate,1,False,2.59,2.81,B,Low Risk
+SPP0937,Owen,Johnson,Male,High School,True,Associate,Low,3,1.8,4.5,2,True,90.4,8.7,Moderate,5,True,2.89,2.88,B,Low Risk
+SPP0938,Evelyn,Jones,Female,High School,True,Bachelor,High,1,9.4,2.9,4,True,82.3,8.2,Moderate,3,True,2.97,2.97,B,Low Risk
+SPP0939,Henry,Thompson,Male,Middle School,False,High School,High,1,7.1,0.5,1,False,82.6,8.2,Low,2,False,1.15,1.25,F,High Risk
+SPP0940,Victoria,Garcia,Female,High School,True,Graduate,Middle,2,1.8,4.5,2,True,94.1,6.9,Low,4,False,3.19,3.35,B,Low Risk
+SPP0941,Aiden,Johnson,Male,Middle School,False,Associate,Middle,1,2.8,1.8,3,True,100.0,6.4,High,4,False,2.22,1.86,D,High Risk
+SPP0942,Chloe,Brown,Female,High School,True,Associate,Low,4,1.0,1.9,2,True,78.2,6.8,Moderate,0,True,1.41,1.39,F,High Risk
+SPP0943,Mia,Anderson,Female,Preparatory,True,Bachelor,Middle,3,0.6,4.5,4,False,71.6,5.5,Moderate,1,True,2.02,2.02,C,Moderate Risk
+SPP0944,Victoria,Davis,Female,High School,True,High School,Middle,2,6.4,3.0,1,False,100.0,8.5,High,4,True,1.71,1.95,D,High Risk
+SPP0945,Henry,Thomas,Male,High School,True,No Diploma,Low,0,1.6,4.9,1,False,63.6,6.9,Moderate,4,False,1.51,1.31,F,High Risk
+SPP0946,Oliver,Davis,Male,Middle School,True,Bachelor,Middle,0,8.6,5.3,5,False,72.9,8.5,Low,7,False,2.8,3.1,B,Low Risk
+SPP0947,Mason,Anderson,Male,Middle School,True,Associate,Middle,3,27.1,2.5,3,True,82.0,6.0,Low,5,False,2.4,2.26,C,Moderate Risk
+SPP0948,Isabella,Lewis,Female,High School,True,Graduate,Middle,0,0.5,4.7,2,True,66.3,8.3,Moderate,3,False,2.91,2.77,C,Moderate Risk
+SPP0949,Emily,Davis,Female,Middle School,False,Graduate,Middle,4,3.2,2.4,5,True,98.3,6.7,High,6,False,2.8,2.92,B,Low Risk
+SPP0950,Elizabeth,Davis,Female,High School,True,High School,Low,1,8.1,6.8,4,True,95.3,5.9,Low,1,False,3.07,2.97,B,Low Risk
+SPP0951,Ava,Thompson,Female,Middle School,False,Associate,Middle,3,7.8,2.5,4,False,78.1,8.8,Low,7,True,1.68,1.62,D,High Risk
+SPP0952,Emily,Lewis,Female,Preparatory,True,Associate,Middle,2,7.1,5.0,5,True,100.0,8.3,High,2,False,2.89,2.9,B,Low Risk
+SPP0953,Liam,Lewis,Male,High School,True,High School,Low,1,2.1,4.8,3,True,100.0,7.4,Low,3,False,3.22,3.22,B,Low Risk
+SPP0954,Olivia,Martin,Female,Middle School,False,Bachelor,High,0,3.0,4.0,3,True,83.6,7.2,Moderate,2,True,2.57,2.55,C,Moderate Risk
+SPP0955,Logan,White,Male,Preparatory,True,Bachelor,Low,0,4.5,2.5,1,True,79.6,7.6,Low,0,False,2.69,2.65,C,Moderate Risk
+SPP0956,James,Anderson,Male,High School,False,Associate,Middle,2,18.2,3.3,5,False,100.0,7.4,Moderate,4,False,2.61,2.59,C,Moderate Risk
+SPP0957,Amelia,Miller,Female,Middle School,True,No Diploma,Low,4,2.0,0.5,8,True,93.7,6.4,Moderate,5,False,0.84,1.17,F,High Risk
+SPP0958,Lucas,Martin,Male,High School,True,High School,Low,2,12.8,3.8,0,False,88.1,6.8,Low,3,False,2.22,2.27,C,Moderate Risk
+SPP0959,Lucas,Jackson,Male,High School,True,High School,Middle,3,1.6,4.0,2,True,100.0,9.2,Moderate,7,False,3.11,3.03,B,Low Risk
+SPP0960,Grace,Harris,Female,High School,True,Bachelor,Low,2,22.6,3.7,0,True,88.6,9.9,Moderate,2,False,2.95,2.92,B,Low Risk
+SPP0961,Asher,Martin,Male,Middle School,True,No Diploma,Middle,0,5.5,0.5,0,False,78.9,8.8,Moderate,1,True,2.14,1.85,D,High Risk
+SPP0962,Emily,Wilson,Female,High School,True,Bachelor,Low,4,3.1,1.6,2,False,86.0,7.7,Moderate,0,False,2.38,2.19,C,Moderate Risk
+SPP0963,Lucas,Williams,Male,Middle School,True,Bachelor,Middle,4,4.8,2.4,0,True,97.5,6.9,Moderate,7,False,2.42,2.68,C,Moderate Risk
+SPP0964,Aiden,Clark,Male,Middle School,True,Bachelor,Low,2,1.6,3.9,2,True,61.1,6.4,Moderate,6,False,2.29,2.34,C,Moderate Risk
+SPP0965,Henry,Lewis,Male,Preparatory,True,Associate,Low,3,1.6,3.9,2,True,81.5,6.5,Moderate,0,False,2.03,2.12,C,Moderate Risk
+SPP0966,Elijah,Jones,Male,High School,True,Bachelor,Middle,0,0.6,3.2,3,True,100.0,6.6,Moderate,4,False,2.3,2.3,C,Moderate Risk
+SPP0967,Emma,Taylor,Female,High School,True,Bachelor,High,1,0.6,4.5,1,False,78.9,9.4,Moderate,4,True,2.91,2.91,B,Low Risk
+SPP0968,Mateo,Thompson,Male,High School,False,Bachelor,Middle,4,2.1,2.0,1,True,100.0,9.0,Moderate,2,True,2.61,2.43,C,Moderate Risk
+SPP0969,Scarlett,Harris,Female,Middle School,False,Associate,Middle,2,7.2,4.4,0,False,100.0,7.9,Low,2,False,2.27,2.22,C,Moderate Risk
+SPP0970,Noah,Davis,Male,Preparatory,True,Associate,Low,3,4.7,4.2,4,False,84.2,6.2,Low,0,False,3.14,2.77,C,Moderate Risk
+SPP0971,Amelia,Harris,Female,Middle School,False,Bachelor,High,3,0.5,4.1,1,True,78.2,8.1,Low,2,False,3.03,2.96,B,Low Risk
+SPP0972,Sofia,White,Female,Middle School,True,High School,Low,0,9.6,3.2,1,True,81.6,7.0,High,4,False,1.25,1.5,D,High Risk
+SPP0973,Ava,Lewis,Female,High School,False,Associate,Low,4,4.6,6.2,2,True,100.0,5.0,High,0,False,2.61,2.75,C,Moderate Risk
+SPP0974,Theodore,Miller,Male,High School,True,Graduate,Middle,0,16.2,4.2,0,True,100.0,7.5,Moderate,0,False,2.94,2.76,C,Moderate Risk
+SPP0975,Mateo,Thomas,Male,High School,True,No Diploma,Middle,1,5.5,2.0,2,True,86.5,6.4,Low,6,True,1.26,1.74,D,High Risk
+SPP0976,Alexander,Thompson,Male,Middle School,True,High School,High,1,1.0,3.9,2,True,77.7,6.4,Low,1,False,2.46,2.86,B,Low Risk
+SPP0977,Scarlett,Thompson,Female,High School,True,High School,Low,1,3.2,4.6,2,False,86.4,6.9,High,1,True,2.07,2.07,C,Moderate Risk
+SPP0978,Mateo,Taylor,Male,High School,True,Bachelor,High,3,5.2,2.6,0,True,87.9,6.7,High,2,True,3.19,2.9,B,Low Risk
+SPP0979,Mia,Clark,Female,Middle School,True,High School,Middle,4,0.5,5.1,4,False,70.1,7.2,Low,7,False,2.79,2.4,C,Moderate Risk
+SPP0980,Scarlett,White,Female,Preparatory,False,Bachelor,Middle,0,0.5,4.1,5,True,86.0,7.1,High,2,True,1.76,1.83,D,High Risk
+SPP0981,Jack,Anderson,Male,Middle School,True,No Diploma,Low,0,0.7,0.5,2,False,100.0,5.3,Moderate,7,True,1.68,1.36,F,High Risk
+SPP0982,Scarlett,Johnson,Female,High School,True,No Diploma,Middle,1,1.4,3.9,1,False,63.4,8.7,Moderate,4,True,2.06,2.04,C,Moderate Risk
+SPP0983,Aiden,Robinson,Male,High School,True,Bachelor,High,4,2.8,2.9,1,True,94.9,6.2,Moderate,7,True,2.05,2.51,C,Moderate Risk
+SPP0984,Jackson,Miller,Male,Middle School,True,High School,Middle,4,3.3,4.3,2,False,100.0,6.2,Moderate,4,True,2.17,2.17,C,Moderate Risk
+SPP0985,Victoria,Thomas,Female,High School,True,Graduate,Middle,2,0.7,4.9,1,True,78.3,6.9,High,1,False,2.4,2.59,C,Moderate Risk
+SPP0986,Emma,Johnson,Female,Preparatory,True,No Diploma,High,4,5.6,3.8,2,False,100.0,7.1,Low,0,False,2.32,2.04,C,Moderate Risk
+SPP0987,Charlotte,Lewis,Female,Middle School,True,Associate,Middle,4,4.5,6.0,3,False,76.7,8.7,Moderate,3,False,2.91,2.92,B,Low Risk
+SPP0988,Asher,Robinson,Male,Preparatory,True,High School,Middle,0,1.7,3.2,2,True,90.3,7.5,Moderate,5,False,1.97,2.35,C,Moderate Risk
+SPP0989,Elijah,Garcia,Male,High School,True,High School,Middle,4,0.5,4.4,2,True,81.3,7.8,Moderate,5,False,2.26,2.71,C,Moderate Risk
+SPP0990,Harper,Taylor,Female,Middle School,False,Graduate,Low,4,0.5,4.7,1,True,81.3,7.5,Moderate,6,False,2.06,2.07,C,Moderate Risk
+SPP0991,Evelyn,Lewis,Female,High School,False,Graduate,Low,0,2.5,3.4,5,True,77.6,7.4,Low,3,True,2.06,2.79,C,Moderate Risk
+SPP0992,Evelyn,Harris,Female,High School,True,No Diploma,Middle,4,0.8,4.7,0,False,93.4,7.5,Moderate,7,True,2.14,2.3,C,Moderate Risk
+SPP0993,Ethan,Jones,Male,High School,True,Associate,Middle,0,2.4,2.6,3,False,95.2,5.3,Moderate,6,False,2.61,2.54,C,Moderate Risk
+SPP0994,Scarlett,Lewis,Female,High School,True,Bachelor,Middle,2,4.9,2.9,0,True,84.2,7.0,Moderate,2,False,2.27,2.59,C,Moderate Risk
+SPP0995,Logan,Williams,Male,Preparatory,True,High School,Low,3,4.0,1.5,2,False,68.7,8.4,Moderate,5,False,1.6,1.3,F,High Risk
+SPP0996,Asher,Jones,Male,Preparatory,True,High School,High,0,1.3,3.9,3,False,89.8,10.0,Moderate,6,False,3.57,3.21,B,Low Risk
+SPP0997,Chloe,Davis,Female,High School,True,Graduate,Low,0,2.1,4.0,2,True,90.1,6.0,Low,5,True,2.04,2.35,C,Moderate Risk
+SPP0998,Mason,Davis,Male,High School,False,Graduate,Middle,4,4.8,5.3,2,True,82.4,7.6,Moderate,3,False,2.21,2.3,C,Moderate Risk
+SPP0999,Evelyn,Davis,Female,High School,True,Graduate,Middle,0,9.9,4.7,2,True,100.0,6.6,Low,6,False,4.0,3.87,A,Low Risk
+SPP1000,Mason,Thomas,Male,High School,True,Bachelor,Low,1,7.0,3.1,3,False,66.2,9.2,Low,3,False,2.63,2.63,C,Moderate Risk
+SPP1001,Mateo,Davis,Male,Middle School,True,Bachelor,Low,1,4.0,1.7,2,False,58.4,5.8,Low,1,False,1.75,2.17,C,Moderate Risk
+SPP1002,Harper,Anderson,Female,High School,True,High School,Middle,2,2.2,4.1,0,True,76.2,7.8,Low,0,True,2.2,2.24,C,Moderate Risk
+SPP1003,Sofia,White,Female,High School,True,High School,High,0,2.3,5.2,1,True,93.5,5.8,Moderate,4,True,2.63,2.89,B,Low Risk
+SPP1004,Chloe,Davis,Female,Middle School,True,No Diploma,Middle,4,10.6,4.6,4,False,72.3,6.9,High,7,True,2.47,2.14,C,Moderate Risk
+SPP1005,Harper,Taylor,Female,Middle School,True,Bachelor,Middle,4,0.5,5.1,2,False,73.2,7.2,Low,1,True,2.82,2.64,C,Moderate Risk
+SPP1006,Elizabeth,Miller,Female,High School,True,Bachelor,Middle,3,22.1,3.2,2,False,96.4,8.3,High,5,True,2.25,2.34,C,Moderate Risk
+SPP1007,Sofia,Thompson,Female,High School,True,Bachelor,Low,2,5.5,2.8,1,True,90.6,6.1,Low,4,False,2.18,2.14,C,Moderate Risk
+SPP1008,Elizabeth,Brown,Female,High School,True,Graduate,Middle,4,5.7,2.4,1,True,89.5,7.9,Moderate,1,False,2.15,2.54,C,Moderate Risk
+SPP1009,James,Jackson,Male,High School,True,Graduate,High,3,0.5,3.4,2,True,94.4,7.2,Moderate,1,False,2.36,2.59,C,Moderate Risk
+SPP1010,Amelia,Brown,Female,High School,True,Graduate,Middle,4,4.7,3.4,1,True,79.9,7.5,High,3,False,2.53,2.06,C,Moderate Risk
+SPP1011,Sebastian,Jones,Male,High School,True,High School,High,3,3.3,3.8,1,False,80.5,8.2,Low,4,True,2.79,2.77,C,Moderate Risk
+SPP1012,Chloe,Brown,Female,Middle School,False,Bachelor,Low,1,0.6,3.3,3,True,94.7,5.9,Moderate,1,True,2.38,2.1,C,Moderate Risk
+SPP1013,Emily,Robinson,Female,Middle School,True,Associate,Middle,1,1.6,3.3,3,False,68.9,8.0,Low,3,False,2.67,2.6,C,Moderate Risk
+SPP1014,Aiden,Garcia,Male,High School,False,High School,Middle,4,11.1,2.3,1,True,59.3,6.6,Moderate,2,True,1.64,1.25,F,High Risk
+SPP1015,Amelia,Johnson,Female,High School,False,Graduate,Middle,2,4.0,4.9,3,False,79.8,8.3,High,4,False,1.7,2.3,C,Moderate Risk
+SPP1016,Elizabeth,Anderson,Female,Middle School,True,Graduate,Middle,0,2.7,3.6,3,True,96.2,7.5,High,7,False,2.93,2.99,B,Low Risk
+SPP1017,Sebastian,White,Male,High School,True,High School,Middle,2,0.5,3.2,2,True,88.1,7.0,Moderate,6,False,2.66,2.17,C,Moderate Risk
+SPP1018,Ella,Jones,Female,Middle School,False,No Diploma,Middle,2,6.3,2.4,1,True,95.3,6.6,Moderate,1,False,1.7,1.41,F,High Risk
+SPP1019,Emma,Garcia,Female,High School,True,Bachelor,Middle,0,6.1,1.5,3,True,60.8,8.0,High,5,True,2.05,1.65,D,High Risk
+SPP1020,Mateo,Taylor,Male,High School,True,Bachelor,Middle,1,4.8,5.5,2,False,88.8,8.5,Moderate,2,False,2.87,2.87,B,Low Risk
+SPP1021,Charlotte,Davis,Female,High School,False,Graduate,High,1,3.6,4.3,2,True,92.8,6.7,Low,3,True,3.34,3.5,A,Low Risk
+SPP1022,Ethan,White,Male,Preparatory,True,High School,Middle,0,2.8,1.1,2,True,68.8,6.1,High,1,True,0.65,0.96,F,High Risk
+SPP1023,Amelia,Williams,Female,Middle School,True,No Diploma,Middle,3,4.5,4.6,3,False,95.3,7.9,Low,5,False,2.66,2.99,B,Low Risk
+SPP1024,Sofia,Thomas,Female,Preparatory,True,High School,Low,2,1.3,4.9,1,False,83.7,5.8,Low,3,False,2.79,2.55,C,Moderate Risk
+SPP1025,Elizabeth,Martin,Female,High School,False,No Diploma,Low,4,14.2,3.7,3,True,100.0,5.9,Low,3,False,2.61,2.46,C,Moderate Risk
+SPP1026,Owen,Thompson,Male,High School,True,No Diploma,Middle,1,4.4,5.9,1,False,58.9,6.1,Moderate,6,False,2.87,2.89,B,Low Risk
+SPP1027,Scarlett,Smith,Female,High School,True,Graduate,Middle,4,1.9,3.8,5,True,100.0,6.8,Moderate,5,False,3.65,3.5,A,Low Risk
+SPP1028,Avery,Taylor,Female,High School,False,High School,Middle,0,3.0,1.4,2,True,80.3,5.9,Low,3,False,2.01,1.97,D,High Risk
+SPP1029,Alexander,Taylor,Male,High School,True,Associate,Middle,4,8.2,4.0,1,True,65.6,5.3,Moderate,4,False,1.98,1.69,D,High Risk
+SPP1030,Grace,Johnson,Female,High School,True,No Diploma,Low,4,0.9,3.9,2,True,78.7,6.1,High,6,False,1.66,1.37,F,High Risk
+SPP1031,Samuel,Wilson,Male,Middle School,True,High School,Middle,2,1.7,2.6,2,True,88.3,7.8,High,2,False,1.89,2.21,C,Moderate Risk
+SPP1032,Olivia,Jackson,Female,Middle School,True,Bachelor,Middle,0,5.7,4.4,1,True,97.4,5.9,Moderate,6,False,2.41,2.33,C,Moderate Risk
+SPP1033,Oliver,Martin,Male,High School,True,Bachelor,Middle,4,1.9,1.0,0,True,100.0,6.9,High,2,False,1.72,2.22,C,Moderate Risk
+SPP1034,James,Robinson,Male,High School,True,Bachelor,Low,1,7.9,5.0,2,False,100.0,9.1,High,0,True,2.1,2.06,C,Moderate Risk
+SPP1035,Oliver,Clark,Male,High School,True,Associate,Low,0,0.7,2.2,3,True,73.4,7.2,Low,6,True,2.69,2.51,C,Moderate Risk
+SPP1036,Grace,Thomas,Female,Middle School,False,High School,Middle,1,7.2,2.0,1,False,98.6,7.5,Moderate,6,False,1.52,1.91,D,High Risk
+SPP1037,Ethan,Davis,Male,High School,True,Associate,Low,3,0.5,3.3,2,False,89.7,6.3,Moderate,7,False,2.2,2.32,C,Moderate Risk
+SPP1038,Chloe,Thompson,Female,Preparatory,True,High School,Low,4,0.5,4.1,4,True,77.1,9.4,Low,1,False,2.31,2.31,C,Moderate Risk
+SPP1039,Owen,Harris,Male,Preparatory,True,Bachelor,Low,0,11.4,3.7,2,True,82.5,6.7,Low,6,False,2.09,2.02,C,Moderate Risk
+SPP1040,Aiden,Taylor,Male,High School,False,High School,Middle,1,4.4,2.4,2,True,76.5,7.0,Moderate,3,True,2.04,2.12,C,Moderate Risk
+SPP1041,Victoria,Harris,Female,High School,True,Bachelor,Middle,4,2.2,2.7,2,False,85.4,8.5,Low,7,True,2.73,3.08,B,Low Risk
+SPP1042,Scarlett,Harris,Female,Preparatory,True,High School,Middle,2,1.3,1.8,2,True,76.2,7.0,Low,1,False,1.86,1.88,D,High Risk
+SPP1043,James,Miller,Male,High School,True,Bachelor,Middle,1,4.8,3.2,3,True,72.7,7.2,Moderate,7,False,2.17,2.67,C,Moderate Risk
+SPP1044,Emily,Jackson,Female,High School,True,Graduate,Middle,1,3.6,5.1,2,False,90.7,6.9,Moderate,7,False,2.83,2.9,B,Low Risk
+SPP1045,Chloe,Thompson,Female,Preparatory,True,Bachelor,Low,3,23.9,3.5,1,True,92.5,6.9,High,2,True,2.22,2.35,C,Moderate Risk
+SPP1046,Avery,Wilson,Female,High School,True,Associate,High,2,20.4,4.8,2,True,82.7,7.6,Moderate,2,False,3.04,3.08,B,Low Risk
+SPP1047,Logan,Davis,Male,High School,True,Graduate,Middle,3,5.0,5.7,2,True,100.0,7.8,Moderate,3,False,3.31,3.48,B,Low Risk
+SPP1048,Mason,Lewis,Male,Middle School,False,Bachelor,Middle,2,2.9,2.6,1,False,81.9,6.6,Moderate,4,False,1.88,2.33,C,Moderate Risk
+SPP1049,Olivia,Robinson,Female,Middle School,True,High School,Low,1,3.4,3.2,2,False,81.4,6.4,Low,5,False,2.18,2.29,C,Moderate Risk
+SPP1050,Logan,Jackson,Male,Preparatory,True,High School,Low,3,5.7,6.8,0,True,92.9,6.6,Low,3,False,3.22,2.94,B,Low Risk
+SPP1051,Abigail,Martin,Female,High School,True,Bachelor,Middle,4,0.5,5.7,4,True,83.4,5.8,High,3,False,2.89,2.51,C,Moderate Risk
+SPP1052,Olivia,Wilson,Female,High School,False,Bachelor,Middle,2,2.0,1.0,3,False,86.0,5.6,Moderate,0,False,2.17,1.44,F,High Risk
+SPP1053,Chloe,Thomas,Female,Middle School,True,High School,Low,1,0.5,4.1,2,False,54.8,7.5,High,5,True,2.44,1.93,D,High Risk
+SPP1054,Harper,Thomas,Female,High School,False,High School,High,0,0.5,3.5,5,False,85.2,8.1,Moderate,7,False,1.7,2.06,C,Moderate Risk
+SPP1055,Elizabeth,Garcia,Female,High School,False,Graduate,High,2,1.1,4.7,4,True,63.1,8.1,Low,7,True,3.12,3.24,B,Low Risk
+SPP1056,Elijah,Clark,Male,Middle School,True,High School,Middle,2,3.3,2.4,2,False,70.3,4.8,Moderate,6,False,1.63,1.64,D,High Risk
+SPP1057,Sofia,Miller,Female,Preparatory,True,Associate,High,4,7.7,2.2,1,True,69.0,7.0,Moderate,7,False,1.96,1.99,D,High Risk
+SPP1058,Samuel,Williams,Male,Middle School,True,No Diploma,Low,2,3.3,2.5,0,True,72.5,6.1,Moderate,4,False,1.08,1.06,F,High Risk
+SPP1059,Henry,Martin,Male,High School,True,Bachelor,Low,2,2.0,2.6,0,False,78.4,7.3,Moderate,7,True,3.01,2.29,C,Moderate Risk
+SPP1060,Evelyn,Robinson,Female,High School,True,No Diploma,Low,4,0.5,4.7,2,True,79.2,6.8,High,1,True,1.46,1.78,D,High Risk
+SPP1061,Charlotte,Martin,Female,Middle School,True,Bachelor,Middle,4,4.0,1.7,0,False,93.0,7.8,High,5,True,2.39,2.6,C,Moderate Risk
+SPP1062,Ava,Miller,Female,Preparatory,False,No Diploma,Low,3,1.6,2.6,4,True,87.7,7.2,High,4,True,1.6,1.11,F,High Risk
+SPP1063,Victoria,Brown,Female,High School,True,Bachelor,High,1,4.8,0.8,1,False,62.2,5.3,Low,3,True,1.42,1.6,D,High Risk
+SPP1064,Lucas,Davis,Male,High School,False,Bachelor,Low,1,18.9,5.0,2,True,86.0,6.2,Low,3,False,2.59,2.47,C,Moderate Risk
+SPP1065,Liam,Jackson,Male,Middle School,True,High School,Middle,3,0.6,5.4,3,False,88.8,7.2,Low,3,False,2.92,2.61,C,Moderate Risk
+SPP1066,Mia,Jackson,Female,Middle School,True,Associate,High,1,1.2,3.0,2,True,81.1,7.3,Low,3,False,2.81,2.66,C,Moderate Risk
+SPP1067,Noah,Thompson,Male,Middle School,False,Associate,Low,2,3.2,3.1,5,True,84.3,5.8,Moderate,3,True,2.13,2.07,C,Moderate Risk
+SPP1068,Theodore,Thompson,Male,High School,True,High School,Low,3,17.3,4.2,1,False,87.3,5.7,Moderate,5,True,2.58,2.3,C,Moderate Risk
+SPP1069,Aiden,Jones,Male,High School,True,Bachelor,Middle,3,7.4,5.7,0,True,94.2,7.3,Moderate,6,True,3.28,3.55,A,Low Risk
+SPP1070,Liam,Garcia,Male,Preparatory,True,High School,Middle,1,11.4,4.1,3,True,66.1,5.8,High,5,True,1.47,1.62,D,High Risk
+SPP1071,Asher,Clark,Male,High School,True,Bachelor,Low,0,2.0,2.5,2,True,82.1,5.5,High,6,False,2.24,2.08,C,Moderate Risk
+SPP1072,Logan,Jackson,Male,Preparatory,True,High School,Middle,1,24.2,1.1,3,False,100.0,6.8,Low,5,True,1.44,2.06,C,Moderate Risk
+SPP1073,Sebastian,White,Male,High School,True,High School,Middle,0,0.5,1.8,2,True,100.0,6.7,High,4,False,2.65,2.23,C,Moderate Risk
+SPP1074,Noah,Brown,Male,High School,True,High School,High,3,0.5,3.6,0,True,95.2,6.3,Moderate,3,False,2.78,2.69,C,Moderate Risk
+SPP1075,Harper,Miller,Female,Middle School,False,Associate,High,0,9.7,2.5,2,True,91.4,6.5,Moderate,2,False,1.98,1.93,D,High Risk
+SPP1076,James,Davis,Male,High School,True,Associate,Middle,2,13.1,3.8,1,False,100.0,7.2,High,5,False,1.73,2.22,C,Moderate Risk
+SPP1077,Mateo,Jackson,Male,Middle School,False,Bachelor,Middle,4,0.5,2.7,3,True,100.0,6.5,Low,2,True,2.24,2.63,C,Moderate Risk
+SPP1078,Avery,Garcia,Female,Middle School,True,High School,Middle,0,0.6,1.9,3,True,83.5,7.3,High,7,False,1.94,2.06,C,Moderate Risk
+SPP1079,Ethan,Garcia,Male,High School,True,No Diploma,High,4,0.5,1.7,1,False,73.4,6.8,Moderate,0,True,1.66,1.42,F,High Risk
+SPP1080,Scarlett,Williams,Female,Preparatory,True,Bachelor,Low,2,0.6,5.8,0,False,81.8,7.4,High,7,True,2.15,2.77,C,Moderate Risk
+SPP1081,Mia,Williams,Female,Middle School,True,Bachelor,Middle,4,1.2,4.8,3,True,100.0,8.1,High,1,True,3.37,3.13,B,Low Risk
+SPP1082,Jackson,Jackson,Male,High School,False,No Diploma,Middle,2,17.5,6.1,1,False,66.2,8.0,Moderate,5,True,1.7,1.81,D,High Risk
+SPP1083,Samuel,Johnson,Male,Preparatory,True,Bachelor,High,4,5.5,4.3,6,True,79.4,8.5,Low,2,False,2.86,2.93,B,Low Risk
+SPP1084,Isabella,Martin,Female,High School,True,High School,Low,4,7.5,2.9,2,True,68.0,8.0,Low,0,False,1.66,1.58,D,High Risk
+SPP1085,Ava,Garcia,Female,Middle School,True,Bachelor,Low,1,7.5,5.5,1,True,86.5,7.4,Moderate,4,False,2.87,2.79,C,Moderate Risk
+SPP1086,Mateo,Davis,Male,Middle School,True,Graduate,Low,0,3.8,3.5,2,False,70.6,6.8,Low,1,False,1.6,1.81,D,High Risk
+SPP1087,Evelyn,Davis,Female,High School,False,Graduate,Low,4,8.0,3.8,2,True,83.7,6.8,High,6,False,2.41,2.22,C,Moderate Risk
+SPP1088,Lucas,Garcia,Male,High School,False,Bachelor,Middle,3,4.5,3.4,0,True,61.6,6.3,Low,7,False,1.71,2.41,C,Moderate Risk
+SPP1089,Emily,White,Female,Preparatory,True,High School,Middle,1,1.9,0.5,3,True,92.4,7.2,High,3,False,1.56,1.7,D,High Risk
+SPP1090,Liam,Williams,Male,High School,True,Bachelor,Middle,0,4.1,5.9,1,False,99.7,7.9,Moderate,5,False,3.06,3.01,B,Low Risk
+SPP1091,Ava,Taylor,Female,Middle School,True,Associate,Low,1,3.8,4.2,2,True,80.4,6.5,Low,5,False,3.01,3.11,B,Low Risk
+SPP1092,Ava,Williams,Female,Middle School,True,No Diploma,Low,0,8.7,4.0,2,True,83.4,7.2,Moderate,3,False,1.86,2.41,C,Moderate Risk
+SPP1093,Emily,Thomas,Female,High School,False,Associate,Low,2,20.0,3.4,3,True,83.0,6.5,Moderate,7,False,2.1,1.87,D,High Risk
+SPP1094,Avery,Thompson,Female,Middle School,True,Graduate,Middle,4,2.6,3.7,1,False,87.2,7.4,Moderate,7,True,2.38,2.75,C,Moderate Risk
+SPP1095,Logan,Jones,Male,High School,True,Graduate,Middle,3,7.2,2.6,1,False,84.5,6.7,Moderate,6,True,2.47,2.49,C,Moderate Risk
+SPP1096,Aiden,Lewis,Male,High School,True,High School,Low,1,0.5,4.4,2,True,94.2,6.5,Low,4,False,2.73,2.68,C,Moderate Risk
+SPP1097,Jackson,Wilson,Male,Middle School,False,Bachelor,Low,1,7.5,1.5,1,False,99.8,6.5,Moderate,1,False,2.31,2.3,C,Moderate Risk
+SPP1098,Theodore,Lewis,Male,Middle School,True,Bachelor,Middle,1,2.3,3.8,3,True,75.2,7.7,Moderate,5,False,2.97,2.62,C,Moderate Risk
+SPP1099,Isabella,Miller,Female,High School,True,High School,Middle,1,0.5,4.3,1,False,81.3,7.1,High,2,False,2.16,2.18,C,Moderate Risk
+SPP1100,James,Brown,Male,Middle School,True,Associate,Middle,4,2.3,3.2,4,True,95.8,6.8,High,7,True,2.91,2.78,C,Moderate Risk
+SPP1101,Mason,Jackson,Male,Middle School,True,Bachelor,High,0,4.7,4.1,0,True,67.9,7.5,Low,6,False,3.12,3.14,B,Low Risk
+SPP1102,Olivia,Jackson,Female,High School,False,Associate,Low,4,0.6,2.0,2,False,61.4,6.8,Low,7,False,2.02,1.84,D,High Risk
+SPP1103,Sophia,Taylor,Female,Preparatory,True,High School,Middle,2,12.9,2.1,5,False,87.7,8.3,Moderate,1,False,2.76,2.34,C,Moderate Risk
+SPP1104,Charlotte,Robinson,Female,Middle School,True,Bachelor,Middle,4,0.5,3.9,3,True,91.0,6.2,High,0,True,2.0,1.96,D,High Risk
+SPP1105,Isabella,Thompson,Female,High School,True,Graduate,Middle,4,13.3,4.5,3,True,76.3,7.0,Moderate,6,False,2.89,2.66,C,Moderate Risk
+SPP1106,Ethan,Lewis,Male,High School,True,Bachelor,High,2,6.1,0.7,2,True,78.1,5.8,Low,7,True,2.98,2.54,C,Moderate Risk
+SPP1107,James,Lewis,Male,High School,True,Bachelor,Low,4,2.0,4.3,4,False,75.9,6.9,Low,5,False,3.05,2.64,C,Moderate Risk
+SPP1108,Emma,Jackson,Female,Preparatory,True,High School,Middle,0,2.5,2.7,3,True,74.6,5.5,Low,4,False,2.26,2.38,C,Moderate Risk
+SPP1109,Avery,Thompson,Female,High School,True,High School,Middle,3,6.8,3.2,0,True,93.3,7.9,Moderate,6,True,3.36,3.05,B,Low Risk
+SPP1110,Alexander,Brown,Male,Preparatory,True,Bachelor,Middle,2,4.6,1.5,1,True,70.8,8.0,Moderate,2,False,1.68,1.61,D,High Risk
+SPP1111,Chloe,Smith,Female,Middle School,True,High School,Middle,1,5.6,2.2,6,False,81.8,8.0,Moderate,1,False,2.81,2.47,C,Moderate Risk
+SPP1112,Elijah,Smith,Male,Middle School,False,Graduate,High,0,2.5,4.9,4,True,74.1,7.2,Low,6,True,3.08,2.91,B,Low Risk
+SPP1113,Samuel,Harris,Male,Preparatory,True,High School,High,3,3.3,3.5,5,True,67.5,6.3,Low,1,False,2.78,2.7,C,Moderate Risk
+SPP1114,Ava,Jackson,Female,High School,True,Associate,Middle,0,23.0,2.9,3,True,95.4,6.4,Moderate,2,True,2.56,2.43,C,Moderate Risk
+SPP1115,Harper,Thompson,Female,Middle School,True,High School,Low,0,1.2,3.3,3,True,78.8,8.7,High,0,True,2.71,2.63,C,Moderate Risk
+SPP1116,Avery,Davis,Female,High School,True,Graduate,Middle,1,2.7,4.2,0,True,87.3,8.6,Moderate,0,False,2.88,2.79,C,Moderate Risk
+SPP1117,Jackson,Robinson,Male,Preparatory,True,High School,Middle,3,1.7,4.2,2,False,66.9,7.3,High,6,False,1.81,1.86,D,High Risk
+SPP1118,Scarlett,Jackson,Female,Preparatory,False,No Diploma,Low,0,7.2,3.4,2,False,76.1,6.7,Moderate,1,False,1.34,1.42,F,High Risk
+SPP1119,Asher,White,Male,High School,True,High School,Middle,1,7.2,5.1,3,True,94.1,8.6,Low,3,True,3.7,3.17,B,Low Risk
+SPP1120,Lucas,Davis,Male,Preparatory,True,Bachelor,High,2,1.7,5.0,1,False,100.0,6.5,Low,2,False,3.65,3.51,A,Low Risk
+SPP1121,Sophia,Davis,Female,Middle School,True,High School,Middle,1,0.5,4.1,5,True,61.3,7.4,Moderate,7,False,2.32,2.49,C,Moderate Risk
+SPP1122,Amelia,Harris,Female,Middle School,True,High School,Middle,4,0.5,3.6,7,True,82.6,8.6,Moderate,5,True,3.36,3.44,B,Low Risk
+SPP1123,Olivia,Jackson,Female,High School,True,High School,High,1,2.8,4.5,3,False,89.9,6.4,Moderate,7,False,3.08,2.76,C,Moderate Risk
+SPP1124,Ella,Miller,Female,Middle School,True,Bachelor,Low,1,2.6,4.0,2,True,77.6,8.0,High,6,True,2.13,2.35,C,Moderate Risk
+SPP1125,Victoria,Jones,Female,High School,True,No Diploma,Low,1,22.3,5.1,4,True,95.2,7.7,Moderate,0,True,1.75,2.19,C,Moderate Risk
+SPP1126,Emily,Thompson,Female,High School,True,High School,Middle,0,3.2,4.8,1,False,74.6,7.2,Low,5,False,2.1,2.52,C,Moderate Risk
+SPP1127,Lucas,Martin,Male,High School,False,High School,Middle,3,1.5,2.0,0,True,86.8,6.2,High,0,False,1.0,1.52,D,High Risk
+SPP1128,James,Johnson,Male,Middle School,False,Associate,Middle,1,11.1,1.9,2,False,78.7,6.5,Moderate,0,True,1.26,1.65,D,High Risk
+SPP1129,Oliver,Robinson,Male,Middle School,True,Bachelor,Low,1,3.4,2.4,2,False,99.6,7.5,Moderate,4,False,2.04,2.39,C,Moderate Risk
+SPP1130,Asher,Thompson,Male,High School,True,Associate,Middle,4,4.6,5.0,0,True,76.9,5.8,Moderate,6,True,2.73,2.31,C,Moderate Risk
+SPP1131,Elizabeth,Miller,Female,High School,False,Graduate,Low,4,0.5,1.1,2,True,80.8,7.3,Moderate,5,False,1.54,1.55,D,High Risk
+SPP1132,Grace,Jackson,Female,High School,True,Graduate,High,2,2.4,4.1,0,True,96.3,7.7,Low,3,True,3.01,3.12,B,Low Risk
+SPP1133,Ethan,Robinson,Male,High School,True,High School,Middle,2,14.4,4.0,1,True,72.7,8.2,Moderate,0,False,2.11,2.54,C,Moderate Risk
+SPP1134,Noah,White,Male,High School,False,Bachelor,Middle,4,4.5,5.2,0,True,85.8,5.8,Moderate,3,True,2.79,2.83,B,Low Risk
+SPP1135,Harper,Robinson,Female,Preparatory,False,Bachelor,Low,3,2.1,3.8,2,False,63.1,8.5,Moderate,1,False,1.27,1.79,D,High Risk
+SPP1136,Mateo,Jackson,Male,Middle School,True,Graduate,Low,2,4.9,1.5,1,True,71.9,8.9,Low,1,False,1.73,1.84,D,High Risk
+SPP1137,Isabella,Anderson,Female,Middle School,True,Associate,Middle,3,12.1,2.1,1,True,89.6,7.6,Low,7,True,3.12,2.5,C,Moderate Risk
+SPP1138,Sofia,Martin,Female,Preparatory,True,Associate,Low,4,1.6,1.7,0,True,73.1,6.2,Low,7,True,2.73,2.53,C,Moderate Risk
+SPP1139,Harper,Thompson,Female,High School,True,Associate,Middle,2,3.5,2.7,0,True,78.5,6.9,Moderate,4,False,2.37,2.43,C,Moderate Risk
+SPP1140,Abigail,Davis,Female,Preparatory,True,Graduate,Middle,1,15.9,3.2,1,False,90.9,7.2,High,7,True,2.89,2.68,C,Moderate Risk
+SPP1141,Chloe,Clark,Female,High School,True,High School,Middle,4,0.9,1.8,0,True,78.0,7.5,Low,3,False,2.16,2.32,C,Moderate Risk
+SPP1142,Samuel,Lewis,Male,High School,True,High School,Middle,2,6.4,5.7,7,False,94.9,7.2,Moderate,2,False,3.18,3.42,B,Low Risk
+SPP1143,Mia,Harris,Female,High School,True,High School,Middle,3,4.8,1.5,1,True,87.6,7.5,Moderate,4,False,2.2,1.69,D,High Risk
+SPP1144,Avery,Wilson,Female,High School,True,High School,Low,3,5.7,5.5,4,True,90.2,7.1,High,0,False,2.01,2.35,C,Moderate Risk
+SPP1145,Elijah,Lewis,Male,High School,True,Associate,Middle,2,2.2,5.3,2,True,99.9,7.5,Low,1,False,2.84,2.95,B,Low Risk
+SPP1146,Sophia,Taylor,Female,High School,True,High School,Middle,3,1.9,4.8,4,True,88.8,6.7,Low,7,False,3.21,3.12,B,Low Risk
+SPP1147,Sophia,Thomas,Female,High School,True,High School,Low,2,5.8,2.5,2,True,100.0,6.9,Low,6,False,2.23,2.51,C,Moderate Risk
+SPP1148,Abigail,Lewis,Female,Preparatory,False,Graduate,High,2,1.2,4.0,2,True,95.9,6.6,High,1,False,3.02,2.82,B,Low Risk
+SPP1149,Sophia,Smith,Female,Middle School,True,Associate,Low,3,2.7,1.6,2,False,78.7,9.1,Moderate,2,True,1.64,1.73,D,High Risk
+SPP1150,Ava,Lewis,Female,Middle School,False,Bachelor,Low,0,1.0,4.9,4,True,100.0,8.7,Low,4,False,3.61,3.41,B,Low Risk
+SPP1151,Mia,Wilson,Female,High School,False,High School,Low,1,0.5,3.4,1,False,88.2,7.8,Low,3,False,2.19,2.01,C,Moderate Risk
+SPP1152,Isabella,Harris,Female,High School,True,High School,High,4,17.5,2.9,2,True,80.3,8.5,Low,6,False,2.85,2.92,B,Low Risk
+SPP1153,Grace,Smith,Female,Preparatory,True,Bachelor,Middle,1,2.8,1.7,3,True,88.3,8.0,Low,1,True,3.33,2.82,B,Low Risk
+SPP1154,Evelyn,Thomas,Female,High School,False,Bachelor,Middle,4,17.4,0.5,5,True,98.3,7.4,High,0,False,1.99,2.19,C,Moderate Risk
+SPP1155,Scarlett,Williams,Female,High School,True,High School,Low,4,0.8,1.9,1,True,90.5,5.7,Moderate,2,False,2.31,1.91,D,High Risk
+SPP1156,Elizabeth,Anderson,Female,High School,True,Graduate,Middle,1,4.4,5.2,2,False,100.0,6.9,Moderate,2,False,3.62,3.27,B,Low Risk
+SPP1157,Owen,Johnson,Male,High School,True,Graduate,Middle,2,1.1,2.9,0,True,98.0,6.9,Moderate,5,False,3.74,3.21,B,Low Risk
+SPP1158,Victoria,Martin,Female,Preparatory,True,Graduate,High,3,7.8,3.2,3,True,91.3,6.1,Moderate,2,True,3.01,2.96,B,Low Risk
+SPP1159,Scarlett,Wilson,Female,Middle School,False,Associate,Low,0,7.7,4.5,3,True,72.7,5.7,Low,0,True,1.56,1.8,D,High Risk
+SPP1160,Mateo,Harris,Male,High School,False,High School,Low,0,0.6,6.2,0,True,82.8,7.7,Moderate,2,False,3.12,2.5,C,Moderate Risk
+SPP1161,Ella,Thomas,Female,Preparatory,False,Bachelor,Low,0,12.2,5.5,1,False,85.9,7.5,Moderate,7,False,2.41,2.51,C,Moderate Risk
+SPP1162,Oliver,Smith,Male,Preparatory,True,Bachelor,High,1,1.1,2.0,0,True,93.4,6.0,Low,3,False,1.63,1.87,D,High Risk
+SPP1163,Ethan,Jackson,Male,High School,True,High School,Middle,1,4.7,0.6,0,False,92.6,6.5,Moderate,5,False,1.84,1.9,D,High Risk
+SPP1164,Sophia,White,Female,High School,True,Bachelor,Middle,2,21.2,7.0,1,True,87.0,8.4,High,7,False,2.98,3.27,B,Low Risk
+SPP1165,Logan,Davis,Male,Middle School,True,No Diploma,Middle,0,10.7,6.9,3,False,86.4,6.3,Low,3,True,3.2,3.04,B,Low Risk
+SPP1166,Scarlett,Davis,Female,High School,True,Associate,High,2,15.7,3.8,2,False,93.6,7.4,High,6,False,2.28,2.46,C,Moderate Risk
+SPP1167,Elizabeth,Thomas,Female,Preparatory,True,High School,High,0,2.1,1.6,5,True,74.7,7.0,Low,4,True,1.79,1.88,D,High Risk
+SPP1168,Olivia,Smith,Female,High School,True,Bachelor,Middle,1,0.6,4.9,2,True,100.0,7.7,Moderate,4,False,3.43,3.14,B,Low Risk
+SPP1169,Mateo,Anderson,Male,Middle School,True,High School,Middle,3,1.0,3.3,2,False,60.4,6.3,Moderate,6,False,2.16,1.97,D,High Risk
+SPP1170,Henry,Davis,Male,Middle School,True,Bachelor,Low,3,3.5,3.3,2,True,100.0,7.3,Moderate,7,True,2.74,2.74,C,Moderate Risk
+SPP1171,Ava,Taylor,Female,Middle School,True,Associate,High,3,7.9,4.8,1,False,84.5,7.4,Low,6,False,3.04,2.99,B,Low Risk
+SPP1172,Abigail,Clark,Female,Middle School,True,Bachelor,Middle,3,0.8,4.0,2,True,97.0,7.4,High,7,True,2.48,2.48,C,Moderate Risk
+SPP1173,Olivia,Anderson,Female,Middle School,True,Graduate,Middle,4,5.4,1.7,1,True,89.4,7.3,High,7,True,2.15,2.28,C,Moderate Risk
+SPP1174,Mateo,Miller,Male,High School,True,Bachelor,Middle,0,2.0,3.0,0,False,89.2,7.5,Low,3,True,2.41,2.41,C,Moderate Risk
+SPP1175,Chloe,Anderson,Female,Middle School,False,Graduate,High,3,2.1,4.5,4,True,91.7,9.4,High,0,False,3.36,3.21,B,Low Risk
+SPP1176,Scarlett,Thompson,Female,Middle School,False,No Diploma,Middle,4,5.4,4.3,1,True,94.7,9.8,Moderate,5,True,2.39,2.43,C,Moderate Risk
+SPP1177,Sofia,Smith,Female,High School,False,High School,Middle,4,3.1,3.9,3,True,81.1,6.6,High,4,False,2.03,1.9,D,High Risk
+SPP1178,Sebastian,Davis,Male,Middle School,True,High School,High,4,8.4,4.9,1,True,97.4,4.9,Low,7,False,3.3,3.55,A,Low Risk
+SPP1179,Emily,Garcia,Female,Middle School,True,High School,Middle,2,0.8,3.0,2,False,72.0,7.8,High,2,True,1.57,1.75,D,High Risk
+SPP1180,Harper,Robinson,Female,High School,True,Bachelor,Low,2,7.8,3.8,2,False,84.9,7.4,Low,6,False,2.55,2.77,C,Moderate Risk
+SPP1181,Charlotte,Garcia,Female,Middle School,True,No Diploma,High,4,0.5,0.5,1,False,95.0,8.3,High,3,False,1.43,1.6,D,High Risk
+SPP1182,Oliver,Jones,Male,High School,True,Associate,High,3,1.1,2.8,2,True,96.9,7.5,Moderate,1,False,3.54,3.15,B,Low Risk
+SPP1183,Chloe,Jackson,Female,Middle School,False,Associate,High,0,5.3,4.6,0,True,90.5,7.3,Moderate,0,True,2.76,2.54,C,Moderate Risk
+SPP1184,Emma,Clark,Female,High School,True,Associate,Middle,1,9.7,2.9,2,False,80.3,8.3,Low,0,True,2.03,2.35,C,Moderate Risk
+SPP1185,Noah,Davis,Male,Preparatory,False,Associate,Middle,2,1.5,2.8,1,True,95.8,8.5,High,3,False,2.23,2.1,C,Moderate Risk
+SPP1186,Elizabeth,Wilson,Female,High School,False,Bachelor,High,3,2.0,1.9,1,True,77.0,5.8,Moderate,7,False,1.99,2.11,C,Moderate Risk
+SPP1187,Avery,Thompson,Female,High School,True,High School,Middle,3,3.9,5.0,0,False,100.0,6.4,Moderate,1,False,2.7,2.9,B,Low Risk
+SPP1188,Liam,Williams,Male,Preparatory,True,High School,High,1,1.2,4.3,3,True,84.0,7.1,Moderate,0,False,2.42,2.87,B,Low Risk
+SPP1189,Jackson,Clark,Male,High School,True,Bachelor,High,1,8.3,4.7,1,True,66.5,7.3,High,5,False,2.86,2.57,C,Moderate Risk
+SPP1190,Isabella,Anderson,Female,Middle School,True,Bachelor,Middle,3,7.4,0.9,2,True,70.7,7.0,Moderate,4,True,1.98,2.39,C,Moderate Risk
+SPP1191,Henry,Thompson,Male,High School,True,Associate,High,1,0.8,3.3,1,True,85.5,7.6,Low,5,False,3.06,3.08,B,Low Risk
+SPP1192,Scarlett,Clark,Female,Preparatory,True,Graduate,Middle,3,3.1,3.1,5,True,86.7,8.2,High,1,False,2.18,2.46,C,Moderate Risk
+SPP1193,Noah,Johnson,Male,High School,True,Associate,Low,1,7.5,3.1,1,False,100.0,8.9,Moderate,5,False,2.32,2.09,C,Moderate Risk
+SPP1194,Grace,Davis,Female,Middle School,True,Associate,Middle,1,2.1,2.6,4,True,72.5,7.8,Moderate,2,True,1.97,2.07,C,Moderate Risk
+SPP1195,Aiden,Clark,Male,High School,True,No Diploma,Low,3,5.0,3.0,1,True,85.5,6.3,Low,6,False,2.03,2.07,C,Moderate Risk
+SPP1196,Chloe,Miller,Female,Preparatory,True,Associate,Middle,4,0.5,4.8,0,False,72.3,7.1,High,6,False,2.39,2.42,C,Moderate Risk
+SPP1197,Sophia,Thompson,Female,Middle School,True,Bachelor,Low,3,4.7,0.6,3,True,79.1,7.1,Low,4,False,2.5,2.41,C,Moderate Risk
+SPP1198,Charlotte,Garcia,Female,High School,True,High School,Middle,0,0.8,6.2,3,True,100.0,7.7,Moderate,1,False,2.75,2.75,C,Moderate Risk
+SPP1199,Amelia,Clark,Female,Middle School,True,High School,High,1,8.9,4.2,2,True,71.4,7.6,High,3,False,2.21,2.22,C,Moderate Risk
+SPP1200,Ethan,Garcia,Male,High School,True,Bachelor,High,2,2.2,3.4,3,False,92.0,9.3,Low,7,False,2.7,2.86,B,Low Risk
+SPP1201,Scarlett,Johnson,Female,Middle School,False,High School,Middle,1,1.7,4.9,2,True,89.7,6.7,High,0,True,1.27,1.74,D,High Risk
+SPP1202,Ethan,Garcia,Male,High School,True,High School,Middle,0,9.2,1.3,2,True,84.7,7.6,Moderate,4,True,1.48,1.82,D,High Risk
+SPP1203,Oliver,Jones,Male,Preparatory,True,Bachelor,Middle,2,0.5,2.5,1,True,91.2,9.6,Moderate,3,False,2.94,2.72,C,Moderate Risk
+SPP1204,Henry,Clark,Male,High School,True,High School,High,2,2.5,3.3,2,True,71.1,6.6,Moderate,1,False,2.33,2.42,C,Moderate Risk
+SPP1205,Olivia,Lewis,Female,High School,True,Graduate,Middle,3,2.3,5.5,3,True,100.0,7.3,Moderate,2,False,2.76,2.96,B,Low Risk
+SPP1206,Harper,Brown,Female,High School,True,High School,Middle,4,1.7,3.4,1,False,100.0,6.3,Low,0,False,1.74,2.16,C,Moderate Risk
+SPP1207,Elizabeth,Thompson,Female,Middle School,True,Bachelor,High,3,12.1,4.2,2,True,85.6,7.3,Low,0,False,1.9,2.42,C,Moderate Risk
+SPP1208,Owen,Anderson,Male,High School,True,Associate,Middle,2,7.0,2.6,2,False,100.0,6.4,High,4,True,2.08,2.29,C,Moderate Risk
+SPP1209,Sebastian,Brown,Male,Middle School,True,Graduate,High,2,0.5,4.2,2,True,80.2,8.2,Low,3,False,3.18,2.91,B,Low Risk
+SPP1210,Harper,Jackson,Female,High School,True,High School,High,4,6.3,6.0,2,True,89.8,7.3,High,6,False,3.34,3.51,A,Low Risk
+SPP1211,Mason,Lewis,Male,Middle School,True,Bachelor,High,1,3.7,5.0,1,True,100.0,6.3,Low,1,False,3.46,3.34,B,Low Risk
+SPP1212,Ethan,Thompson,Male,High School,True,Associate,Middle,4,11.6,3.4,2,False,79.5,8.0,Moderate,1,False,2.02,2.2,C,Moderate Risk
+SPP1213,Asher,Wilson,Male,Preparatory,True,Associate,Middle,3,1.9,4.5,0,False,68.4,7.4,High,3,False,2.06,1.87,D,High Risk
+SPP1214,Victoria,Brown,Female,Preparatory,False,Associate,High,1,4.3,4.4,3,False,65.7,8.2,Low,0,False,1.79,1.9,D,High Risk
+SPP1215,Evelyn,White,Female,High School,True,Bachelor,Middle,3,3.5,4.3,3,False,100.0,6.1,High,7,True,1.96,2.33,C,Moderate Risk
+SPP1216,Jack,Clark,Male,Middle School,False,Graduate,Middle,4,3.4,5.2,1,False,78.7,7.6,Moderate,3,False,2.23,2.31,C,Moderate Risk
+SPP1217,Sebastian,Williams,Male,High School,True,No Diploma,Low,1,3.0,5.2,3,True,82.8,8.0,Moderate,5,False,2.67,2.12,C,Moderate Risk
+SPP1218,Mia,White,Female,Preparatory,True,No Diploma,Low,4,1.2,3.3,6,True,71.6,6.8,Moderate,6,False,2.12,1.58,D,High Risk
+SPP1219,Scarlett,Davis,Female,Middle School,False,Bachelor,Middle,0,7.0,4.5,4,True,96.4,5.9,Moderate,1,False,2.83,2.68,C,Moderate Risk
+SPP1220,Henry,Smith,Male,Preparatory,True,High School,Middle,2,3.0,2.9,1,True,75.6,7.2,Moderate,7,True,2.29,2.33,C,Moderate Risk
+SPP1221,Chloe,Taylor,Female,High School,False,Graduate,Middle,1,15.9,2.1,1,True,79.1,8.4,Moderate,3,True,2.06,1.97,D,High Risk
+SPP1222,Theodore,Robinson,Male,Preparatory,True,Bachelor,Middle,2,1.5,3.1,0,True,88.6,8.3,Moderate,0,True,3.13,3.03,B,Low Risk
+SPP1223,Sebastian,Martin,Male,Preparatory,True,Bachelor,Middle,0,5.7,3.4,0,True,72.2,6.8,Low,4,True,1.87,1.88,D,High Risk
+SPP1224,Emily,Davis,Female,Preparatory,False,High School,Middle,1,14.1,1.0,2,True,82.9,5.9,High,7,False,1.63,1.5,D,High Risk
+SPP1225,Alexander,Smith,Male,High School,True,High School,Middle,2,5.4,4.8,1,True,100.0,6.8,High,5,True,2.64,2.58,C,Moderate Risk
+SPP1226,Mia,Thomas,Female,Middle School,False,Bachelor,Middle,2,10.3,0.5,2,True,90.1,6.7,Moderate,0,False,1.45,1.54,D,High Risk
+SPP1227,Oliver,Davis,Male,High School,True,Graduate,Middle,1,8.8,7.6,5,False,86.6,7.6,Moderate,2,True,2.86,3.22,B,Low Risk
+SPP1228,Lucas,Martin,Male,High School,True,Graduate,Low,2,2.2,5.8,5,True,87.6,7.1,Moderate,2,False,2.89,3.03,B,Low Risk
+SPP1229,Harper,Robinson,Female,Middle School,True,High School,Middle,2,4.6,3.1,2,True,80.3,6.4,Moderate,3,False,2.31,2.07,C,Moderate Risk
+SPP1230,James,Brown,Male,High School,False,High School,Middle,1,0.8,3.5,3,False,100.0,8.3,Moderate,6,True,2.31,2.32,C,Moderate Risk
+SPP1231,Avery,Garcia,Female,High School,True,No Diploma,Middle,2,3.8,4.0,2,True,75.3,7.3,High,6,False,1.64,1.55,D,High Risk
+SPP1232,Jackson,Thomas,Male,High School,True,Graduate,Middle,2,1.3,2.6,2,True,87.5,7.6,Low,0,False,2.05,2.13,C,Moderate Risk
+SPP1233,Henry,Wilson,Male,High School,False,High School,Middle,3,6.8,3.8,0,True,86.4,5.5,Moderate,0,True,1.46,1.78,D,High Risk
+SPP1234,Samuel,Harris,Male,Middle School,False,No Diploma,Low,3,3.8,3.3,2,True,97.1,4.8,High,1,False,1.2,1.27,F,High Risk
+SPP1235,Scarlett,Martin,Female,Preparatory,True,High School,High,0,2.6,3.4,1,True,98.2,5.8,Moderate,4,True,2.23,2.54,C,Moderate Risk
+SPP1236,Henry,Thomas,Male,Middle School,True,High School,Low,3,1.6,3.8,4,True,84.6,6.7,High,5,True,1.83,2.16,C,Moderate Risk
+SPP1237,Sofia,White,Female,High School,True,Graduate,High,3,30.0,1.5,0,True,88.5,7.8,Moderate,0,False,2.62,2.26,C,Moderate Risk
+SPP1238,Samuel,Jackson,Male,High School,True,Associate,Middle,0,0.5,3.6,4,False,88.9,4.9,Low,7,True,2.39,2.52,C,Moderate Risk
+SPP1239,Chloe,Johnson,Female,Preparatory,True,High School,Middle,2,0.5,3.7,6,True,57.7,8.8,High,5,False,1.69,1.91,D,High Risk
+SPP1240,Owen,Williams,Male,Middle School,True,High School,Middle,2,1.2,3.7,3,True,65.9,7.4,Moderate,3,True,3.1,2.61,C,Moderate Risk
+SPP1241,Avery,Taylor,Female,High School,True,High School,Low,3,17.7,3.2,2,True,77.7,8.6,Moderate,1,True,2.08,1.84,D,High Risk
+SPP1242,Isabella,Wilson,Female,High School,False,No Diploma,Middle,0,19.4,5.2,2,True,78.3,6.3,Low,6,False,1.95,2.06,C,Moderate Risk
+SPP1243,Charlotte,Lewis,Female,Middle School,False,High School,Low,2,5.3,3.0,1,False,70.6,7.7,High,5,False,1.36,1.23,F,High Risk
+SPP1244,Elizabeth,Davis,Female,High School,True,Bachelor,Middle,4,10.6,3.8,2,True,94.0,7.3,Moderate,5,False,2.51,2.58,C,Moderate Risk
+SPP1245,Ava,Taylor,Female,Preparatory,True,High School,Middle,1,1.2,5.4,2,False,85.0,8.0,Low,5,True,2.66,2.87,B,Low Risk
+SPP1246,Ella,Clark,Female,Preparatory,True,High School,Middle,1,17.9,3.4,2,True,82.4,7.0,Moderate,5,False,2.44,2.3,C,Moderate Risk
+SPP1247,Logan,Williams,Male,Middle School,True,High School,Low,1,0.8,3.8,2,False,69.9,7.7,Moderate,5,False,1.79,1.89,D,High Risk
+SPP1248,Aiden,Jones,Male,Middle School,True,Bachelor,High,3,0.5,3.4,3,True,84.5,8.3,Low,6,False,3.02,3.0,B,Low Risk
+SPP1249,Victoria,Williams,Female,High School,True,Associate,Middle,1,0.6,5.4,2,True,53.5,6.5,Moderate,1,False,2.29,1.98,D,High Risk
+SPP1250,Elizabeth,Martin,Female,High School,True,Bachelor,Low,1,4.3,3.1,1,False,83.0,7.4,Moderate,3,False,2.56,2.29,C,Moderate Risk
+SPP1251,Scarlett,Thompson,Female,Middle School,True,Associate,Middle,4,7.6,5.4,2,False,85.8,5.3,Low,5,True,3.2,3.37,B,Low Risk
+SPP1252,Scarlett,Harris,Female,Middle School,True,Bachelor,Low,2,2.3,3.3,2,True,87.9,7.9,High,5,True,2.26,2.11,C,Moderate Risk
+SPP1253,Asher,Williams,Male,Preparatory,True,No Diploma,Low,4,19.1,2.2,3,False,66.2,9.2,Moderate,3,True,1.26,1.6,D,High Risk
+SPP1254,James,Thomas,Male,Preparatory,True,Graduate,Middle,3,2.8,4.5,2,True,87.7,6.0,Low,0,False,2.98,2.84,B,Low Risk
+SPP1255,Amelia,Wilson,Female,Middle School,True,High School,Middle,1,0.8,3.0,3,True,72.5,7.1,Moderate,0,True,2.25,2.21,C,Moderate Risk
+SPP1256,Henry,Thomas,Male,High School,True,Associate,High,2,3.1,4.4,1,True,75.3,8.1,Moderate,6,False,3.1,2.99,B,Low Risk
+SPP1257,Lucas,Harris,Male,High School,False,Bachelor,Middle,1,5.7,0.5,3,False,93.6,7.2,High,1,True,1.59,1.68,D,High Risk
+SPP1258,Ava,Johnson,Female,Middle School,False,Associate,High,1,8.9,3.5,3,False,100.0,7.4,Low,1,False,3.29,2.66,C,Moderate Risk
+SPP1259,Ethan,Robinson,Male,High School,True,Graduate,High,3,3.1,2.8,4,True,85.6,6.8,Moderate,4,True,2.41,2.68,C,Moderate Risk
+SPP1260,Elizabeth,Lewis,Female,High School,True,Associate,High,1,4.5,1.9,3,True,75.2,6.8,Low,1,False,2.37,2.08,C,Moderate Risk
+SPP1261,Owen,Thomas,Male,Preparatory,True,Graduate,Middle,0,1.6,2.7,2,True,87.3,7.1,High,6,True,2.13,2.44,C,Moderate Risk
+SPP1262,Sofia,Brown,Female,High School,True,Bachelor,Low,2,5.2,2.6,1,True,96.3,7.2,Moderate,3,False,2.13,1.98,D,High Risk
+SPP1263,Theodore,Martin,Male,High School,True,Graduate,Low,2,21.3,3.4,5,True,92.5,6.0,Moderate,5,False,2.67,2.5,C,Moderate Risk
+SPP1264,Samuel,Martin,Male,High School,True,Graduate,Middle,0,0.5,1.4,0,True,100.0,7.1,Moderate,3,False,2.76,2.74,C,Moderate Risk
+SPP1265,Jackson,Smith,Male,Middle School,True,Graduate,Middle,3,10.9,4.0,0,True,76.4,8.8,High,6,True,2.47,2.62,C,Moderate Risk
+SPP1266,Noah,Johnson,Male,High School,True,Bachelor,Low,1,4.1,5.5,3,True,88.0,6.8,Moderate,4,True,3.15,3.11,B,Low Risk
+SPP1267,Elijah,Williams,Male,High School,True,High School,Middle,1,1.5,3.9,4,True,100.0,6.0,High,2,False,2.97,2.89,B,Low Risk
+SPP1268,Elijah,Lewis,Male,Middle School,True,High School,Low,2,15.5,4.7,2,False,100.0,7.0,Low,6,True,3.25,2.71,C,Moderate Risk
+SPP1269,Ella,Thompson,Female,Middle School,True,Bachelor,Middle,3,3.3,5.1,5,True,61.6,6.5,Moderate,6,True,2.44,2.7,C,Moderate Risk
+SPP1270,Sebastian,Lewis,Male,Middle School,True,Graduate,Low,3,2.0,5.4,1,True,85.0,5.9,High,2,False,2.25,2.42,C,Moderate Risk
+SPP1271,Olivia,Smith,Female,Preparatory,True,Bachelor,Middle,3,1.0,6.3,0,True,100.0,7.3,Moderate,3,True,3.05,2.96,B,Low Risk
+SPP1272,Evelyn,Lewis,Female,Middle School,True,Graduate,Middle,1,1.4,2.8,3,True,100.0,6.5,Low,2,True,2.48,2.56,C,Moderate Risk
+SPP1273,Ava,Garcia,Female,Middle School,False,Bachelor,Low,3,8.9,2.4,2,True,93.4,6.6,High,6,False,2.19,2.22,C,Moderate Risk
+SPP1274,Owen,Harris,Male,High School,False,High School,Middle,0,4.8,4.7,2,False,80.6,7.4,Low,6,False,2.78,2.46,C,Moderate Risk
+SPP1275,Ava,White,Female,High School,True,High School,Middle,4,12.2,4.6,1,False,72.9,5.7,Low,2,True,1.93,2.78,C,Moderate Risk
+SPP1276,Henry,Lewis,Male,Middle School,True,High School,Middle,3,1.3,4.7,2,False,100.0,5.5,Moderate,7,False,2.78,2.96,B,Low Risk
+SPP1277,Samuel,Harris,Male,Preparatory,True,High School,Low,4,0.6,6.3,2,True,93.7,7.9,Moderate,6,False,2.24,2.76,C,Moderate Risk
+SPP1278,Amelia,White,Female,Preparatory,False,Associate,Middle,1,0.5,3.5,5,True,74.8,5.3,High,4,False,1.78,2.14,C,Moderate Risk
+SPP1279,Asher,Jones,Male,High School,True,Graduate,Middle,3,3.5,4.1,3,True,82.6,6.2,Moderate,6,True,3.4,2.68,C,Moderate Risk
+SPP1280,Amelia,Garcia,Female,High School,True,Bachelor,Middle,2,30.0,2.0,0,False,88.7,5.4,Moderate,6,False,2.64,2.46,C,Moderate Risk
+SPP1281,Charlotte,Thompson,Female,Middle School,False,Associate,Low,1,5.9,6.7,4,False,91.5,6.7,Moderate,5,False,2.86,2.57,C,Moderate Risk
+SPP1282,Charlotte,Anderson,Female,High School,True,No Diploma,Middle,0,1.8,3.0,1,True,74.2,7.6,Moderate,1,False,1.39,1.41,F,High Risk
+SPP1283,Ava,Martin,Female,High School,True,High School,Middle,0,10.5,3.0,5,True,77.6,7.3,High,1,True,2.05,1.82,D,High Risk
+SPP1284,James,Thomas,Male,Middle School,True,Associate,High,4,7.6,3.0,1,False,65.2,9.6,High,2,True,1.38,1.91,D,High Risk
+SPP1285,Oliver,Harris,Male,Middle School,True,High School,Middle,4,0.5,2.5,5,True,97.5,8.3,Moderate,0,False,2.53,2.22,C,Moderate Risk
+SPP1286,Sophia,Brown,Female,High School,True,High School,High,2,8.5,2.4,1,False,80.9,6.3,Low,4,True,1.83,2.08,C,Moderate Risk
+SPP1287,James,Robinson,Male,Middle School,True,Associate,Middle,2,1.8,2.7,1,False,90.6,6.0,High,5,False,2.16,2.32,C,Moderate Risk
+SPP1288,Owen,Williams,Male,Preparatory,True,High School,Middle,0,0.8,1.5,3,True,100.0,9.9,Low,5,False,3.37,3.22,B,Low Risk
+SPP1289,Ethan,Davis,Male,Middle School,True,Graduate,Middle,3,1.3,2.3,1,False,87.6,8.3,Low,2,False,2.23,2.14,C,Moderate Risk
+SPP1290,Mateo,Williams,Male,High School,False,High School,Middle,0,3.2,6.4,1,False,83.6,7.8,Low,0,False,2.97,2.94,B,Low Risk
+SPP1291,Aiden,Davis,Male,High School,True,No Diploma,Middle,0,2.8,4.6,2,False,87.3,7.3,Low,0,True,1.69,2.1,C,Moderate Risk
+SPP1292,Aiden,Robinson,Male,High School,True,No Diploma,Middle,2,1.7,4.9,3,True,85.8,7.5,High,5,False,2.42,2.39,C,Moderate Risk
+SPP1293,Sophia,Taylor,Female,High School,False,High School,Middle,4,0.9,5.3,1,True,100.0,5.7,Moderate,4,False,2.31,2.02,C,Moderate Risk
+SPP1294,Evelyn,Lewis,Female,High School,False,Bachelor,Middle,2,7.2,6.3,4,True,88.7,7.4,High,1,False,2.74,2.9,B,Low Risk
+SPP1295,Emma,Thompson,Female,Preparatory,True,Bachelor,Middle,2,23.1,0.8,0,True,78.5,7.3,Low,5,False,1.89,1.5,D,High Risk
+SPP1296,Oliver,Davis,Male,High School,False,Associate,High,2,7.5,1.7,2,True,97.6,6.3,Moderate,7,False,2.14,2.4,C,Moderate Risk
+SPP1297,Noah,Anderson,Male,High School,True,Bachelor,Middle,0,1.8,2.3,1,True,99.8,6.7,High,7,False,2.52,2.52,C,Moderate Risk
+SPP1298,Liam,Jones,Male,High School,False,High School,Middle,3,1.4,2.8,2,False,68.9,8.7,High,6,True,2.21,1.75,D,High Risk
+SPP1299,Amelia,Jackson,Female,High School,True,Bachelor,Middle,0,1.2,3.0,2,True,100.0,7.1,Moderate,5,False,2.31,2.51,C,Moderate Risk
+SPP1300,Evelyn,Jones,Female,High School,True,No Diploma,Middle,1,0.7,2.8,2,True,89.4,9.3,Low,6,False,2.88,2.56,C,Moderate Risk
+SPP1301,Liam,Jackson,Male,Preparatory,False,High School,High,2,4.0,3.8,3,True,88.4,5.5,High,3,True,2.86,2.27,C,Moderate Risk
+SPP1302,Sofia,Garcia,Female,Middle School,True,Bachelor,High,2,4.6,3.6,3,False,97.1,6.7,Moderate,0,False,2.74,2.69,C,Moderate Risk
+SPP1303,Jack,Jones,Male,High School,True,Bachelor,Middle,1,6.1,2.4,3,True,78.2,5.7,Moderate,3,True,2.21,2.37,C,Moderate Risk
+SPP1304,Isabella,Wilson,Female,High School,True,Bachelor,Middle,2,5.7,0.5,2,True,96.4,6.0,Moderate,7,False,1.94,2.17,C,Moderate Risk
+SPP1305,Mia,Martin,Female,High School,True,High School,Middle,2,1.7,2.0,4,False,80.5,6.4,Moderate,3,True,2.47,2.08,C,Moderate Risk
+SPP1306,Harper,Johnson,Female,Preparatory,True,High School,Middle,2,2.0,2.7,3,True,67.3,7.5,Moderate,4,True,2.37,1.99,D,High Risk
+SPP1307,Ava,Smith,Female,Preparatory,False,Graduate,High,1,5.7,3.1,6,True,73.0,7.5,Moderate,7,False,3.14,2.71,C,Moderate Risk
+SPP1308,Amelia,Davis,Female,High School,True,High School,Low,0,2.1,1.8,3,False,91.8,6.5,Low,5,False,2.25,2.26,C,Moderate Risk
+SPP1309,Noah,Clark,Male,Middle School,True,High School,Low,2,1.2,2.8,1,False,73.7,5.0,Moderate,1,False,1.72,1.41,F,High Risk
+SPP1310,Sofia,Anderson,Female,Middle School,False,High School,Low,3,2.3,1.8,2,True,100.0,8.7,Moderate,7,True,1.72,1.73,D,High Risk
+SPP1311,Mateo,Thomas,Male,High School,True,High School,Middle,1,1.6,3.3,7,False,99.3,6.9,Low,6,False,2.66,2.92,B,Low Risk
+SPP1312,Elizabeth,Thomas,Female,Preparatory,True,High School,High,4,0.5,1.9,2,False,100.0,6.1,Moderate,6,True,3.08,2.74,C,Moderate Risk
+SPP1313,Olivia,Miller,Female,Middle School,True,Associate,Low,1,8.9,2.2,1,True,86.5,7.5,Low,4,True,2.83,2.34,C,Moderate Risk
+SPP1314,Elizabeth,Jackson,Female,Middle School,True,Associate,Middle,0,9.6,1.5,5,True,88.1,7.4,Moderate,0,True,1.96,2.27,C,Moderate Risk
+SPP1315,Henry,Davis,Male,Middle School,True,Graduate,Middle,1,1.2,3.3,3,True,70.7,6.9,High,1,True,1.88,2.19,C,Moderate Risk
+SPP1316,Mia,Wilson,Female,Preparatory,False,No Diploma,Middle,4,0.5,2.2,5,True,96.9,7.3,Low,5,False,2.31,2.3,C,Moderate Risk
+SPP1317,Ella,Miller,Female,High School,True,High School,Middle,3,6.7,4.9,2,True,89.6,6.0,Moderate,7,False,2.93,2.64,C,Moderate Risk
+SPP1318,Olivia,Harris,Female,High School,True,Associate,High,4,1.2,4.1,0,False,91.8,8.0,Moderate,2,True,2.23,2.57,C,Moderate Risk
+SPP1319,Aiden,Johnson,Male,High School,True,Bachelor,Low,1,2.5,3.4,0,True,100.0,6.2,Low,1,False,2.93,2.86,B,Low Risk
+SPP1320,Asher,Lewis,Male,Preparatory,True,Associate,Middle,4,0.5,2.3,1,False,77.7,6.6,High,6,True,1.53,1.71,D,High Risk
+SPP1321,Liam,Thomas,Male,High School,True,Bachelor,Middle,1,1.3,4.1,2,True,83.5,7.8,Moderate,4,False,3.19,2.98,B,Low Risk
+SPP1322,Elijah,Smith,Male,High School,True,No Diploma,Middle,3,7.9,4.5,3,True,88.9,8.4,High,4,False,2.39,2.63,C,Moderate Risk
+SPP1323,Ella,Davis,Female,Middle School,True,Bachelor,High,3,8.2,3.7,2,True,73.8,8.8,Low,3,True,3.29,3.06,B,Low Risk
+SPP1324,Lucas,Jones,Male,High School,False,Associate,Middle,0,1.2,5.9,2,True,82.7,8.3,Low,7,False,2.53,2.58,C,Moderate Risk
+SPP1325,Olivia,Harris,Female,High School,True,High School,Low,3,2.0,4.2,3,True,90.9,6.9,Moderate,5,True,2.21,2.49,C,Moderate Risk
+SPP1326,Liam,Smith,Male,Preparatory,True,Graduate,Middle,2,0.7,4.9,1,False,81.1,5.7,Moderate,2,False,2.51,2.49,C,Moderate Risk
+SPP1327,Mateo,Smith,Male,Middle School,False,Bachelor,Middle,4,0.5,3.7,7,True,100.0,8.6,High,5,True,2.05,2.63,C,Moderate Risk
+SPP1328,Avery,Taylor,Female,Middle School,True,High School,Middle,4,24.3,4.5,2,True,66.9,8.6,Low,1,False,2.33,2.5,C,Moderate Risk
+SPP1329,Olivia,Taylor,Female,Middle School,True,No Diploma,Middle,1,5.3,2.3,6,False,98.5,6.5,Moderate,2,False,2.34,2.24,C,Moderate Risk
+SPP1330,Charlotte,Harris,Female,High School,True,High School,Low,3,3.9,2.8,1,True,92.9,8.1,Low,5,True,1.76,2.29,C,Moderate Risk
+SPP1331,Ava,Thompson,Female,Preparatory,True,Bachelor,Middle,0,7.3,4.0,0,True,78.2,6.9,High,3,True,1.46,2.23,C,Moderate Risk
+SPP1332,Amelia,Garcia,Female,Middle School,True,High School,Low,0,9.2,4.0,1,True,73.9,8.7,High,2,False,1.25,1.95,D,High Risk
+SPP1333,Jack,Williams,Male,High School,True,High School,High,0,8.2,4.3,6,False,60.0,6.7,Moderate,2,True,3.05,2.65,C,Moderate Risk
+SPP1334,Charlotte,Jackson,Female,High School,True,No Diploma,Low,2,0.5,5.2,2,True,75.5,9.2,Low,1,True,2.21,2.23,C,Moderate Risk
+SPP1335,Charlotte,Martin,Female,Middle School,True,Bachelor,Middle,3,1.0,1.4,2,True,97.6,8.0,Moderate,2,False,1.86,2.02,C,Moderate Risk
+SPP1336,Emma,Davis,Female,High School,True,Bachelor,Low,0,5.3,2.0,1,True,84.3,9.0,Low,3,False,2.18,1.9,D,High Risk
+SPP1337,Asher,Harris,Male,Middle School,True,Bachelor,Low,2,2.4,3.8,1,False,99.0,6.7,Low,7,True,2.74,2.86,B,Low Risk
+SPP1338,Evelyn,Thompson,Female,High School,False,High School,Middle,4,20.2,2.4,1,True,77.6,7.6,Moderate,0,True,1.54,1.46,F,High Risk
+SPP1339,Mateo,Thompson,Male,High School,False,Graduate,Middle,1,5.5,8.6,1,False,93.5,6.2,High,0,False,3.19,3.18,B,Low Risk
+SPP1340,Henry,Jackson,Male,High School,False,Bachelor,Low,3,15.7,4.3,2,False,76.4,8.0,High,4,True,1.47,1.61,D,High Risk
+SPP1341,Henry,Thompson,Male,Middle School,True,Graduate,Low,3,1.1,3.4,2,True,73.4,8.1,Moderate,0,False,2.21,2.12,C,Moderate Risk
+SPP1342,Asher,Garcia,Male,Preparatory,True,Associate,Low,4,10.0,2.7,2,False,83.7,9.6,Moderate,1,False,2.0,1.77,D,High Risk
+SPP1343,Abigail,Thompson,Female,High School,True,Associate,Middle,3,1.9,2.8,0,False,77.0,7.7,High,4,False,2.01,2.07,C,Moderate Risk
+SPP1344,Abigail,Martin,Female,High School,True,Bachelor,Middle,3,22.8,3.5,1,True,66.5,7.9,Moderate,0,True,2.25,2.39,C,Moderate Risk
+SPP1345,Isabella,White,Female,Middle School,True,No Diploma,Low,3,0.9,3.7,4,True,82.8,6.7,Moderate,0,True,1.85,1.95,D,High Risk
+SPP1346,Aiden,Jackson,Male,Middle School,True,Associate,Middle,3,3.6,2.8,5,True,86.3,7.7,High,4,True,1.36,2.05,C,Moderate Risk
+SPP1347,Alexander,Garcia,Male,Middle School,True,Bachelor,Middle,2,7.9,3.1,2,True,100.0,6.8,Low,1,False,2.61,2.53,C,Moderate Risk
+SPP1348,Alexander,Williams,Male,Middle School,True,Bachelor,High,2,2.8,5.5,4,False,96.2,7.3,Low,4,False,3.15,3.51,A,Low Risk
+SPP1349,Grace,White,Female,High School,False,Graduate,High,1,3.2,5.6,0,True,99.6,7.4,Moderate,6,True,2.9,2.71,C,Moderate Risk
+SPP1350,Jack,White,Male,Preparatory,True,Bachelor,Middle,3,21.5,3.9,3,True,93.6,6.8,Low,7,False,2.92,2.95,B,Low Risk
+SPP1351,Grace,Harris,Female,High School,True,High School,Low,4,2.8,1.5,6,False,89.0,7.3,Moderate,6,False,2.54,2.51,C,Moderate Risk
+SPP1352,Sofia,Davis,Female,Middle School,True,No Diploma,Low,0,4.6,4.3,0,True,70.3,6.8,Moderate,1,True,1.8,1.59,D,High Risk
+SPP1353,Alexander,Harris,Male,High School,True,Associate,Middle,1,0.5,5.8,6,True,86.8,6.8,Moderate,1,True,2.23,2.51,C,Moderate Risk
+SPP1354,Avery,Jackson,Female,Middle School,True,Associate,High,0,9.2,5.6,2,False,92.2,8.3,High,5,True,2.96,2.85,B,Low Risk
+SPP1355,Isabella,Thompson,Female,High School,True,High School,Middle,0,5.2,4.6,3,True,100.0,7.4,Low,3,False,2.87,2.79,C,Moderate Risk
+SPP1356,Elizabeth,Williams,Female,High School,True,High School,Middle,3,2.6,5.6,3,False,93.2,7.5,Moderate,0,False,3.3,3.36,B,Low Risk
+SPP1357,Amelia,Garcia,Female,High School,False,Associate,Middle,4,0.5,3.6,0,True,99.9,5.7,Low,5,False,2.67,2.95,B,Low Risk
+SPP1358,Samuel,Jones,Male,Preparatory,False,Bachelor,Middle,0,4.5,4.4,1,True,72.6,7.6,Moderate,0,True,2.57,2.39,C,Moderate Risk
+SPP1359,Sebastian,Thompson,Male,Middle School,False,Graduate,Middle,0,0.5,2.5,1,True,81.1,7.7,Moderate,5,True,2.32,2.11,C,Moderate Risk
+SPP1360,Sofia,Johnson,Female,High School,False,Bachelor,Middle,1,0.5,3.9,1,True,90.2,6.8,Moderate,7,False,2.88,2.85,B,Low Risk
+SPP1361,Olivia,Harris,Female,Preparatory,True,Bachelor,Low,4,4.8,5.5,2,False,98.9,9.3,Low,2,False,2.49,2.81,B,Low Risk
+SPP1362,Samuel,Jones,Male,High School,True,Bachelor,Middle,4,1.0,2.6,6,False,83.3,4.9,Moderate,6,False,2.49,2.65,C,Moderate Risk
+SPP1363,Olivia,Lewis,Female,High School,True,Graduate,Middle,0,1.1,2.2,2,False,84.0,8.0,Moderate,7,False,2.74,2.76,C,Moderate Risk
+SPP1364,Harper,Garcia,Female,Preparatory,True,Bachelor,Low,4,5.3,3.6,3,True,93.2,7.9,Low,4,False,2.98,2.77,C,Moderate Risk
+SPP1365,Evelyn,Garcia,Female,Middle School,True,Graduate,Low,1,0.5,3.2,2,False,71.5,7.7,Moderate,5,True,2.1,2.58,C,Moderate Risk
+SPP1366,Sebastian,Robinson,Male,Preparatory,False,Graduate,Middle,1,1.9,4.5,7,False,100.0,7.4,Moderate,6,False,2.7,2.87,B,Low Risk
+SPP1367,Scarlett,Robinson,Female,Middle School,True,Graduate,High,1,0.8,2.8,3,True,74.5,7.8,High,3,False,2.0,2.12,C,Moderate Risk
+SPP1368,Avery,Brown,Female,High School,True,High School,Middle,3,4.3,6.1,1,False,62.0,8.1,High,0,True,2.43,2.45,C,Moderate Risk
+SPP1369,Asher,Thompson,Male,Preparatory,True,No Diploma,Low,0,5.4,1.6,2,True,85.1,6.5,Moderate,2,False,1.05,1.44,F,High Risk
+SPP1370,Samuel,White,Male,Middle School,False,High School,Middle,4,6.4,5.4,2,True,100.0,7.5,High,3,True,2.65,2.72,C,Moderate Risk
+SPP1371,Mia,White,Female,High School,True,No Diploma,Middle,1,1.5,2.4,2,False,92.0,7.0,Moderate,1,False,2.23,2.32,C,Moderate Risk
+SPP1372,Asher,Jackson,Male,High School,False,High School,Middle,0,0.5,0.8,1,True,94.0,6.1,High,7,False,1.06,1.37,F,High Risk
+SPP1373,Grace,Miller,Female,Preparatory,False,High School,Middle,0,0.5,3.9,1,True,85.5,7.9,Low,0,False,2.17,2.21,C,Moderate Risk
+SPP1374,Amelia,Thomas,Female,Preparatory,False,High School,High,3,2.8,3.1,1,True,83.2,6.6,Moderate,6,False,2.51,2.67,C,Moderate Risk
+SPP1375,Logan,Harris,Male,High School,False,Associate,Middle,4,14.6,1.8,1,False,66.5,5.7,Moderate,5,False,1.76,1.61,D,High Risk
+SPP1376,Mia,Clark,Female,High School,True,Bachelor,High,4,1.2,1.0,2,True,57.9,6.7,Moderate,4,False,1.4,1.67,D,High Risk
+SPP1377,Ethan,Anderson,Male,Preparatory,True,High School,High,1,1.5,3.5,2,True,87.4,6.4,Low,3,True,2.41,2.38,C,Moderate Risk
+SPP1378,Emily,Harris,Female,High School,True,Bachelor,High,1,0.5,5.0,2,True,100.0,8.2,Moderate,6,False,3.01,3.25,B,Low Risk
+SPP1379,Jackson,Thomas,Male,High School,True,Bachelor,Middle,0,4.7,4.4,0,True,89.1,7.4,Moderate,2,True,2.27,2.45,C,Moderate Risk
+SPP1380,Emma,Williams,Female,High School,True,Associate,Middle,4,5.7,3.6,2,False,92.5,8.6,Low,4,False,2.93,2.84,B,Low Risk
+SPP1381,Jackson,Thompson,Male,High School,False,Graduate,Middle,4,5.1,4.2,5,True,100.0,6.5,Moderate,1,True,2.84,2.77,C,Moderate Risk
+SPP1382,Henry,Williams,Male,Middle School,True,High School,Low,1,9.9,3.5,2,True,88.9,8.1,Moderate,4,True,2.31,2.44,C,Moderate Risk
+SPP1383,Evelyn,Clark,Female,Middle School,False,High School,Low,2,3.3,1.4,2,True,83.5,10.0,High,6,True,1.38,1.46,F,High Risk
+SPP1384,Liam,Lewis,Male,Middle School,True,Associate,Middle,0,0.7,1.4,2,False,75.2,7.6,Moderate,6,False,1.48,1.92,D,High Risk
+SPP1385,Emily,Brown,Female,Preparatory,True,High School,Middle,4,1.7,3.2,2,True,100.0,8.1,High,2,True,2.21,1.79,D,High Risk
+SPP1386,Oliver,Williams,Male,High School,False,Associate,High,3,5.4,3.3,2,False,91.3,7.9,High,1,True,2.45,2.24,C,Moderate Risk
+SPP1387,Isabella,Martin,Female,High School,True,High School,Low,3,4.7,4.8,4,True,73.7,5.8,Moderate,2,True,2.75,2.55,C,Moderate Risk
+SPP1388,Samuel,Thomas,Male,High School,True,High School,Low,2,3.8,4.6,4,True,70.9,7.8,Moderate,6,True,1.49,1.97,D,High Risk
+SPP1389,Avery,Davis,Female,Middle School,True,High School,Middle,1,5.7,4.4,3,False,100.0,7.5,Low,0,True,2.72,2.9,B,Low Risk
+SPP1390,Henry,Thompson,Male,High School,True,High School,Middle,1,5.1,3.1,2,False,72.6,6.9,High,2,False,1.5,1.6,D,High Risk
+SPP1391,Mateo,Miller,Male,High School,True,Bachelor,Low,1,10.7,1.4,1,False,100.0,6.3,Low,7,True,1.96,2.54,C,Moderate Risk
+SPP1392,Henry,Anderson,Male,High School,True,Associate,High,3,4.4,4.1,1,False,51.9,7.9,Moderate,4,False,2.52,2.25,C,Moderate Risk
+SPP1393,Asher,Robinson,Male,Preparatory,True,High School,Middle,1,7.5,4.3,2,False,100.0,6.2,Moderate,6,True,3.19,2.75,C,Moderate Risk
+SPP1394,Mia,Smith,Female,High School,True,High School,Middle,3,1.4,0.5,3,False,90.8,9.3,High,0,False,2.4,1.78,D,High Risk
+SPP1395,Theodore,Williams,Male,High School,True,No Diploma,High,2,5.7,2.2,2,False,86.4,7.3,Moderate,0,False,1.94,2.25,C,Moderate Risk
+SPP1396,Emily,Brown,Female,High School,True,No Diploma,Middle,0,11.6,2.5,2,True,82.9,6.0,High,3,True,1.73,1.69,D,High Risk
+SPP1397,Henry,Jackson,Male,Preparatory,True,Graduate,Middle,4,2.4,3.7,2,True,100.0,6.7,Low,4,False,3.24,2.84,B,Low Risk
+SPP1398,Ethan,Garcia,Male,High School,False,No Diploma,High,2,7.6,2.3,4,True,93.5,6.9,Low,4,True,2.09,2.17,C,Moderate Risk
+SPP1399,Scarlett,White,Female,Middle School,True,Bachelor,Low,3,6.5,3.4,4,False,74.2,9.6,Moderate,1,True,2.05,2.22,C,Moderate Risk
+SPP1400,Emma,Jones,Female,High School,True,Graduate,Middle,2,0.5,3.2,4,True,64.4,6.3,High,2,False,1.6,2.16,C,Moderate Risk
+SPP1401,Elijah,Martin,Male,High School,True,No Diploma,Low,4,4.4,3.3,4,False,87.1,7.1,Moderate,5,False,2.14,1.8,D,High Risk
+SPP1402,Owen,Harris,Male,High School,False,Associate,Low,0,0.7,2.4,1,True,85.0,6.7,High,2,False,1.37,1.38,F,High Risk
+SPP1403,Jackson,Harris,Male,Middle School,True,Graduate,High,4,17.1,2.5,1,True,66.8,7.7,High,4,True,2.11,2.33,C,Moderate Risk
+SPP1404,Elizabeth,Brown,Female,Preparatory,True,Bachelor,Middle,3,8.3,1.9,0,True,84.3,6.7,High,2,True,2.05,1.96,D,High Risk
+SPP1405,Sophia,Davis,Female,Preparatory,True,Associate,Middle,4,0.6,4.1,1,True,78.1,6.1,Moderate,4,True,2.72,2.67,C,Moderate Risk
+SPP1406,James,Martin,Male,Middle School,True,Bachelor,High,2,0.6,4.4,2,True,85.1,7.0,Moderate,6,False,2.91,2.86,B,Low Risk
+SPP1407,Emily,Martin,Female,Preparatory,True,Bachelor,High,1,4.5,2.3,4,True,93.7,6.9,Low,0,False,2.11,2.18,C,Moderate Risk
+SPP1408,Harper,Brown,Female,Middle School,True,High School,High,2,2.1,5.8,2,False,100.0,6.6,High,2,True,3.24,2.75,C,Moderate Risk
+SPP1409,Scarlett,Jackson,Female,Middle School,True,Graduate,Middle,3,0.5,3.0,2,True,95.9,6.7,High,6,False,2.09,2.13,C,Moderate Risk
+SPP1410,Isabella,Jackson,Female,Middle School,False,Associate,Middle,0,3.9,5.8,4,True,76.3,8.4,Moderate,2,True,3.24,2.75,C,Moderate Risk
+SPP1411,Owen,Johnson,Male,Middle School,True,Associate,Low,4,2.5,2.5,1,True,89.4,6.9,Low,4,False,1.97,1.8,D,High Risk
+SPP1412,Logan,Williams,Male,Preparatory,True,Graduate,Middle,0,0.5,0.5,1,False,85.8,6.1,Low,6,True,1.94,1.83,D,High Risk
+SPP1413,Alexander,Davis,Male,Middle School,True,Bachelor,Middle,3,8.1,4.1,3,True,69.0,6.7,High,4,False,2.16,2.19,C,Moderate Risk
+SPP1414,Henry,Harris,Male,Middle School,False,High School,Middle,4,12.3,3.9,1,True,89.8,7.3,Low,1,False,3.05,2.76,C,Moderate Risk
+SPP1415,Chloe,Anderson,Female,Middle School,False,No Diploma,Middle,2,7.1,3.6,2,True,100.0,5.9,High,2,False,1.46,1.43,F,High Risk
+SPP1416,Emily,Wilson,Female,Middle School,True,Bachelor,High,2,8.6,2.5,1,True,85.4,8.8,Moderate,3,True,2.38,2.66,C,Moderate Risk
+SPP1417,Ethan,Miller,Male,Middle School,True,Bachelor,Middle,3,1.2,3.4,0,False,65.9,8.1,Moderate,7,False,2.14,2.43,C,Moderate Risk
+SPP1418,Elijah,Jackson,Male,High School,True,Bachelor,Middle,4,1.5,2.7,4,False,85.4,8.6,High,4,True,2.96,2.83,B,Low Risk
+SPP1419,Asher,Johnson,Male,Middle School,True,Graduate,Middle,2,1.2,3.0,1,True,70.4,7.6,Low,3,False,2.44,2.71,C,Moderate Risk
+SPP1420,Sophia,Davis,Female,Preparatory,True,Graduate,Low,3,7.2,4.8,2,True,95.4,5.1,Moderate,0,False,2.94,2.96,B,Low Risk
+SPP1421,Theodore,Miller,Male,Preparatory,True,Associate,Middle,3,14.8,3.8,0,True,91.3,8.7,High,0,True,2.97,2.65,C,Moderate Risk
+SPP1422,Charlotte,Thomas,Female,Middle School,True,No Diploma,Middle,0,6.3,4.4,1,True,82.9,6.3,Moderate,7,False,1.91,1.82,D,High Risk
+SPP1423,Logan,Clark,Male,Preparatory,True,Associate,Low,2,10.7,3.2,1,False,81.0,6.4,High,3,False,1.72,1.94,D,High Risk
+SPP1424,Noah,Miller,Male,Middle School,True,Bachelor,Middle,4,5.1,3.0,0,True,82.5,7.4,High,5,True,2.94,2.52,C,Moderate Risk
+SPP1425,Avery,Taylor,Female,Middle School,True,Bachelor,Middle,2,2.5,1.8,0,True,85.1,8.6,Low,0,True,2.21,2.05,C,Moderate Risk
+SPP1426,Ella,Martin,Female,Middle School,True,Associate,Low,2,2.8,2.9,4,True,75.7,8.3,Low,3,False,2.5,2.19,C,Moderate Risk
+SPP1427,Samuel,Williams,Male,High School,True,Associate,Middle,2,0.5,0.5,1,False,68.3,8.1,Moderate,1,False,0.61,1.29,F,High Risk
+SPP1428,Sofia,Taylor,Female,High School,True,High School,Middle,3,0.5,2.6,0,False,98.7,6.9,Moderate,1,True,2.46,2.36,C,Moderate Risk
+SPP1429,Ava,Garcia,Female,High School,True,High School,Middle,1,5.9,3.4,0,False,80.4,6.9,Moderate,0,True,2.19,1.94,D,High Risk
+SPP1430,Emily,Robinson,Female,High School,True,Associate,Middle,1,2.9,4.3,4,True,87.0,7.5,High,6,True,3.08,2.57,C,Moderate Risk
+SPP1431,Logan,Robinson,Male,High School,True,High School,Middle,0,4.0,3.1,4,True,88.4,7.1,Low,3,False,1.72,2.16,C,Moderate Risk
+SPP1432,Charlotte,Jones,Female,Middle School,True,High School,Middle,2,4.1,4.0,2,True,88.9,8.1,Moderate,3,True,2.91,2.55,C,Moderate Risk
+SPP1433,Evelyn,Miller,Female,High School,True,High School,High,1,1.6,0.5,2,True,70.9,8.0,Low,7,False,2.45,1.96,D,High Risk
+SPP1434,Elizabeth,Johnson,Female,Middle School,True,Associate,Middle,0,3.2,3.4,1,True,64.9,7.8,Low,7,True,1.87,2.48,C,Moderate Risk
+SPP1435,Samuel,Anderson,Male,Middle School,True,No Diploma,High,3,3.2,1.0,1,True,77.9,4.7,Moderate,3,True,1.25,1.11,F,High Risk
+SPP1436,Ethan,Jackson,Male,Middle School,False,Bachelor,Low,2,2.5,1.7,1,True,89.7,7.3,High,7,True,2.07,1.88,D,High Risk
+SPP1437,Mateo,Jones,Male,Middle School,True,Associate,Middle,4,8.6,3.2,5,False,76.3,7.1,Low,5,False,2.25,2.35,C,Moderate Risk
+SPP1438,Isabella,Garcia,Female,High School,False,Bachelor,Middle,3,3.0,5.4,0,True,80.7,7.4,Moderate,0,True,1.89,2.04,C,Moderate Risk
+SPP1439,Liam,White,Male,Preparatory,True,Bachelor,Middle,0,4.6,4.1,5,True,100.0,6.4,Moderate,5,False,2.8,2.6,C,Moderate Risk
+SPP1440,Ella,Thomas,Female,Middle School,False,High School,Low,3,11.3,3.5,1,True,62.9,5.9,Low,3,True,1.09,1.27,F,High Risk
+SPP1441,Evelyn,Brown,Female,High School,True,Associate,Middle,4,10.1,3.5,1,True,75.9,7.7,Moderate,4,False,2.21,2.28,C,Moderate Risk
+SPP1442,Logan,Garcia,Male,High School,True,Graduate,Low,3,11.1,2.4,0,True,100.0,6.8,High,3,True,2.54,2.3,C,Moderate Risk
+SPP1443,Mia,Taylor,Female,Preparatory,True,Bachelor,Low,0,1.6,2.7,1,True,84.5,7.8,Moderate,4,False,2.89,2.36,C,Moderate Risk
+SPP1444,Jackson,Robinson,Male,Middle School,True,Graduate,High,4,0.5,4.1,2,True,76.5,6.5,Low,1,False,3.11,2.95,B,Low Risk
+SPP1445,Emma,Harris,Female,High School,False,Bachelor,High,4,1.5,1.4,2,True,99.0,8.6,Moderate,4,True,2.28,2.24,C,Moderate Risk
+SPP1446,Oliver,Davis,Male,Preparatory,False,High School,Middle,3,1.6,4.4,0,True,85.7,8.2,Moderate,1,True,2.38,2.53,C,Moderate Risk
+SPP1447,Elizabeth,Wilson,Female,High School,True,No Diploma,Middle,4,12.0,2.9,3,True,80.8,7.5,Low,7,False,1.78,2.08,C,Moderate Risk
+SPP1448,Elizabeth,Jones,Female,High School,True,Associate,High,3,5.2,4.7,3,True,87.3,7.0,Low,0,True,3.45,3.12,B,Low Risk
+SPP1449,Elizabeth,Taylor,Female,Middle School,True,High School,Middle,2,0.5,4.9,3,True,77.1,8.1,Low,6,False,2.73,2.78,C,Moderate Risk
+SPP1450,Olivia,Lewis,Female,Middle School,False,High School,Low,4,0.7,1.0,1,True,72.8,7.6,Low,6,True,2.01,1.66,D,High Risk
+SPP1451,Evelyn,Garcia,Female,High School,True,Bachelor,High,3,0.8,2.6,1,False,83.6,7.4,Low,5,False,2.48,2.58,C,Moderate Risk
+SPP1452,Amelia,Martin,Female,High School,True,High School,Middle,2,5.0,2.2,2,True,72.9,8.2,Moderate,5,False,2.0,2.19,C,Moderate Risk
+SPP1453,Charlotte,Williams,Female,Middle School,True,High School,Middle,4,6.6,0.8,0,True,85.1,8.6,Moderate,1,True,1.96,1.83,D,High Risk
+SPP1454,Isabella,Taylor,Female,High School,False,Bachelor,Middle,2,9.8,2.0,2,False,89.3,5.9,High,1,False,1.9,1.92,D,High Risk
+SPP1455,Samuel,Anderson,Male,High School,True,Bachelor,Middle,4,14.1,7.2,2,False,95.2,6.1,Moderate,3,False,2.57,2.93,B,Low Risk
+SPP1456,Ava,Anderson,Female,High School,False,High School,High,0,1.1,4.4,1,False,98.5,6.4,High,2,True,2.3,1.75,D,High Risk
+SPP1457,Mia,Thompson,Female,High School,False,Bachelor,Middle,0,1.9,6.4,0,False,80.1,5.7,Moderate,1,False,1.9,2.09,C,Moderate Risk
+SPP1458,Emily,Brown,Female,Preparatory,True,Graduate,High,3,1.4,4.7,3,True,91.0,7.1,Low,4,False,3.96,3.68,A,Low Risk
+SPP1459,Sebastian,Brown,Male,High School,True,Associate,High,1,2.2,2.4,2,True,90.9,7.8,Moderate,0,True,2.7,2.45,C,Moderate Risk
+SPP1460,Amelia,Thompson,Female,Preparatory,False,No Diploma,Middle,0,12.3,2.9,1,False,88.9,7.2,High,7,False,1.22,1.6,D,High Risk
+SPP1461,James,Wilson,Male,Middle School,True,No Diploma,Middle,1,4.3,4.4,1,False,79.2,6.7,Low,5,False,1.53,1.83,D,High Risk
+SPP1462,Isabella,Clark,Female,Middle School,False,Associate,Middle,2,6.7,4.2,1,True,72.7,8.3,Low,4,True,2.3,2.39,C,Moderate Risk
+SPP1463,Jackson,Jones,Male,Middle School,True,High School,Low,2,3.4,2.6,0,False,91.0,7.3,Moderate,5,False,1.45,1.71,D,High Risk
+SPP1464,Ava,Garcia,Female,Middle School,True,Graduate,Low,1,0.5,1.2,3,True,64.5,7.5,Moderate,0,True,2.01,1.49,F,High Risk
+SPP1465,Elizabeth,Williams,Female,Middle School,False,Bachelor,Middle,3,0.5,8.4,3,True,81.8,8.4,Moderate,7,False,3.21,3.27,B,Low Risk
+SPP1466,Asher,Smith,Male,Middle School,True,Bachelor,Middle,4,3.9,3.3,2,False,54.4,7.1,Low,4,True,2.53,2.26,C,Moderate Risk
+SPP1467,Abigail,Lewis,Female,Preparatory,True,Graduate,Low,1,6.3,3.0,2,False,69.0,9.3,Low,5,False,2.76,2.61,C,Moderate Risk
+SPP1468,Sebastian,Martin,Male,Middle School,False,Graduate,Middle,1,1.2,3.7,1,False,74.5,6.8,Moderate,1,False,2.3,2.22,C,Moderate Risk
+SPP1469,Avery,Anderson,Female,High School,True,High School,High,1,6.4,3.1,6,False,98.2,9.2,Moderate,7,False,2.55,2.54,C,Moderate Risk
+SPP1470,Abigail,Jackson,Female,Middle School,True,High School,Middle,1,8.3,3.7,1,True,93.3,6.2,Moderate,2,True,2.72,2.35,C,Moderate Risk
+SPP1471,Sofia,Taylor,Female,Preparatory,True,Bachelor,High,1,2.7,5.4,3,True,78.4,7.7,Moderate,1,True,2.7,2.95,B,Low Risk
+SPP1472,Elizabeth,Williams,Female,High School,False,High School,Middle,3,6.9,3.3,1,False,93.8,6.6,Moderate,6,False,2.15,1.63,D,High Risk
+SPP1473,Sophia,Wilson,Female,Middle School,False,Associate,Middle,0,2.6,1.8,2,True,95.7,8.3,Low,5,True,1.96,2.35,C,Moderate Risk
+SPP1474,Lucas,Thomas,Male,High School,True,Bachelor,Low,4,5.7,3.3,1,True,83.1,6.7,Moderate,3,True,2.41,2.18,C,Moderate Risk
+SPP1475,Liam,White,Male,High School,False,Graduate,Middle,0,7.2,2.8,0,True,68.4,7.5,Low,4,False,1.88,2.3,C,Moderate Risk
+SPP1476,Scarlett,Smith,Female,High School,False,Associate,Middle,1,24.1,5.6,2,True,82.5,6.5,Moderate,2,False,2.38,2.47,C,Moderate Risk
+SPP1477,Isabella,Robinson,Female,High School,True,Bachelor,Low,0,2.1,5.3,1,True,83.8,8.1,Moderate,4,True,2.63,2.6,C,Moderate Risk
+SPP1478,Sofia,Thompson,Female,High School,True,High School,Middle,3,2.6,3.7,2,False,70.2,6.5,Low,3,True,2.28,2.43,C,Moderate Risk
+SPP1479,Abigail,Wilson,Female,High School,True,Bachelor,Middle,2,0.9,1.6,1,True,89.4,8.9,Low,3,False,1.8,1.85,D,High Risk
+SPP1480,Noah,Wilson,Male,High School,True,No Diploma,Middle,0,1.1,1.7,3,True,88.4,6.2,Low,3,False,1.44,1.86,D,High Risk
+SPP1481,Ava,Taylor,Female,Middle School,True,Graduate,Middle,4,5.9,3.5,1,False,90.3,5.9,Low,5,False,1.86,2.16,C,Moderate Risk
+SPP1482,Owen,Clark,Male,Preparatory,False,No Diploma,Middle,3,12.4,4.0,2,True,88.3,8.2,Moderate,1,True,1.83,1.68,D,High Risk
+SPP1483,Mia,Harris,Female,High School,True,Bachelor,Middle,2,2.5,2.9,3,False,93.8,6.6,High,5,False,2.54,2.53,C,Moderate Risk
+SPP1484,Asher,Jones,Male,High School,True,No Diploma,High,3,1.0,2.8,6,True,82.8,7.2,Moderate,1,False,1.59,1.8,D,High Risk
+SPP1485,Sebastian,Harris,Male,Middle School,True,High School,High,1,1.7,2.6,4,False,87.4,6.9,Moderate,2,True,2.32,1.92,D,High Risk
+SPP1486,Alexander,Lewis,Male,High School,True,Associate,High,2,3.0,3.5,2,True,80.2,5.9,Moderate,3,False,2.81,3.18,B,Low Risk
+SPP1487,Jackson,Johnson,Male,Preparatory,True,Associate,Middle,4,1.7,0.5,2,True,78.0,7.1,Moderate,6,False,1.37,1.48,F,High Risk
+SPP1488,Isabella,Jackson,Female,Middle School,True,High School,Middle,2,1.3,1.8,0,False,100.0,8.5,High,1,False,2.32,2.47,C,Moderate Risk
+SPP1489,Lucas,Martin,Male,High School,True,High School,Middle,4,6.7,2.6,2,False,60.5,8.2,High,0,False,1.68,1.5,D,High Risk
+SPP1490,James,Harris,Male,High School,True,Bachelor,Low,1,0.5,5.3,4,True,95.5,7.4,High,6,False,2.77,2.76,C,Moderate Risk
+SPP1491,Alexander,Taylor,Male,Preparatory,False,Bachelor,High,4,3.9,2.3,1,False,77.6,8.3,High,0,False,2.02,2.05,C,Moderate Risk
+SPP1492,Theodore,White,Male,High School,True,No Diploma,Middle,3,7.9,3.8,2,True,76.0,6.1,Low,1,False,1.82,2.37,C,Moderate Risk
+SPP1493,Owen,Taylor,Male,High School,True,Bachelor,Low,0,1.5,3.8,1,False,88.1,6.9,Moderate,6,True,2.34,2.08,C,Moderate Risk
+SPP1494,Asher,White,Male,Preparatory,True,No Diploma,Low,3,4.6,5.4,3,True,67.1,7.6,High,6,False,1.76,1.83,D,High Risk
+SPP1495,Amelia,Wilson,Female,High School,True,Associate,High,3,5.5,5.4,4,True,75.2,7.1,Moderate,2,False,3.17,3.14,B,Low Risk
+SPP1496,Emily,White,Female,Middle School,True,High School,Low,2,5.3,3.4,1,True,74.8,7.0,High,4,False,1.72,1.94,D,High Risk
+SPP1497,Abigail,Williams,Female,Middle School,True,Associate,Low,1,3.0,2.8,1,True,82.3,6.0,Low,5,False,2.26,2.53,C,Moderate Risk
+SPP1498,Owen,Lewis,Male,High School,False,High School,Middle,0,2.1,2.5,2,True,75.4,5.1,Moderate,7,True,2.33,1.88,D,High Risk
+SPP1499,Logan,Martin,Male,Middle School,True,Graduate,Low,4,9.0,3.1,3,True,100.0,8.0,High,3,False,2.62,3.15,B,Low Risk
+SPP1500,Olivia,Johnson,Female,Middle School,True,High School,High,2,7.1,2.8,1,True,100.0,7.4,Moderate,1,False,2.29,2.61,C,Moderate Risk
