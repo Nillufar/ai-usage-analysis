@@ -1,4 +1,4 @@
-# AI Usage Analysis — Team Project
+# Operating System
 
 Five automation and analysis scenarios on student AI usage, study behavior, and academic performance. Each scenario is a Google Colab notebook with explanations, code, visual outputs, and a short reflection.
 
