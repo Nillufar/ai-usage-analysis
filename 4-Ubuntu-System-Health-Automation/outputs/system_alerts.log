@@ -1,0 +1,16 @@
+2026-05-29 05:50:00 ubuntu-monitor ALERT Network spike cpu=23.56 ram=62.15 disk=61.57 network=151.13Mbps
+2026-05-29 06:50:00 ubuntu-monitor ALERT Network spike cpu=38.96 ram=53.1 disk=59.96 network=168.48Mbps
+2026-05-29 09:10:00 ubuntu-monitor ALERT CPU overload cpu=90.86 ram=49.53 disk=59.62 network=45.65Mbps
+2026-05-29 09:40:00 ubuntu-monitor ALERT CPU overload cpu=88.26 ram=64.42 disk=58.51 network=68.27Mbps
+2026-05-29 09:50:00 ubuntu-monitor ALERT CPU overload cpu=94.12 ram=64.74 disk=58.67 network=96.11Mbps
+2026-05-29 10:10:00 ubuntu-monitor ALERT CPU overload cpu=86.19 ram=53.74 disk=60.65 network=56.0Mbps
+2026-05-29 13:00:00 ubuntu-monitor ALERT RAM pressure cpu=61.12 ram=98.89 disk=62.97 network=87.95Mbps
+2026-05-29 13:10:00 ubuntu-monitor ALERT RAM pressure cpu=44.67 ram=85.23 disk=62.75 network=82.46Mbps
+2026-05-29 13:20:00 ubuntu-monitor ALERT RAM pressure cpu=58.97 ram=92.18 disk=62.98 network=79.29Mbps
+2026-05-29 13:30:00 ubuntu-monitor ALERT RAM pressure cpu=63.7 ram=100.0 disk=61.77 network=67.43Mbps
+2026-05-29 13:40:00 ubuntu-monitor ALERT RAM pressure cpu=72.75 ram=95.54 disk=63.06 network=73.52Mbps
+2026-05-29 13:50:00 ubuntu-monitor ALERT RAM pressure cpu=56.84 ram=88.72 disk=63.87 network=97.57Mbps
+2026-05-29 14:00:00 ubuntu-monitor ALERT RAM pressure cpu=54.53 ram=90.91 disk=65.4 network=93.02Mbps
+2026-05-29 14:10:00 ubuntu-monitor ALERT RAM pressure cpu=56.97 ram=99.27 disk=64.76 network=66.38Mbps
+2026-05-29 14:20:00 ubuntu-monitor ALERT RAM pressure cpu=68.25 ram=90.77 disk=66.65 network=85.69Mbps
+2026-05-29 14:30:00 ubuntu-monitor ALERT RAM pressure cpu=63.48 ram=96.39 disk=62.37 network=97.29Mbps
