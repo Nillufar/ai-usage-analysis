@@ -22,7 +22,7 @@ Five automation and analysis scenarios on student AI usage, study behavior, and 
 | **2** | Smart Deadline & Workload Automation | Task tracking, reminders, logs, dashboards | [`smart_student_deadline_automation.ipynb`](smart_student_deadline_automation.ipynb) | Generated in-notebook |
 | **3** | Performance Prediction System | ML tier prediction, dropout risk, interventions | [`Student_Performance_Prediction_System.ipynb`](Student_Performance_Prediction_System.ipynb) | [`dataset/student_performance_data.csv`](dataset/student_performance_data.csv), [`dataset/intervention_log.csv`](dataset/intervention_log.csv) |
 | **4** | Automated Grade Processor | Email alerts, at-risk detection, career matching | [`3-Automated-Student-Grade-Processor/main.ipynb`](3-Automated-Student-Grade-Processor/main.ipynb) | [`3-Automated-Student-Grade-Processor/student-scores.csv`](3-Automated-Student-Grade-Processor/student-scores.csv) |
-| **5** | *TBD* | *To be defined by the team* | — | — |
+| **5** | Job / Internship Application Tracker |Usage patterns, logs, automation alerts, Task tracking, Career matching | 5.Job-Internship-Application-Tracker/job_tracker_automation.ipynb | 5.Job-Internship-Application-Tracker/job_applications.csv |
 
 ## Colab links
 
@@ -34,6 +34,8 @@ Open any scenario directly in Google Colab (requires the repo on GitHub):
 | **2** — Deadline & Workload Automation | [Open notebook](https://colab.research.google.com/github/Nillufar/ai-usage-analysis/blob/main/smart_student_deadline_automation.ipynb) |
 | **3** — Performance Prediction System | [Open notebook](https://colab.research.google.com/github/Nillufar/ai-usage-analysis/blob/main/Student_Performance_Prediction_System.ipynb) |
 | **4** — Automated Grade Processor | [Open notebook](https://colab.research.google.com/github/Nillufar/ai-usage-analysis/blob/main/3-Automated-Student-Grade-Processor/main.ipynb) |
+| **5** — Job/Internship Application Tracking| [Open notebook](https://colab.research.google.com/github/Nillufar/ai-usage-analysis/blob/main/5.Job-Internship-Application-Tracker/job_tracker_automation.ipynb) |
+
 
 **Shared team Colab link (submission):** *Paste your shared Drive / Colab link here after publishing.*
 
