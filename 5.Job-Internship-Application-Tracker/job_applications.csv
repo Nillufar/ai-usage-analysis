@@ -1,0 +1,401 @@
+application_id,company,role,type,date_applied,status,follow_up_date,response_date,platform,city,remote,salary_min,salary_max,resume_version,cover_letter,referral,interview_rounds,rejection_stage,notes
+APP0001,Netmarble,iOS Intern,Internship,2024-02-05,Interview,2024-02-24,2024-02-10,Wanted,Suwon,No,3000000,3300000,v2,Yes,Yes,2,,
+APP0002,Viva Republica,Machine Learning Intern,Internship,2024-03-02,Applied,2024-03-13,,Jumpit,Busan,Yes,2200000,2900000,v2,Yes,No,0,Pending,Cold application via LinkedIn
+APP0003,Kakao Bank,Android Intern,Internship,2024-03-22,Applied,2024-04-06,,Wanted,Seoul,No,2000000,2500000,v1,Yes,No,0,Pending,
+APP0004,Line,Backend Engineer,Full-time,2024-03-29,Interview,2024-04-13,2024-04-09,Wanted,Seoul,Yes,4500000,5000000,v2,Yes,No,3,,
+APP0005,Netmarble,Data Science Intern,Internship,2024-03-13,Interview,2024-03-23,2024-04-12,Company Website,Seoul,No,3000000,3300000,v3,No,No,3,,Multiple rounds expected
+APP0006,SK Telecom,Cloud Engineering Intern,Internship,2024-04-05,Interview,2024-04-24,2024-04-13,Wanted,Seongnam,No,2800000,3100000,v2,Yes,No,4,,Submitted portfolio
+APP0007,LG CNS,Full-Stack Engineer,Full-time,2024-03-10,Interview,2024-03-27,2024-03-31,Jumpit,Suwon,No,4500000,5500000,v3,Yes,Yes,3,,Startup feel within big company
+APP0008,Kakao Games,Cloud Architect,Full-time,2024-04-06,Applied,2024-04-27,,LinkedIn,Daejeon,No,6500000,8000000,v1,Yes,No,0,Pending,HR reached out first
+APP0009,KT DS,DevOps Engineer,Full-time,2024-01-18,Applied,2024-02-05,,Company Website,Seoul,No,6000000,7000000,v1,No,No,0,Pending,Referred by senior from lab
+APP0010,Nexon,Backend Engineering Intern,Internship,2024-01-19,Offer,2024-02-05,2024-02-19,Saramin,Daejeon,No,2500000,2800000,v1,No,No,1,,Startup feel within big company
+APP0011,Coupang Eats,QA Intern,Internship,2024-03-15,Rejected,2024-04-04,2024-04-09,LinkedIn,Seoul,No,2200000,2900000,v3,No,No,0,Resume Screening,Remote-friendly team
+APP0012,Krafton,Machine Learning Intern,Internship,2024-01-13,Applied,2024-01-28,,Wanted,Seongnam,Yes,2200000,2500000,v1,No,No,0,Pending,Cold application via LinkedIn
+APP0013,KT DS,QA Intern,Internship,2024-02-01,Offer,2024-02-21,2024-02-19,Jumpit,Suwon,No,3000000,3500000,v2,Yes,No,3,,Fast-growing team
+APP0014,Naver Cloud,Backend Engineering Intern,Internship,2024-03-31,Rejected,2024-04-14,2024-04-10,Jumpit,Seongnam,Yes,2500000,2800000,v2,Yes,No,0,Resume Screening,Cold application via LinkedIn
+APP0015,Krafton,DevOps Engineer,Full-time,2024-01-17,Interview,2024-01-30,2024-02-18,LinkedIn,Remote,Yes,4000000,4500000,v3,No,Yes,4,,Applied through career fair
+APP0016,Krafton,DevOps Intern,Internship,2024-02-07,Applied,2024-02-26,,Saramin,Suwon,No,3000000,3700000,v3,Yes,No,0,Pending,Startup feel within big company
+APP0017,Kakao,Backend Engineer,Full-time,2024-01-11,Rejected,2024-01-31,2024-02-12,Jumpit,Seoul,No,4500000,5000000,v3,Yes,Yes,1,Phone Screen,
+APP0018,Nexon,Frontend Engineering Intern,Internship,2024-02-27,Interview,2024-03-18,2024-03-12,Jumpit,Seongnam,No,2500000,2800000,v3,Yes,No,4,,Tailored resume for this role
+APP0019,Line Games,Frontend Engineer,Full-time,2024-01-06,Interview,2024-01-17,2024-02-08,Wanted,Remote,Yes,4000000,4500000,v2,Yes,Yes,2,,Submitted portfolio
+APP0020,Google Korea,Data Analytics Intern,Internship,2024-04-04,Interview,2024-04-16,2024-04-09,Wanted,Remote,Yes,3000000,3300000,v3,Yes,No,1,,Startup feel within big company
+APP0021,Toss,Cloud Engineering Intern,Internship,2024-01-31,Offer,2024-02-16,2024-03-02,Company Website,Seoul,No,2500000,3200000,v2,No,No,3,,Applied through career fair
+APP0022,Naver,Data Science Intern,Internship,2024-03-26,Applied,2024-04-13,,Jobkorea,Seoul,No,2800000,3500000,v1,Yes,No,0,Pending,Applied through career fair
+APP0023,Megazone Cloud,Data Analytics Intern,Internship,2024-01-23,Ghosted,2024-02-08,,Wanted,Seoul,No,2000000,2500000,v2,Yes,Yes,0,No Response,
+APP0024,Kakao Mobility,Machine Learning Intern,Internship,2024-01-25,Applied,2024-02-15,,Jobkorea,Busan,No,2000000,2300000,v3,Yes,No,0,Pending,Hackathon connection
+APP0025,SK Telecom,Frontend Engineering Intern,Internship,2024-02-22,Offer,2024-03-06,2024-03-10,Company Website,Busan,Yes,2800000,3300000,v2,No,No,3,,HR reached out first
+APP0026,Kakao Games,iOS Intern,Internship,2024-02-18,Interview,2024-03-03,2024-02-24,Jumpit,Seoul,No,3000000,3500000,v3,Yes,No,1,,
+APP0027,Naver Cloud,Android Intern,Internship,2024-02-29,Applied,2024-03-18,,Jumpit,Seoul,No,3000000,3300000,v2,No,Yes,0,Pending,
+APP0028,Kakao Mobility,Data Analyst,Full-time,2024-03-30,Rejected,2024-04-19,2024-04-11,LinkedIn,Seoul,No,5000000,6500000,v3,Yes,No,0,Resume Screening,Applied in bulk round
+APP0029,Lotte Data Communication,DevOps Intern,Internship,2024-03-30,Interview,2024-04-15,2024-04-13,Saramin,Seongnam,No,3000000,3700000,v2,Yes,Yes,3,,Strong culture fit
+APP0030,Krafton,Machine Learning Intern,Internship,2024-03-10,Rejected,2024-03-23,2024-04-05,Wanted,Daejeon,No,2200000,2900000,v1,Yes,No,0,Resume Screening,Applied after webinar
+APP0031,Toss,Machine Learning Intern,Internship,2024-03-05,Interview,2024-03-26,2024-03-10,Jumpit,Suwon,No,3000000,3300000,v3,Yes,No,1,,Fast-growing team
+APP0032,LG CNS,Data Analytics Intern,Internship,2024-03-04,Ghosted,2024-03-21,,LinkedIn,Seoul,No,2800000,3100000,v3,No,No,0,No Response,
+APP0033,Megazone Cloud,DevOps Engineer,Full-time,2024-02-28,Interview,2024-03-17,2024-03-19,Company Website,Seoul,No,6500000,8500000,v2,No,No,2,,HR reached out first
+APP0034,Krafton,iOS Intern,Internship,2024-02-04,Offer,2024-02-20,2024-02-19,Wanted,Seoul,No,2200000,2500000,v2,No,No,4,,Fast-growing team
+APP0035,Kakao,DevOps Intern,Internship,2024-02-23,Rejected,2024-03-10,2024-03-16,Saramin,Seongnam,No,3000000,3500000,v2,No,No,0,Resume Screening,Startup feel within big company
+APP0036,SK C&C,Data Engineer,Full-time,2024-03-07,Applied,2024-03-25,,Wanted,Seoul,Yes,5000000,7000000,v3,No,No,0,Pending,Referred by senior from lab
+APP0037,Line Games,Cloud Engineering Intern,Internship,2024-03-29,Rejected,2024-04-14,2024-04-11,LinkedIn,Seongnam,Yes,2800000,3100000,v1,Yes,No,0,Resume Screening,Fast-growing team
+APP0038,SK Telecom,Android Developer,Full-time,2024-01-07,Applied,2024-01-20,,Company Website,Seoul,No,4500000,5000000,v3,No,No,0,Pending,Referred by senior from lab
+APP0039,Nexon,Data Science Intern,Internship,2024-03-05,Interview,2024-03-17,2024-04-09,Jumpit,Seongnam,Yes,2500000,3000000,v1,No,No,3,,Professor recommendation
+APP0040,NHN,iOS Intern,Internship,2024-03-18,Interview,2024-04-08,2024-04-11,Jumpit,Remote,Yes,2800000,3500000,v1,Yes,No,1,,
+APP0041,SK C&C,Data Analytics Intern,Internship,2024-02-28,Ghosted,2024-03-16,,Jumpit,Seoul,No,2000000,2500000,v3,Yes,No,0,No Response,Found via alumni network
+APP0042,Naver Cloud,Data Analytics Intern,Internship,2024-03-28,Applied,2024-04-08,,Wanted,Busan,No,2800000,3300000,v2,No,No,0,Pending,HR reached out first
+APP0043,Krafton,QA Intern,Internship,2024-03-17,Interview,2024-04-05,2024-04-13,Jumpit,Seoul,Yes,2500000,2800000,v2,Yes,No,3,,Startup feel within big company
+APP0044,Naver,Machine Learning Intern,Internship,2024-01-15,Offer,2024-01-29,2024-01-27,Wanted,Seoul,No,2200000,2900000,v2,No,No,4,,Hackathon connection
+APP0045,Google Korea,Software Engineer,Full-time,2024-03-05,Interview,2024-03-26,2024-03-16,Jumpit,Seoul,No,6000000,7500000,v2,Yes,No,3,,Professor recommendation
+APP0046,Kakao Mobility,Data Science Intern,Internship,2024-01-29,Interview,2024-02-10,2024-02-12,Wanted,Seoul,No,3000000,3700000,v2,Yes,Yes,1,,Startup feel within big company
+APP0047,Toss,Backend Engineering Intern,Internship,2024-03-15,Rejected,2024-03-27,2024-04-09,Wanted,Remote,Yes,2800000,3100000,v3,Yes,No,2,2nd Interview,Cold application via LinkedIn
+APP0048,Kakao Bank,Cloud Engineering Intern,Internship,2024-03-25,Ghosted,2024-04-13,,Jumpit,Seoul,No,2500000,2800000,v3,Yes,No,0,No Response,Hackathon connection
+APP0049,Coupang Eats,QA Intern,Internship,2024-03-01,Ghosted,2024-03-21,,Wanted,Seongnam,No,3000000,3700000,v1,No,Yes,0,No Response,Applied after webinar
+APP0050,SK Telecom,Full-Stack Engineer,Full-time,2024-02-04,Ghosted,2024-02-21,,LinkedIn,Seoul,Yes,5500000,7500000,v2,Yes,No,0,No Response,Cold application via LinkedIn
+APP0051,Dunamu (Upbit),iOS Intern,Internship,2024-03-25,Interview,2024-04-04,2024-04-04,Jumpit,Busan,Yes,2000000,2700000,v2,Yes,No,3,,
+APP0052,Kakao Mobility,ML Engineer,Full-time,2024-03-01,Applied,2024-03-20,,LinkedIn,Seongnam,No,5000000,7000000,v2,Yes,No,0,Pending,HR reached out first
+APP0053,Naver,Cloud Engineering Intern,Internship,2024-03-20,Ghosted,2024-04-03,,Jobkorea,Remote,Yes,2500000,3200000,v1,No,No,0,No Response,Company visited campus
+APP0054,NHN,QA Intern,Internship,2024-01-16,Applied,2024-02-03,,Wanted,Seoul,No,2000000,2300000,v2,No,No,0,Pending,Applied through career fair
+APP0055,Krafton,iOS Intern,Internship,2024-02-15,Rejected,2024-03-05,2024-03-15,LinkedIn,Suwon,No,2000000,2700000,v3,Yes,Yes,0,Resume Screening,Strong culture fit
+APP0056,Coupang Eats,iOS Intern,Internship,2024-03-15,Ghosted,2024-03-29,,LinkedIn,Seoul,No,2800000,3100000,v1,No,No,0,No Response,Startup feel within big company
+APP0057,Naver,Frontend Engineer,Full-time,2024-02-02,Interview,2024-02-19,2024-02-22,Jobkorea,Daejeon,No,4000000,5000000,v2,No,No,2,,Strong culture fit
+APP0058,Lotte Data Communication,Machine Learning Intern,Internship,2024-03-21,Offer,2024-04-11,2024-04-04,Jumpit,Daejeon,No,2500000,3000000,v2,No,No,4,,Found via alumni network
+APP0059,Krafton,Android Intern,Internship,2024-02-16,Applied,2024-03-03,,Jumpit,Seoul,No,2500000,2800000,v3,Yes,No,0,Pending,Applied through career fair
+APP0060,Amazon Korea,Data Analyst,Full-time,2024-02-22,Rejected,2024-03-04,2024-03-25,Wanted,Seongnam,No,4500000,6500000,v3,Yes,No,0,Resume Screening,Professor recommendation
+APP0061,KT DS,Backend Engineer,Full-time,2024-04-06,Rejected,2024-04-17,2024-04-11,LinkedIn,Daejeon,No,4000000,6000000,v3,Yes,No,0,Resume Screening,Startup feel within big company
+APP0062,Kakao Bank,Cloud Architect,Full-time,2024-04-05,Interview,2024-04-16,2024-04-09,Saramin,Seoul,No,6000000,6500000,v2,No,No,1,,Strong culture fit
+APP0063,Krafton,Backend Engineer,Full-time,2024-01-10,Interview,2024-01-22,2024-01-17,Wanted,Seoul,No,5500000,6500000,v2,Yes,No,4,,
+APP0064,Dunamu (Upbit),Cloud Engineering Intern,Internship,2024-01-23,Interview,2024-02-07,2024-02-15,Wanted,Seongnam,No,2000000,2500000,v3,No,Yes,3,,
+APP0065,Naver Cloud,Android Developer,Full-time,2024-02-12,Rejected,2024-03-03,2024-02-29,LinkedIn,Seoul,No,4500000,6500000,v2,Yes,No,1,1st Interview,Applied in bulk round
+APP0066,Coupang Eats,Site Reliability Engineer,Full-time,2024-02-19,Rejected,2024-03-07,2024-02-25,Wanted,Seoul,No,6500000,7500000,v2,No,No,0,Resume Screening,Found via alumni network
+APP0067,Samsung SDS,Software Engineer,Full-time,2024-04-09,Rejected,2024-04-23,2024-04-11,Wanted,Seoul,No,5000000,6500000,v3,Yes,No,0,Resume Screening,Strong culture fit
+APP0068,Samsung SDS,Machine Learning Intern,Internship,2024-03-31,Interview,2024-04-15,2024-04-14,Company Website,Remote,Yes,3000000,3500000,v1,Yes,No,3,,
+APP0069,Kakao Bank,Software Engineer,Full-time,2024-01-18,Applied,2024-02-08,,Jumpit,Seoul,No,6000000,7500000,v3,Yes,Yes,0,Pending,Applied in bulk round
+APP0070,Netmarble,Data Science Intern,Internship,2024-01-10,Ghosted,2024-01-31,,Saramin,Seoul,No,2000000,2300000,v3,Yes,No,0,No Response,Startup feel within big company
+APP0071,Naver Cloud,Data Analyst,Full-time,2024-01-24,Interview,2024-02-10,2024-02-28,Saramin,Seongnam,No,6000000,8000000,v3,Yes,No,2,,Submitted portfolio
+APP0072,Coupang,Software Engineer,Full-time,2024-03-14,Offer,2024-03-27,2024-04-08,Saramin,Seongnam,Yes,5000000,6000000,v3,No,No,1,,Applied through career fair
+APP0073,SK C&C,Data Science Intern,Internship,2024-03-17,Applied,2024-04-05,,Wanted,Busan,No,3000000,3300000,v3,Yes,No,0,Pending,Referred by senior from lab
+APP0074,SK Telecom,Full-Stack Engineer,Full-time,2024-01-21,Rejected,2024-02-02,2024-02-03,Jumpit,Suwon,Yes,4000000,5000000,v1,No,No,2,Offer Stage,Professor recommendation
+APP0075,Kakao Mobility,QA Intern,Internship,2024-02-20,Rejected,2024-03-11,2024-03-26,Jumpit,Seoul,No,3000000,3300000,v3,No,No,2,Final Round,Fast-growing team
+APP0076,Dunamu (Upbit),QA Intern,Internship,2024-01-14,Rejected,2024-02-02,2024-02-04,Saramin,Seoul,Yes,2200000,2700000,v2,Yes,No,2,2nd Interview,Professor recommendation
+APP0077,Kakao Games,DevOps Engineer,Full-time,2024-04-06,Rejected,2024-04-21,2024-04-11,Company Website,Seoul,No,5500000,7000000,v3,Yes,No,0,Resume Screening,Found via alumni network
+APP0078,Dunamu (Upbit),Frontend Engineer,Full-time,2024-01-16,Rejected,2024-01-31,2024-02-11,Company Website,Seoul,Yes,6500000,8000000,v3,Yes,No,2,Offer Stage,Fast-growing team
+APP0079,Kakao Games,Backend Engineer,Full-time,2024-02-10,Applied,2024-02-25,,Jumpit,Seoul,No,4500000,5500000,v3,Yes,Yes,0,Pending,Professor recommendation
+APP0080,Coupang Eats,Machine Learning Intern,Internship,2024-02-28,Ghosted,2024-03-20,,Company Website,Remote,Yes,3000000,3700000,v3,Yes,No,0,No Response,HR reached out first
+APP0081,Naver,iOS Intern,Internship,2024-02-17,Ghosted,2024-03-01,,Wanted,Seoul,Yes,2800000,3100000,v1,No,Yes,0,No Response,Multiple rounds expected
+APP0082,Naver Cloud,Data Science Intern,Internship,2024-02-21,Offer,2024-03-03,2024-03-05,Wanted,Seoul,No,3000000,3300000,v3,Yes,No,4,,
+APP0083,Naver Cloud,QA Intern,Internship,2024-02-27,Ghosted,2024-03-08,,Wanted,Suwon,Yes,2800000,3100000,v2,No,No,0,No Response,Hackathon connection
+APP0084,Kakao Bank,Backend Engineer,Full-time,2024-01-05,Rejected,2024-01-17,2024-01-22,Wanted,Remote,Yes,4500000,6000000,v2,Yes,No,0,Resume Screening,Hackathon connection
+APP0085,KT DS,Cloud Architect,Full-time,2024-02-19,Rejected,2024-03-11,2024-03-15,LinkedIn,Busan,Yes,4000000,6000000,v3,No,No,0,Resume Screening,Professor recommendation
+APP0086,Kakao Bank,Android Intern,Internship,2024-01-26,Rejected,2024-02-06,2024-02-12,Company Website,Seongnam,No,2500000,2800000,v2,Yes,No,0,Resume Screening,Tailored resume for this role
+APP0087,LG CNS,Data Science Intern,Internship,2024-01-14,Interview,2024-01-26,2024-01-27,Jumpit,Seoul,No,2500000,3000000,v3,No,No,2,,Company visited campus
+APP0088,Nexon,Frontend Engineering Intern,Internship,2024-01-27,Ghosted,2024-02-15,,Jobkorea,Seongnam,No,3000000,3700000,v2,No,No,0,No Response,Tailored resume for this role
+APP0089,Kakao Games,Software Engineer,Full-time,2024-01-24,Offer,2024-02-08,2024-02-24,Wanted,Seoul,No,5000000,5500000,v2,Yes,No,3,,Cold application via LinkedIn
+APP0090,Netmarble,Frontend Engineer,Full-time,2024-03-23,Rejected,2024-04-09,2024-04-13,Jumpit,Seoul,No,6500000,7000000,v2,No,No,1,1st Interview,Professor recommendation
+APP0091,SK C&C,Software Engineer,Full-time,2024-04-05,Rejected,2024-04-19,2024-04-12,LinkedIn,Seongnam,Yes,6500000,8500000,v3,Yes,No,0,Resume Screening,
+APP0092,Nexon,Android Intern,Internship,2024-01-13,Interview,2024-01-24,2024-02-05,Wanted,Seongnam,No,2500000,3200000,v3,No,No,2,,Submitted portfolio
+APP0093,Google Korea,Data Analyst,Full-time,2024-03-29,Ghosted,2024-04-19,,Wanted,Seongnam,No,5000000,7000000,v2,Yes,Yes,0,No Response,
+APP0094,Line Games,DevOps Intern,Internship,2024-03-10,Interview,2024-03-21,2024-03-24,Wanted,Seoul,Yes,2200000,2700000,v3,Yes,No,1,,Remote-friendly team
+APP0095,Coupang Eats,Data Analytics Intern,Internship,2024-01-09,Ghosted,2024-01-21,,Jumpit,Daejeon,No,3000000,3500000,v1,Yes,No,0,No Response,Strong culture fit
+APP0096,Kakao,Machine Learning Intern,Internship,2024-03-01,Applied,2024-03-14,,Jumpit,Suwon,No,2200000,2900000,v2,No,No,0,Pending,Submitted portfolio
+APP0097,Dunamu (Upbit),Android Developer,Full-time,2024-03-04,Interview,2024-03-24,2024-03-24,Company Website,Suwon,No,5500000,6500000,v3,No,Yes,3,,Startup feel within big company
+APP0098,Line Games,Data Analytics Intern,Internship,2024-01-20,Applied,2024-02-04,,Wanted,Suwon,No,3000000,3300000,v3,Yes,No,0,Pending,Referred by senior from lab
+APP0099,Naver Cloud,Data Analytics Intern,Internship,2024-02-21,Ghosted,2024-03-04,,Wanted,Remote,Yes,2500000,2800000,v1,No,No,0,No Response,Found via alumni network
+APP0100,Kakao,QA Intern,Internship,2024-04-03,Interview,2024-04-24,2024-04-13,Company Website,Suwon,No,3000000,3300000,v3,Yes,No,4,,Professor recommendation
+APP0101,Coupang Eats,iOS Intern,Internship,2024-01-20,Offer,2024-02-07,2024-02-12,LinkedIn,Seoul,No,2800000,3100000,v1,No,No,2,,Found via alumni network
+APP0102,Google Korea,Cloud Engineering Intern,Internship,2024-02-19,Rejected,2024-03-08,2024-03-12,Wanted,Seoul,No,2000000,2700000,v3,Yes,No,2,2nd Interview,
+APP0103,Kakao Bank,ML Engineer,Full-time,2024-04-09,Offer,2024-04-27,2024-04-14,LinkedIn,Suwon,No,6500000,7000000,v3,No,No,2,,
+APP0104,Krafton,Android Developer,Full-time,2024-03-25,Offer,2024-04-08,2024-04-12,LinkedIn,Seoul,No,5500000,6000000,v2,Yes,Yes,4,,HR reached out first
+APP0105,Kakao,Data Engineer,Full-time,2024-02-10,Applied,2024-02-26,,Wanted,Suwon,No,5000000,6500000,v1,Yes,No,0,Pending,Tailored resume for this role
+APP0106,Krafton,QA Intern,Internship,2024-02-21,Interview,2024-03-03,2024-02-28,Saramin,Seoul,No,2800000,3100000,v2,No,Yes,3,,
+APP0107,Google Korea,Cloud Engineering Intern,Internship,2024-04-05,Interview,2024-04-15,2024-04-12,Wanted,Seongnam,No,2000000,2700000,v3,Yes,No,4,,Submitted portfolio
+APP0108,KT DS,Cloud Architect,Full-time,2024-01-25,Rejected,2024-02-13,2024-01-31,Jobkorea,Seoul,No,5500000,6000000,v1,Yes,No,0,Resume Screening,
+APP0109,Krafton,Software Engineer,Full-time,2024-03-01,Ghosted,2024-03-18,,Company Website,Seongnam,No,5500000,7000000,v2,Yes,Yes,0,No Response,Remote-friendly team
+APP0110,Kakao Bank,Frontend Engineer,Full-time,2024-02-07,Interview,2024-02-18,2024-02-26,Company Website,Suwon,Yes,6000000,7500000,v3,No,No,2,,Strong culture fit
+APP0111,Samsung SDS,Software Engineer,Full-time,2024-03-30,Applied,2024-04-17,,Wanted,Seoul,No,5000000,6000000,v3,No,No,0,Pending,Hackathon connection
+APP0112,Coupang,Full-Stack Engineer,Full-time,2024-02-04,Offer,2024-02-18,2024-02-21,Company Website,Seoul,No,5000000,7000000,v3,Yes,No,4,,Remote-friendly team
+APP0113,Naver Cloud,Site Reliability Engineer,Full-time,2024-01-14,Ghosted,2024-01-26,,LinkedIn,Seoul,Yes,5500000,7000000,v1,No,No,0,No Response,Fast-growing team
+APP0114,KT DS,Backend Engineer,Full-time,2024-01-20,Applied,2024-02-03,,Jumpit,Seoul,Yes,6500000,7500000,v2,No,No,0,Pending,Applied after webinar
+APP0115,Netmarble,ML Engineer,Full-time,2024-01-21,Rejected,2024-02-09,2024-02-05,Jumpit,Seongnam,Yes,6500000,7500000,v2,Yes,Yes,0,Resume Screening,
+APP0116,Kakao,Backend Engineer,Full-time,2024-01-15,Rejected,2024-02-04,2024-02-06,LinkedIn,Seongnam,No,6500000,7500000,v3,Yes,No,2,Final Round,Hackathon connection
+APP0117,SK C&C,iOS Developer,Full-time,2024-02-12,Applied,2024-02-27,,Wanted,Seongnam,Yes,5500000,7500000,v2,Yes,Yes,0,Pending,Submitted portfolio
+APP0118,Kakao Bank,Android Intern,Internship,2024-03-10,Rejected,2024-03-29,2024-03-28,Jumpit,Seoul,No,2500000,3000000,v2,Yes,No,1,1st Interview,
+APP0119,Kakao Mobility,Data Science Intern,Internship,2024-03-08,Interview,2024-03-27,2024-03-24,Jobkorea,Seoul,No,2800000,3100000,v1,Yes,No,1,,Applied through career fair
+APP0120,Google Korea,QA Intern,Internship,2024-02-10,Offer,2024-02-28,2024-02-21,Jumpit,Busan,No,2500000,3200000,v2,Yes,Yes,3,,Startup feel within big company
+APP0121,Google Korea,Data Analytics Intern,Internship,2024-03-02,Applied,2024-03-20,,Company Website,Seoul,No,3000000,3300000,v1,Yes,No,0,Pending,Submitted portfolio
+APP0122,Coupang Eats,Cloud Engineering Intern,Internship,2024-03-10,Interview,2024-03-29,2024-03-25,Wanted,Seoul,Yes,2500000,3000000,v2,Yes,No,2,,Multiple rounds expected
+APP0123,Nexon,ML Engineer,Full-time,2024-03-20,Interview,2024-04-05,2024-04-12,Wanted,Busan,No,6500000,8000000,v2,Yes,No,3,,
+APP0124,Naver,ML Engineer,Full-time,2024-03-28,Ghosted,2024-04-13,,Company Website,Suwon,No,6500000,7000000,v2,Yes,No,0,No Response,Found via alumni network
+APP0125,Megazone Cloud,Backend Engineer,Full-time,2024-03-18,Applied,2024-04-04,,Saramin,Seoul,Yes,5000000,7000000,v1,No,No,0,Pending,Applied through career fair
+APP0126,Viva Republica,Machine Learning Intern,Internship,2024-03-16,Ghosted,2024-04-06,,Wanted,Seongnam,No,2500000,2800000,v2,Yes,No,0,No Response,
+APP0127,Netmarble,ML Engineer,Full-time,2024-03-23,Rejected,2024-04-05,2024-04-14,Jumpit,Remote,Yes,5000000,6500000,v2,No,No,0,Resume Screening,Good salary range
+APP0128,Microsoft Korea,Data Analyst,Full-time,2024-02-09,Rejected,2024-03-01,2024-02-16,Wanted,Seongnam,No,5500000,7000000,v3,No,No,0,Resume Screening,Strong culture fit
+APP0129,Netmarble,QA Intern,Internship,2024-02-01,Offer,2024-02-19,2024-02-13,Wanted,Seoul,No,2500000,2800000,v1,No,No,2,,Applied through career fair
+APP0130,Coupang,QA Intern,Internship,2024-01-17,Ghosted,2024-01-31,,Jumpit,Seoul,No,2200000,2700000,v3,No,No,0,No Response,Tailored resume for this role
+APP0131,Google Korea,Frontend Engineer,Full-time,2024-03-28,Offer,2024-04-13,2024-04-12,Jumpit,Seoul,No,4000000,5000000,v2,No,No,2,,Applied in bulk round
+APP0132,Krafton,iOS Intern,Internship,2024-03-17,Applied,2024-03-29,,Jumpit,Remote,Yes,2500000,3000000,v2,No,No,0,Pending,Remote-friendly team
+APP0133,Krafton,Frontend Engineering Intern,Internship,2024-02-16,Applied,2024-02-28,,LinkedIn,Seoul,No,2200000,2500000,v3,No,No,0,Pending,
+APP0134,Kakao Games,iOS Developer,Full-time,2024-02-28,Interview,2024-03-16,2024-03-28,Jumpit,Seoul,No,4500000,5500000,v2,No,Yes,3,,Tailored resume for this role
+APP0135,Google Korea,Site Reliability Engineer,Full-time,2024-01-06,Applied,2024-01-27,,Wanted,Seoul,Yes,6500000,7000000,v2,Yes,No,0,Pending,Applied in bulk round
+APP0136,Viva Republica,iOS Intern,Internship,2024-02-21,Rejected,2024-03-09,2024-03-21,Jumpit,Seoul,Yes,2200000,2700000,v3,No,No,0,Resume Screening,
+APP0137,Megazone Cloud,Machine Learning Intern,Internship,2024-04-01,Offer,2024-04-19,2024-04-13,Company Website,Daejeon,Yes,2800000,3500000,v3,Yes,No,2,,
+APP0138,Lotte Data Communication,Android Intern,Internship,2024-03-11,Offer,2024-03-27,2024-03-30,Wanted,Seongnam,No,2800000,3100000,v3,Yes,Yes,1,,Startup feel within big company
+APP0139,Krafton,ML Engineer,Full-time,2024-04-06,Applied,2024-04-17,,LinkedIn,Seoul,Yes,4500000,5000000,v1,Yes,Yes,0,Pending,Good salary range
+APP0140,Kakao,Data Science Intern,Internship,2024-01-22,Applied,2024-02-07,,Company Website,Remote,Yes,2800000,3300000,v3,Yes,No,0,Pending,Cold application via LinkedIn
+APP0141,Dunamu (Upbit),DevOps Engineer,Full-time,2024-01-22,Offer,2024-02-01,2024-02-05,Jumpit,Seoul,Yes,6000000,8000000,v2,No,No,4,,
+APP0142,Kakao Mobility,Data Analytics Intern,Internship,2024-02-22,Ghosted,2024-03-09,,Company Website,Seoul,No,2500000,2800000,v3,No,Yes,0,No Response,
+APP0143,Coupang Eats,Backend Engineer,Full-time,2024-02-04,Rejected,2024-02-14,2024-02-13,Wanted,Seoul,Yes,6000000,6500000,v2,Yes,No,0,Resume Screening,Applied in bulk round
+APP0144,LG CNS,Data Analyst,Full-time,2024-03-18,Interview,2024-04-01,2024-03-31,Wanted,Seongnam,No,5000000,6000000,v2,Yes,No,1,,Startup feel within big company
+APP0145,NHN,Full-Stack Engineer,Full-time,2024-03-25,Interview,2024-04-10,2024-04-04,Jumpit,Seongnam,Yes,5000000,7000000,v3,Yes,No,4,,Hackathon connection
+APP0146,Kakao Games,Data Science Intern,Internship,2024-03-04,Ghosted,2024-03-21,,Saramin,Seongnam,No,3000000,3700000,v1,Yes,No,0,No Response,Submitted portfolio
+APP0147,Samsung SDS,Machine Learning Intern,Internship,2024-01-11,Interview,2024-01-24,2024-02-12,Wanted,Seongnam,No,2000000,2300000,v3,Yes,No,3,,Applied in bulk round
+APP0148,Line Games,Machine Learning Intern,Internship,2024-04-08,Interview,2024-04-23,2024-04-11,LinkedIn,Remote,Yes,2800000,3100000,v3,No,No,4,,Strong culture fit
+APP0149,Lotte Data Communication,ML Engineer,Full-time,2024-02-07,Rejected,2024-02-17,2024-03-01,Wanted,Daejeon,No,6500000,8500000,v3,Yes,No,0,Resume Screening,Found via alumni network
+APP0150,Naver,Cloud Engineering Intern,Internship,2024-03-19,Applied,2024-04-03,,Company Website,Seoul,Yes,2200000,2700000,v2,Yes,No,0,Pending,HR reached out first
+APP0151,Coupang Eats,Data Analyst,Full-time,2024-03-27,Applied,2024-04-16,,Company Website,Seoul,No,5000000,6000000,v1,Yes,Yes,0,Pending,Applied through career fair
+APP0152,KT DS,Frontend Engineering Intern,Internship,2024-03-30,Rejected,2024-04-18,2024-04-14,LinkedIn,Seoul,Yes,2200000,2500000,v3,Yes,No,0,Resume Screening,Good salary range
+APP0153,Dunamu (Upbit),Backend Engineering Intern,Internship,2024-03-13,Ghosted,2024-03-25,,Jumpit,Seoul,No,2500000,3200000,v3,Yes,No,0,No Response,Professor recommendation
+APP0154,Line Games,Data Science Intern,Internship,2024-02-04,Interview,2024-02-25,2024-02-16,LinkedIn,Seoul,No,2500000,3000000,v1,No,No,3,,
+APP0155,Megazone Cloud,Cloud Architect,Full-time,2024-03-28,Interview,2024-04-13,2024-04-11,Company Website,Seoul,No,6000000,8000000,v1,Yes,Yes,1,,Remote-friendly team
+APP0156,Line Games,Machine Learning Intern,Internship,2024-04-02,Offer,2024-04-17,2024-04-07,Saramin,Seoul,Yes,2000000,2700000,v3,No,No,2,,
+APP0157,Toss,Data Analyst,Full-time,2024-02-24,Applied,2024-03-16,,Saramin,Seoul,No,6000000,8000000,v3,Yes,No,0,Pending,Cold application via LinkedIn
+APP0158,KT DS,Software Engineer,Full-time,2024-01-11,Applied,2024-01-28,,LinkedIn,Seoul,Yes,6000000,8000000,v3,Yes,No,0,Pending,Good salary range
+APP0159,LG CNS,DevOps Intern,Internship,2024-02-29,Offer,2024-03-21,2024-03-30,LinkedIn,Seongnam,No,3000000,3500000,v3,No,Yes,2,,Multiple rounds expected
+APP0160,Amazon Korea,Frontend Engineering Intern,Internship,2024-01-05,Rejected,2024-01-16,2024-01-10,Saramin,Seoul,No,2000000,2300000,v1,Yes,No,1,1st Interview,Multiple rounds expected
+APP0161,Naver,DevOps Intern,Internship,2024-01-15,Interview,2024-01-29,2024-02-04,Company Website,Seongnam,No,2200000,2900000,v2,No,Yes,2,,Cold application via LinkedIn
+APP0162,Krafton,DevOps Intern,Internship,2024-02-12,Offer,2024-02-26,2024-02-17,Jumpit,Seoul,No,2200000,2900000,v2,Yes,Yes,4,,Tailored resume for this role
+APP0163,Megazone Cloud,Software Engineer,Full-time,2024-03-01,Rejected,2024-03-13,2024-04-05,Wanted,Busan,No,6000000,7000000,v2,No,No,0,Resume Screening,Tailored resume for this role
+APP0164,Google Korea,Cloud Architect,Full-time,2024-03-07,Applied,2024-03-19,,Jobkorea,Suwon,No,5000000,7000000,v2,No,Yes,0,Pending,
+APP0165,Coupang Eats,Data Analyst,Full-time,2024-03-04,Rejected,2024-03-24,2024-03-18,Saramin,Seoul,No,6500000,7000000,v3,No,No,1,1st Interview,Multiple rounds expected
+APP0166,Samsung SDS,Cloud Engineering Intern,Internship,2024-03-06,Applied,2024-03-25,,Jumpit,Seoul,No,2800000,3500000,v1,No,No,0,Pending,
+APP0167,Line Games,Machine Learning Intern,Internship,2024-03-29,Applied,2024-04-14,,Jumpit,Seoul,No,3000000,3700000,v3,Yes,No,0,Pending,Professor recommendation
+APP0168,Naver,Machine Learning Intern,Internship,2024-03-10,Ghosted,2024-03-22,,Company Website,Seongnam,No,2200000,2700000,v2,Yes,No,0,No Response,Submitted portfolio
+APP0169,Naver,iOS Intern,Internship,2024-02-27,Rejected,2024-03-15,2024-03-06,Saramin,Seoul,No,2200000,2700000,v2,Yes,No,0,Resume Screening,Strong culture fit
+APP0170,Amazon Korea,Backend Engineering Intern,Internship,2024-04-04,Rejected,2024-04-21,2024-04-12,LinkedIn,Busan,No,2200000,2900000,v2,Yes,Yes,0,Resume Screening,Company visited campus
+APP0171,Netmarble,iOS Developer,Full-time,2024-01-08,Ghosted,2024-01-19,,Company Website,Daejeon,No,5500000,7500000,v1,Yes,No,0,No Response,
+APP0172,Coupang,DevOps Engineer,Full-time,2024-01-28,Ghosted,2024-02-16,,Wanted,Seoul,Yes,6500000,8500000,v2,No,No,0,No Response,Professor recommendation
+APP0173,Microsoft Korea,QA Intern,Internship,2024-03-24,Interview,2024-04-05,2024-04-09,LinkedIn,Seongnam,No,3000000,3700000,v1,Yes,Yes,2,,Remote-friendly team
+APP0174,Kakao Bank,Data Science Intern,Internship,2024-03-18,Applied,2024-04-06,,Wanted,Seoul,No,2200000,2900000,v1,Yes,Yes,0,Pending,Applied through career fair
+APP0175,Kakao Games,Backend Engineering Intern,Internship,2024-03-07,Applied,2024-03-24,,LinkedIn,Busan,No,3000000,3700000,v2,No,No,0,Pending,Company visited campus
+APP0176,Samsung SDS,Data Engineer,Full-time,2024-02-11,Ghosted,2024-02-26,,LinkedIn,Seoul,No,5500000,7500000,v2,Yes,Yes,0,No Response,Startup feel within big company
+APP0177,Megazone Cloud,Data Analyst,Full-time,2024-03-01,Rejected,2024-03-12,2024-03-20,Jumpit,Remote,Yes,4000000,5000000,v2,No,No,0,Resume Screening,Professor recommendation
+APP0178,Coupang Eats,Data Engineer,Full-time,2024-04-08,Interview,2024-04-18,2024-04-11,Jumpit,Seoul,No,6500000,8500000,v1,Yes,No,3,,
+APP0179,Lotte Data Communication,iOS Intern,Internship,2024-02-11,Rejected,2024-02-21,2024-02-24,Jumpit,Remote,Yes,3000000,3700000,v3,Yes,No,0,Resume Screening,Found via alumni network
+APP0180,Viva Republica,Data Engineer,Full-time,2024-01-23,Rejected,2024-02-09,2024-01-30,Company Website,Busan,No,6500000,8500000,v2,Yes,No,0,Resume Screening,Cold application via LinkedIn
+APP0181,Kakao Bank,iOS Intern,Internship,2024-04-02,Applied,2024-04-19,,Saramin,Seoul,No,2500000,3200000,v1,No,No,0,Pending,
+APP0182,Dunamu (Upbit),Frontend Engineer,Full-time,2024-03-13,Rejected,2024-04-01,2024-04-14,Wanted,Remote,Yes,4500000,6500000,v2,No,No,0,Resume Screening,Tailored resume for this role
+APP0183,Krafton,Backend Engineer,Full-time,2024-01-10,Interview,2024-01-31,2024-02-13,LinkedIn,Suwon,No,4000000,5000000,v2,Yes,No,2,,
+APP0184,Google Korea,iOS Intern,Internship,2024-01-16,Interview,2024-02-05,2024-01-23,Jumpit,Seoul,No,2200000,2500000,v2,Yes,No,1,,Referred by senior from lab
+APP0185,Line,Data Science Intern,Internship,2024-03-20,Offer,2024-04-05,2024-03-27,Wanted,Seongnam,Yes,2500000,2800000,v3,Yes,Yes,1,,Professor recommendation
+APP0186,Amazon Korea,iOS Intern,Internship,2024-01-22,Rejected,2024-02-12,2024-02-02,Wanted,Busan,No,2200000,2500000,v2,Yes,No,0,Resume Screening,Found via alumni network
+APP0187,Line Games,QA Intern,Internship,2024-02-01,Interview,2024-02-15,2024-02-26,LinkedIn,Seoul,No,3000000,3700000,v2,No,No,1,,Hackathon connection
+APP0188,Lotte Data Communication,Data Analyst,Full-time,2024-03-22,Interview,2024-04-11,2024-03-28,Wanted,Remote,Yes,4000000,5500000,v2,No,Yes,2,,Good salary range
+APP0189,Kakao Bank,QA Intern,Internship,2024-03-26,Rejected,2024-04-15,2024-04-05,Jumpit,Seoul,No,2500000,3000000,v1,No,No,0,Resume Screening,Cold application via LinkedIn
+APP0190,Naver,Backend Engineer,Full-time,2024-02-07,Ghosted,2024-02-18,,Wanted,Remote,Yes,5500000,7000000,v2,Yes,No,0,No Response,
+APP0191,Lotte Data Communication,Data Science Intern,Internship,2024-02-09,Ghosted,2024-02-29,,LinkedIn,Seoul,No,2200000,2900000,v2,Yes,No,0,No Response,Cold application via LinkedIn
+APP0192,Google Korea,Data Analyst,Full-time,2024-02-04,Interview,2024-02-25,2024-02-13,LinkedIn,Seoul,No,5500000,6000000,v2,No,No,1,,Company visited campus
+APP0193,Hyundai AutoEver,DevOps Engineer,Full-time,2024-03-11,Rejected,2024-03-27,2024-03-24,Company Website,Suwon,Yes,4500000,6000000,v3,Yes,No,0,Resume Screening,HR reached out first
+APP0194,Viva Republica,Cloud Architect,Full-time,2024-01-14,Rejected,2024-02-04,2024-01-22,Jumpit,Seoul,Yes,6000000,7000000,v2,Yes,Yes,1,Phone Screen,Referred by senior from lab
+APP0195,LG CNS,Android Intern,Internship,2024-02-23,Interview,2024-03-07,2024-03-12,Saramin,Seoul,No,2000000,2700000,v3,No,No,3,,HR reached out first
+APP0196,Megazone Cloud,Android Intern,Internship,2024-01-20,Rejected,2024-02-03,2024-02-04,Jumpit,Daejeon,Yes,3000000,3300000,v3,Yes,No,2,2nd Interview,Submitted portfolio
+APP0197,Line,iOS Intern,Internship,2024-04-08,Interview,2024-04-24,2024-04-13,Jumpit,Seoul,No,2800000,3100000,v3,Yes,No,2,,Startup feel within big company
+APP0198,Microsoft Korea,Data Analyst,Full-time,2024-01-06,Rejected,2024-01-16,2024-01-15,Jobkorea,Seoul,No,6500000,8000000,v1,Yes,No,0,Resume Screening,Cold application via LinkedIn
+APP0199,Kakao,DevOps Engineer,Full-time,2024-02-26,Ghosted,2024-03-07,,Company Website,Seoul,No,4000000,4500000,v2,No,No,0,No Response,Fast-growing team
+APP0200,Dunamu (Upbit),Data Engineer,Full-time,2024-02-11,Interview,2024-03-01,2024-02-19,Wanted,Seoul,No,6500000,8000000,v2,Yes,Yes,2,,Professor recommendation
+APP0201,Krafton,Android Intern,Internship,2024-02-26,Ghosted,2024-03-11,,LinkedIn,Seoul,No,2800000,3300000,v2,No,Yes,0,No Response,
+APP0202,Kakao,Android Intern,Internship,2024-01-23,Offer,2024-02-08,2024-02-24,LinkedIn,Seoul,No,3000000,3300000,v3,Yes,No,4,,Startup feel within big company
+APP0203,Kakao Mobility,Frontend Engineer,Full-time,2024-03-04,Ghosted,2024-03-24,,LinkedIn,Suwon,Yes,4000000,5000000,v1,No,No,0,No Response,Cold application via LinkedIn
+APP0204,NHN,Frontend Engineer,Full-time,2024-01-07,Offer,2024-01-24,2024-01-13,Jobkorea,Seoul,No,4500000,5000000,v3,No,No,2,,
+APP0205,Naver Cloud,iOS Developer,Full-time,2024-03-08,Rejected,2024-03-27,2024-03-20,LinkedIn,Seongnam,Yes,4500000,5500000,v2,Yes,Yes,0,Resume Screening,Good salary range
+APP0206,Naver Cloud,Android Developer,Full-time,2024-01-12,Applied,2024-02-02,,LinkedIn,Seoul,No,6500000,7500000,v2,No,No,0,Pending,Submitted portfolio
+APP0207,Hyundai AutoEver,QA Intern,Internship,2024-02-18,Applied,2024-02-28,,Saramin,Seoul,No,2200000,2500000,v2,Yes,No,0,Pending,Good salary range
+APP0208,KT DS,Cloud Engineering Intern,Internship,2024-02-03,Applied,2024-02-16,,Jobkorea,Seoul,No,2500000,3200000,v3,No,Yes,0,Pending,
+APP0209,Kakao Games,iOS Developer,Full-time,2024-02-19,Rejected,2024-03-09,2024-02-24,Saramin,Remote,Yes,4500000,5500000,v2,Yes,No,0,Resume Screening,Submitted portfolio
+APP0210,NHN,Site Reliability Engineer,Full-time,2024-01-29,Rejected,2024-02-08,2024-02-19,Company Website,Busan,No,6000000,7500000,v1,Yes,Yes,0,Resume Screening,Tailored resume for this role
+APP0211,Line Games,Full-Stack Engineer,Full-time,2024-02-17,Applied,2024-03-06,,Company Website,Daejeon,No,5000000,5500000,v1,Yes,No,0,Pending,Submitted portfolio
+APP0212,Samsung SDS,DevOps Intern,Internship,2024-03-20,Ghosted,2024-04-01,,LinkedIn,Seoul,Yes,2200000,2900000,v3,No,No,0,No Response,Startup feel within big company
+APP0213,Viva Republica,Site Reliability Engineer,Full-time,2024-02-19,Applied,2024-03-06,,Wanted,Seongnam,Yes,5000000,6500000,v1,No,No,0,Pending,
+APP0214,Kakao,Android Intern,Internship,2024-03-23,Interview,2024-04-03,2024-04-14,Wanted,Seongnam,No,2200000,2700000,v3,Yes,No,3,,Strong culture fit
+APP0215,Naver,Machine Learning Intern,Internship,2024-04-02,Applied,2024-04-19,,LinkedIn,Seoul,Yes,2000000,2300000,v2,No,No,0,Pending,Multiple rounds expected
+APP0216,Microsoft Korea,Frontend Engineering Intern,Internship,2024-03-06,Offer,2024-03-20,2024-04-10,Company Website,Seongnam,No,2200000,2500000,v2,No,Yes,1,,Cold application via LinkedIn
+APP0217,Amazon Korea,DevOps Intern,Internship,2024-01-25,Offer,2024-02-14,2024-02-04,Company Website,Seoul,No,2000000,2500000,v2,No,No,4,,Company visited campus
+APP0218,Kakao,Machine Learning Intern,Internship,2024-01-29,Interview,2024-02-16,2024-02-29,Wanted,Seongnam,No,3000000,3500000,v3,Yes,Yes,4,,Found via alumni network
+APP0219,Kakao,DevOps Intern,Internship,2024-01-16,Offer,2024-01-27,2024-01-30,Wanted,Seongnam,No,2200000,2500000,v1,Yes,No,4,,Good salary range
+APP0220,Hyundai AutoEver,ML Engineer,Full-time,2024-01-16,Interview,2024-01-30,2024-02-08,Jumpit,Seoul,No,5500000,7000000,v1,Yes,No,1,,Found via alumni network
+APP0221,Coupang Eats,Frontend Engineer,Full-time,2024-01-15,Rejected,2024-02-02,2024-02-10,Jumpit,Busan,No,6000000,7000000,v2,No,No,0,Resume Screening,Good salary range
+APP0222,NHN,Android Developer,Full-time,2024-02-12,Applied,2024-02-25,,LinkedIn,Daejeon,No,6000000,7000000,v1,No,Yes,0,Pending,Applied after webinar
+APP0223,Toss,Frontend Engineering Intern,Internship,2024-04-01,Offer,2024-04-17,2024-04-12,Wanted,Remote,Yes,2200000,2900000,v2,No,No,3,,HR reached out first
+APP0224,KT DS,Backend Engineering Intern,Internship,2024-04-03,Applied,2024-04-14,,Jumpit,Seoul,No,2800000,3100000,v1,Yes,No,0,Pending,
+APP0225,Coupang Eats,iOS Intern,Internship,2024-03-13,Interview,2024-04-01,2024-04-08,Saramin,Daejeon,No,2800000,3500000,v2,Yes,No,4,,Applied through career fair
+APP0226,Kakao Bank,Software Engineer,Full-time,2024-04-02,Applied,2024-04-23,,Wanted,Suwon,No,5000000,5500000,v2,No,No,0,Pending,
+APP0227,Coupang,Data Engineer,Full-time,2024-01-22,Interview,2024-02-07,2024-02-19,Wanted,Suwon,No,5000000,6500000,v3,No,Yes,4,,Remote-friendly team
+APP0228,Kakao Games,Backend Engineering Intern,Internship,2024-03-10,Interview,2024-03-23,2024-04-10,Company Website,Seoul,No,2800000,3100000,v3,Yes,No,1,,Hackathon connection
+APP0229,Kakao,Android Intern,Internship,2024-04-04,Rejected,2024-04-21,2024-04-14,LinkedIn,Seoul,No,2800000,3500000,v3,No,No,0,Resume Screening,Good salary range
+APP0230,NHN,Software Engineer,Full-time,2024-01-25,Applied,2024-02-07,,Company Website,Seoul,No,4000000,5500000,v1,Yes,No,0,Pending,Hackathon connection
+APP0231,Netmarble,Machine Learning Intern,Internship,2024-02-08,Offer,2024-02-22,2024-03-03,Jumpit,Seoul,No,2000000,2500000,v3,No,No,3,,
+APP0232,SK Telecom,DevOps Intern,Internship,2024-02-18,Ghosted,2024-03-04,,Wanted,Seoul,No,3000000,3700000,v2,Yes,No,0,No Response,Startup feel within big company
+APP0233,Netmarble,ML Engineer,Full-time,2024-02-12,Applied,2024-02-26,,Jumpit,Seoul,No,5000000,6500000,v3,Yes,No,0,Pending,Applied after webinar
+APP0234,Toss,Machine Learning Intern,Internship,2024-01-12,Rejected,2024-01-28,2024-01-29,Company Website,Busan,No,2500000,3200000,v1,Yes,No,0,Resume Screening,Applied through career fair
+APP0235,NHN,Site Reliability Engineer,Full-time,2024-01-29,Applied,2024-02-18,,Wanted,Suwon,No,6500000,8500000,v3,No,No,0,Pending,Startup feel within big company
+APP0236,Krafton,QA Intern,Internship,2024-01-21,Interview,2024-02-04,2024-02-08,Company Website,Suwon,No,2200000,2900000,v3,No,No,3,,Submitted portfolio
+APP0237,SK Telecom,Android Developer,Full-time,2024-01-20,Rejected,2024-02-07,2024-02-03,Wanted,Busan,No,6000000,6500000,v2,Yes,Yes,0,Resume Screening,Found via alumni network
+APP0238,Toss,Software Engineer,Full-time,2024-02-26,Interview,2024-03-09,2024-03-12,Jobkorea,Daejeon,No,4500000,6000000,v3,Yes,Yes,1,,Referred by senior from lab
+APP0239,Krafton,Data Science Intern,Internship,2024-03-18,Applied,2024-04-03,,Company Website,Seoul,No,2000000,2300000,v2,No,No,0,Pending,Referred by senior from lab
+APP0240,Kakao,Android Intern,Internship,2024-01-06,Applied,2024-01-20,,Saramin,Suwon,No,2000000,2700000,v1,No,No,0,Pending,Found via alumni network
+APP0241,Coupang,Cloud Engineering Intern,Internship,2024-02-13,Applied,2024-02-25,,LinkedIn,Busan,No,2500000,3000000,v3,Yes,No,0,Pending,Tailored resume for this role
+APP0242,Krafton,Machine Learning Intern,Internship,2024-01-26,Ghosted,2024-02-07,,Saramin,Daejeon,No,2200000,2500000,v3,Yes,No,0,No Response,Professor recommendation
+APP0243,Microsoft Korea,Backend Engineer,Full-time,2024-02-22,Rejected,2024-03-09,2024-03-12,Company Website,Seoul,No,4000000,4500000,v3,No,Yes,0,Resume Screening,Startup feel within big company
+APP0244,SK Telecom,Data Science Intern,Internship,2024-01-31,Rejected,2024-02-11,2024-02-21,Jumpit,Seongnam,No,2000000,2700000,v2,No,No,0,Resume Screening,Professor recommendation
+APP0245,Google Korea,Frontend Engineering Intern,Internship,2024-03-08,Rejected,2024-03-21,2024-04-04,LinkedIn,Seoul,No,3000000,3300000,v2,Yes,Yes,0,Resume Screening,Tailored resume for this role
+APP0246,LG CNS,Frontend Engineering Intern,Internship,2024-01-19,Ghosted,2024-02-05,,Company Website,Seongnam,Yes,2000000,2700000,v1,No,No,0,No Response,Applied in bulk round
+APP0247,SK Telecom,Frontend Engineering Intern,Internship,2024-01-27,Offer,2024-02-08,2024-02-22,Company Website,Busan,No,2500000,3000000,v3,Yes,No,2,,Tailored resume for this role
+APP0248,Microsoft Korea,Site Reliability Engineer,Full-time,2024-02-08,Rejected,2024-02-25,2024-03-09,Company Website,Seoul,No,4500000,5000000,v2,No,No,0,Resume Screening,Company visited campus
+APP0249,Coupang,Backend Engineering Intern,Internship,2024-01-25,Ghosted,2024-02-14,,LinkedIn,Daejeon,No,3000000,3700000,v2,No,No,0,No Response,Found via alumni network
+APP0250,Hyundai AutoEver,Frontend Engineer,Full-time,2024-02-26,Rejected,2024-03-18,2024-03-21,Wanted,Seoul,No,4000000,5000000,v3,No,No,1,1st Interview,Submitted portfolio
+APP0251,Dunamu (Upbit),iOS Developer,Full-time,2024-01-24,Applied,2024-02-05,,Company Website,Seongnam,No,4000000,4500000,v2,Yes,No,0,Pending,Cold application via LinkedIn
+APP0252,Coupang Eats,Machine Learning Intern,Internship,2024-02-16,Rejected,2024-02-27,2024-03-19,Jobkorea,Seoul,Yes,2800000,3300000,v3,Yes,No,0,Resume Screening,Tailored resume for this role
+APP0253,Coupang,Data Analyst,Full-time,2024-03-28,Ghosted,2024-04-15,,LinkedIn,Seoul,Yes,6000000,6500000,v3,No,No,0,No Response,Startup feel within big company
+APP0254,Line,Android Developer,Full-time,2024-02-17,Ghosted,2024-03-09,,Wanted,Seoul,Yes,5500000,7000000,v2,No,No,0,No Response,Strong culture fit
+APP0255,Coupang,Machine Learning Intern,Internship,2024-01-05,Offer,2024-01-17,2024-02-05,Wanted,Busan,No,2500000,3200000,v2,No,Yes,4,,Professor recommendation
+APP0256,SK Telecom,Data Engineer,Full-time,2024-01-20,Applied,2024-02-08,,Saramin,Seoul,No,4500000,6000000,v1,Yes,No,0,Pending,Professor recommendation
+APP0257,Coupang Eats,Android Developer,Full-time,2024-03-29,Applied,2024-04-10,,Jumpit,Seoul,No,4000000,4500000,v2,Yes,No,0,Pending,
+APP0258,Krafton,Full-Stack Engineer,Full-time,2024-01-18,Interview,2024-02-03,2024-02-22,Wanted,Seongnam,No,6000000,8000000,v2,No,No,3,,Applied in bulk round
+APP0259,Krafton,Full-Stack Engineer,Full-time,2024-02-26,Interview,2024-03-16,2024-03-24,Jumpit,Daejeon,No,6500000,8000000,v3,No,No,3,,
+APP0260,Microsoft Korea,Full-Stack Engineer,Full-time,2024-04-04,Ghosted,2024-04-24,,Jumpit,Remote,Yes,6000000,7500000,v3,No,No,0,No Response,Fast-growing team
+APP0261,Dunamu (Upbit),DevOps Engineer,Full-time,2024-02-10,Interview,2024-02-22,2024-02-24,Company Website,Seoul,Yes,4000000,4500000,v2,Yes,Yes,3,,Found via alumni network
+APP0262,Megazone Cloud,iOS Intern,Internship,2024-01-31,Applied,2024-02-18,,Company Website,Seoul,No,2000000,2700000,v3,No,No,0,Pending,Multiple rounds expected
+APP0263,LG CNS,iOS Intern,Internship,2024-04-02,Rejected,2024-04-12,2024-04-11,Jumpit,Remote,Yes,2800000,3300000,v3,No,No,2,2nd Interview,
+APP0264,Viva Republica,Software Engineer,Full-time,2024-03-20,Applied,2024-04-10,,Jumpit,Seongnam,No,4500000,6000000,v2,No,Yes,0,Pending,Remote-friendly team
+APP0265,Coupang,DevOps Intern,Internship,2024-02-09,Offer,2024-02-24,2024-03-04,Jumpit,Seoul,No,2500000,2800000,v2,No,Yes,1,,
+APP0266,Nexon,ML Engineer,Full-time,2024-03-07,Applied,2024-03-19,,Company Website,Seongnam,Yes,6500000,8000000,v2,No,No,0,Pending,Fast-growing team
+APP0267,Lotte Data Communication,Frontend Engineering Intern,Internship,2024-02-18,Applied,2024-03-09,,Wanted,Seoul,No,2500000,3000000,v2,No,No,0,Pending,Referred by senior from lab
+APP0268,Coupang,Android Developer,Full-time,2024-02-04,Interview,2024-02-25,2024-02-18,Saramin,Seongnam,No,4000000,5500000,v2,No,Yes,1,,Remote-friendly team
+APP0269,Megazone Cloud,DevOps Engineer,Full-time,2024-03-10,Applied,2024-03-28,,Wanted,Seoul,No,4500000,6000000,v2,No,Yes,0,Pending,Startup feel within big company
+APP0270,Naver,Data Engineer,Full-time,2024-03-30,Applied,2024-04-19,,Jumpit,Seoul,No,4000000,5000000,v2,No,No,0,Pending,Cold application via LinkedIn
+APP0271,Kakao Mobility,Backend Engineer,Full-time,2024-03-03,Interview,2024-03-19,2024-03-22,Company Website,Seoul,Yes,4500000,6000000,v2,Yes,No,4,,Fast-growing team
+APP0272,Amazon Korea,Frontend Engineering Intern,Internship,2024-03-13,Interview,2024-04-02,2024-03-27,LinkedIn,Suwon,Yes,3000000,3300000,v3,Yes,No,1,,Applied in bulk round
+APP0273,Coupang Eats,iOS Developer,Full-time,2024-02-24,Rejected,2024-03-15,2024-03-04,Company Website,Seoul,Yes,4500000,5500000,v3,No,No,2,2nd Interview,Startup feel within big company
+APP0274,Kakao Games,Frontend Engineer,Full-time,2024-01-10,Interview,2024-01-30,2024-02-11,LinkedIn,Seongnam,No,4000000,5500000,v2,No,No,2,,Company visited campus
+APP0275,Krafton,iOS Intern,Internship,2024-01-29,Offer,2024-02-09,2024-02-09,LinkedIn,Seongnam,No,2000000,2700000,v2,Yes,No,4,,Tailored resume for this role
+APP0276,Microsoft Korea,Machine Learning Intern,Internship,2024-01-17,Interview,2024-02-05,2024-02-02,Wanted,Seoul,Yes,2800000,3300000,v2,No,No,3,,Fast-growing team
+APP0277,Krafton,Machine Learning Intern,Internship,2024-02-02,Rejected,2024-02-16,2024-02-22,Company Website,Seongnam,No,2500000,2800000,v3,Yes,No,0,Resume Screening,Company visited campus
+APP0278,Netmarble,ML Engineer,Full-time,2024-01-22,Ghosted,2024-02-10,,Saramin,Seoul,No,6500000,7000000,v3,No,No,0,No Response,
+APP0279,Kakao Bank,Data Engineer,Full-time,2024-01-09,Applied,2024-01-23,,Jumpit,Seoul,No,5500000,6500000,v2,Yes,No,0,Pending,Found via alumni network
+APP0280,Krafton,Frontend Engineering Intern,Internship,2024-02-24,Interview,2024-03-14,2024-03-21,Wanted,Seoul,Yes,3000000,3700000,v1,Yes,No,2,,Good salary range
+APP0281,Microsoft Korea,QA Intern,Internship,2024-02-03,Rejected,2024-02-13,2024-02-09,LinkedIn,Seoul,Yes,2200000,2900000,v3,Yes,No,0,Resume Screening,Tailored resume for this role
+APP0282,Coupang,DevOps Engineer,Full-time,2024-03-26,Applied,2024-04-06,,Company Website,Busan,No,6000000,7000000,v2,Yes,No,0,Pending,Remote-friendly team
+APP0283,SK Telecom,Machine Learning Intern,Internship,2024-03-11,Interview,2024-03-29,2024-04-05,Wanted,Busan,No,2800000,3500000,v1,No,No,3,,Applied after webinar
+APP0284,Toss,Android Intern,Internship,2024-03-22,Ghosted,2024-04-11,,Company Website,Seoul,Yes,2500000,3200000,v1,No,No,0,No Response,Fast-growing team
+APP0285,Naver,Data Science Intern,Internship,2024-03-18,Applied,2024-04-06,,Jumpit,Seoul,No,3000000,3300000,v1,Yes,Yes,0,Pending,
+APP0286,Netmarble,iOS Intern,Internship,2024-01-15,Rejected,2024-01-27,2024-02-08,Wanted,Seongnam,No,2800000,3100000,v2,Yes,Yes,0,Resume Screening,HR reached out first
+APP0287,Krafton,Software Engineer,Full-time,2024-03-03,Ghosted,2024-03-15,,Jumpit,Seoul,No,4500000,5000000,v1,Yes,No,0,No Response,
+APP0288,Coupang,Cloud Engineering Intern,Internship,2024-03-21,Applied,2024-04-10,,LinkedIn,Suwon,No,2000000,2300000,v2,Yes,No,0,Pending,
+APP0289,Naver Cloud,Android Intern,Internship,2024-01-10,Applied,2024-01-29,,Jumpit,Seoul,No,2800000,3300000,v2,No,No,0,Pending,Professor recommendation
+APP0290,Naver Cloud,QA Intern,Internship,2024-02-03,Offer,2024-02-21,2024-02-11,Saramin,Seoul,No,3000000,3500000,v2,Yes,No,1,,Multiple rounds expected
+APP0291,Netmarble,Android Intern,Internship,2024-02-26,Interview,2024-03-17,2024-03-14,Wanted,Seoul,No,2500000,3000000,v3,Yes,No,2,,Fast-growing team
+APP0292,Lotte Data Communication,Android Developer,Full-time,2024-01-27,Applied,2024-02-07,,Wanted,Seongnam,No,5000000,6500000,v3,Yes,Yes,0,Pending,Hackathon connection
+APP0293,Krafton,Full-Stack Engineer,Full-time,2024-01-17,Offer,2024-01-29,2024-02-06,Wanted,Seoul,No,6000000,6500000,v1,No,Yes,4,,Cold application via LinkedIn
+APP0294,Samsung SDS,Android Intern,Internship,2024-01-15,Offer,2024-01-27,2024-02-09,Jumpit,Suwon,No,2800000,3500000,v3,Yes,No,4,,Strong culture fit
+APP0295,Naver,Data Analytics Intern,Internship,2024-02-10,Offer,2024-02-22,2024-02-17,LinkedIn,Suwon,No,2200000,2900000,v1,Yes,No,3,,Multiple rounds expected
+APP0296,Microsoft Korea,iOS Developer,Full-time,2024-03-20,Rejected,2024-04-03,2024-04-01,Wanted,Seoul,No,4000000,5500000,v3,Yes,No,0,Resume Screening,Applied after webinar
+APP0297,Krafton,Site Reliability Engineer,Full-time,2024-01-05,Interview,2024-01-23,2024-02-05,Wanted,Seoul,Yes,4000000,5500000,v2,Yes,No,3,,Strong culture fit
+APP0298,Kakao Bank,Data Engineer,Full-time,2024-02-17,Applied,2024-03-01,,Jobkorea,Seoul,No,6000000,6500000,v2,Yes,No,0,Pending,
+APP0299,Viva Republica,Android Intern,Internship,2024-02-26,Rejected,2024-03-15,2024-03-31,Jobkorea,Seoul,Yes,2500000,2800000,v2,Yes,No,2,Final Round,Applied after webinar
+APP0300,Krafton,Full-Stack Engineer,Full-time,2024-04-09,Interview,2024-04-22,2024-04-13,Jumpit,Daejeon,No,4500000,5500000,v3,No,No,3,,Found via alumni network
+APP0301,Coupang Eats,Frontend Engineering Intern,Internship,2024-03-31,Applied,2024-04-19,,Jobkorea,Seoul,Yes,3000000,3300000,v3,Yes,No,0,Pending,HR reached out first
+APP0302,Hyundai AutoEver,Data Analytics Intern,Internship,2024-02-09,Rejected,2024-02-29,2024-03-09,Wanted,Suwon,Yes,3000000,3500000,v2,Yes,No,1,1st Interview,Tailored resume for this role
+APP0303,Viva Republica,Machine Learning Intern,Internship,2024-02-22,Ghosted,2024-03-08,,Jumpit,Seoul,No,2500000,2800000,v2,Yes,No,0,No Response,Company visited campus
+APP0304,Hyundai AutoEver,DevOps Intern,Internship,2024-04-03,Applied,2024-04-24,,Company Website,Seoul,No,2800000,3100000,v2,No,No,0,Pending,HR reached out first
+APP0305,SK C&C,DevOps Intern,Internship,2024-02-22,Applied,2024-03-11,,LinkedIn,Busan,No,2800000,3100000,v1,Yes,No,0,Pending,Startup feel within big company
+APP0306,Kakao Mobility,QA Intern,Internship,2024-02-12,Applied,2024-02-23,,Wanted,Busan,Yes,2000000,2700000,v1,Yes,No,0,Pending,Strong culture fit
+APP0307,Kakao Mobility,Android Intern,Internship,2024-02-20,Applied,2024-03-04,,Jumpit,Remote,Yes,2500000,3000000,v1,Yes,No,0,Pending,
+APP0308,NHN,DevOps Engineer,Full-time,2024-01-27,Rejected,2024-02-13,2024-02-21,Jobkorea,Seoul,No,6000000,8000000,v3,Yes,Yes,0,Resume Screening,Company visited campus
+APP0309,Netmarble,Software Engineer,Full-time,2024-02-27,Rejected,2024-03-12,2024-03-22,Jumpit,Seongnam,No,4000000,4500000,v1,Yes,No,0,Resume Screening,HR reached out first
+APP0310,Krafton,Android Intern,Internship,2024-04-09,Ghosted,2024-04-30,,Jumpit,Remote,Yes,2800000,3100000,v1,Yes,No,0,No Response,Cold application via LinkedIn
+APP0311,Line,Frontend Engineering Intern,Internship,2024-01-17,Rejected,2024-01-28,2024-02-11,LinkedIn,Daejeon,No,2000000,2500000,v2,No,Yes,0,Resume Screening,Multiple rounds expected
+APP0312,Google Korea,iOS Intern,Internship,2024-03-01,Rejected,2024-03-19,2024-04-04,Jumpit,Seoul,No,2000000,2300000,v3,No,No,2,2nd Interview,Startup feel within big company
+APP0313,Krafton,Android Developer,Full-time,2024-03-25,Offer,2024-04-08,2024-04-10,Company Website,Daejeon,No,6500000,8000000,v3,Yes,No,4,,HR reached out first
+APP0314,Toss,Backend Engineering Intern,Internship,2024-03-11,Rejected,2024-03-21,2024-04-09,Company Website,Busan,No,2800000,3500000,v1,No,No,0,Resume Screening,Applied in bulk round
+APP0315,Nexon,Backend Engineering Intern,Internship,2024-03-15,Rejected,2024-03-29,2024-03-22,Wanted,Seoul,No,2800000,3100000,v1,No,No,0,Resume Screening,Hackathon connection
+APP0316,KT DS,Site Reliability Engineer,Full-time,2024-04-02,Offer,2024-04-19,2024-04-12,Jumpit,Seoul,No,5000000,7000000,v1,Yes,Yes,3,,
+APP0317,Hyundai AutoEver,Backend Engineering Intern,Internship,2024-01-24,Interview,2024-02-05,2024-01-29,LinkedIn,Seoul,Yes,2000000,2500000,v2,No,No,4,,Applied after webinar
+APP0318,Amazon Korea,QA Intern,Internship,2024-02-21,Interview,2024-03-06,2024-03-23,Wanted,Suwon,No,2200000,2500000,v2,Yes,No,4,,Referred by senior from lab
+APP0319,Coupang,Data Analyst,Full-time,2024-02-05,Rejected,2024-02-18,2024-02-25,Wanted,Remote,Yes,4500000,5000000,v1,No,Yes,0,Resume Screening,Applied in bulk round
+APP0320,Line Games,Backend Engineering Intern,Internship,2024-04-09,Applied,2024-04-22,,Saramin,Seoul,No,2500000,2800000,v2,Yes,No,0,Pending,
+APP0321,Naver Cloud,Data Science Intern,Internship,2024-02-09,Rejected,2024-02-20,2024-02-21,Jumpit,Seoul,Yes,2000000,2700000,v3,Yes,No,1,1st Interview,
+APP0322,Kakao,Data Science Intern,Internship,2024-04-03,Rejected,2024-04-16,2024-04-08,Jumpit,Seoul,No,2500000,3200000,v3,No,No,0,Resume Screening,Submitted portfolio
+APP0323,Kakao Mobility,Backend Engineering Intern,Internship,2024-03-07,Rejected,2024-03-26,2024-04-10,Company Website,Seongnam,No,2800000,3100000,v2,Yes,No,0,Resume Screening,Company visited campus
+APP0324,Samsung SDS,QA Intern,Internship,2024-02-11,Rejected,2024-03-01,2024-02-23,Company Website,Seoul,No,3000000,3500000,v3,No,No,0,Resume Screening,Cold application via LinkedIn
+APP0325,Dunamu (Upbit),iOS Developer,Full-time,2024-01-29,Rejected,2024-02-09,2024-02-04,Jumpit,Seoul,No,6000000,7500000,v2,No,Yes,0,Resume Screening,Found via alumni network
+APP0326,Krafton,Data Engineer,Full-time,2024-01-18,Rejected,2024-02-06,2024-02-14,Jumpit,Seoul,No,5500000,7500000,v2,No,No,1,1st Interview,Cold application via LinkedIn
+APP0327,Krafton,Backend Engineer,Full-time,2024-02-20,Rejected,2024-03-12,2024-02-27,Jumpit,Remote,Yes,5500000,7000000,v3,Yes,No,0,Resume Screening,Cold application via LinkedIn
+APP0328,Line,Frontend Engineer,Full-time,2024-01-17,Rejected,2024-02-07,2024-01-25,Company Website,Seoul,Yes,6000000,7000000,v2,No,No,0,Resume Screening,
+APP0329,Microsoft Korea,Data Analyst,Full-time,2024-03-30,Ghosted,2024-04-14,,Wanted,Seoul,No,6000000,8000000,v2,No,No,0,No Response,Tailored resume for this role
+APP0330,Lotte Data Communication,Software Engineer,Full-time,2024-02-21,Applied,2024-03-06,,Wanted,Seongnam,No,5000000,6000000,v2,Yes,No,0,Pending,Submitted portfolio
+APP0331,Krafton,DevOps Intern,Internship,2024-01-05,Rejected,2024-01-18,2024-01-16,Company Website,Remote,Yes,3000000,3300000,v2,No,No,0,Resume Screening,Referred by senior from lab
+APP0332,Coupang Eats,Data Analyst,Full-time,2024-02-09,Interview,2024-02-28,2024-02-21,Saramin,Seoul,No,6000000,7000000,v1,Yes,Yes,2,,HR reached out first
+APP0333,SK C&C,Cloud Engineering Intern,Internship,2024-02-25,Rejected,2024-03-07,2024-03-20,Jumpit,Seoul,Yes,2500000,3000000,v1,No,No,0,Resume Screening,Applied through career fair
+APP0334,Kakao Mobility,iOS Developer,Full-time,2024-01-15,Interview,2024-01-28,2024-02-12,Company Website,Remote,Yes,5000000,6500000,v3,Yes,No,1,,
+APP0335,Coupang Eats,Backend Engineer,Full-time,2024-02-13,Applied,2024-03-03,,Jumpit,Seoul,No,5000000,6000000,v1,No,No,0,Pending,
+APP0336,KT DS,DevOps Intern,Internship,2024-02-11,Rejected,2024-02-27,2024-03-11,Company Website,Seoul,No,2800000,3500000,v3,Yes,No,0,Resume Screening,Found via alumni network
+APP0337,Hyundai AutoEver,Android Developer,Full-time,2024-02-24,Ghosted,2024-03-14,,Jumpit,Seoul,No,6500000,7500000,v2,Yes,No,0,No Response,Cold application via LinkedIn
+APP0338,Coupang,iOS Developer,Full-time,2024-02-20,Applied,2024-03-10,,Wanted,Seoul,No,4000000,5500000,v1,Yes,No,0,Pending,Found via alumni network
+APP0339,Krafton,Machine Learning Intern,Internship,2024-01-30,Interview,2024-02-13,2024-02-04,Jumpit,Seoul,No,2000000,2300000,v3,Yes,No,3,,Professor recommendation
+APP0340,Google Korea,Backend Engineering Intern,Internship,2024-02-16,Ghosted,2024-03-07,,Wanted,Seoul,Yes,3000000,3500000,v2,No,No,0,No Response,Referred by senior from lab
+APP0341,Kakao Bank,Cloud Architect,Full-time,2024-03-12,Interview,2024-03-26,2024-04-07,LinkedIn,Seoul,No,6500000,8000000,v1,No,Yes,3,,Professor recommendation
+APP0342,Naver,DevOps Intern,Internship,2024-02-03,Rejected,2024-02-20,2024-02-25,Jobkorea,Seoul,No,2500000,3000000,v3,Yes,Yes,0,Resume Screening,Referred by senior from lab
+APP0343,Kakao,Data Analytics Intern,Internship,2024-02-13,Applied,2024-03-02,,Wanted,Seoul,Yes,2500000,3200000,v2,No,No,0,Pending,HR reached out first
+APP0344,SK C&C,iOS Intern,Internship,2024-02-23,Interview,2024-03-15,2024-03-11,Saramin,Busan,Yes,3000000,3500000,v2,Yes,No,2,,Fast-growing team
+APP0345,LG CNS,iOS Developer,Full-time,2024-02-13,Interview,2024-03-05,2024-03-11,Saramin,Seoul,No,4500000,5500000,v2,No,No,2,,Fast-growing team
+APP0346,Line Games,Full-Stack Engineer,Full-time,2024-03-28,Offer,2024-04-12,2024-04-12,Saramin,Daejeon,No,6000000,6500000,v1,No,Yes,4,,Applied in bulk round
+APP0347,Krafton,Cloud Architect,Full-time,2024-04-08,Rejected,2024-04-21,2024-04-10,Wanted,Suwon,Yes,4500000,5000000,v3,No,No,1,1st Interview,Cold application via LinkedIn
+APP0348,Viva Republica,Full-Stack Engineer,Full-time,2024-03-09,Offer,2024-03-19,2024-04-12,Company Website,Seoul,No,4500000,6500000,v2,Yes,Yes,3,,Fast-growing team
+APP0349,LG CNS,Data Engineer,Full-time,2024-01-31,Rejected,2024-02-10,2024-02-24,LinkedIn,Remote,Yes,5500000,7500000,v3,No,No,0,Resume Screening,Multiple rounds expected
+APP0350,Kakao Mobility,Cloud Engineering Intern,Internship,2024-04-09,Applied,2024-04-22,,Jumpit,Seoul,No,2000000,2700000,v1,Yes,No,0,Pending,Remote-friendly team
+APP0351,Lotte Data Communication,Backend Engineering Intern,Internship,2024-03-16,Rejected,2024-03-28,2024-04-03,Wanted,Suwon,No,2200000,2700000,v2,No,No,1,Phone Screen,Strong culture fit
+APP0352,Megazone Cloud,Frontend Engineer,Full-time,2024-04-06,Interview,2024-04-27,2024-04-10,Jumpit,Seoul,No,6500000,7500000,v2,Yes,Yes,4,,Cold application via LinkedIn
+APP0353,SK Telecom,Data Science Intern,Internship,2024-04-05,Rejected,2024-04-17,2024-04-13,Company Website,Seoul,No,2500000,2800000,v2,Yes,No,0,Resume Screening,Company visited campus
+APP0354,Line Games,Data Science Intern,Internship,2024-01-25,Ghosted,2024-02-05,,Company Website,Seoul,No,2800000,3300000,v2,No,No,0,No Response,Found via alumni network
+APP0355,Line,iOS Intern,Internship,2024-01-06,Rejected,2024-01-22,2024-01-25,Wanted,Busan,No,2000000,2700000,v3,Yes,No,1,Phone Screen,Startup feel within big company
+APP0356,SK Telecom,DevOps Engineer,Full-time,2024-01-31,Rejected,2024-02-11,2024-02-06,LinkedIn,Seoul,No,4000000,5000000,v3,No,No,1,Phone Screen,
+APP0357,Google Korea,Data Analyst,Full-time,2024-04-03,Rejected,2024-04-19,2024-04-09,Jumpit,Suwon,Yes,5500000,7000000,v3,Yes,No,0,Resume Screening,Startup feel within big company
+APP0358,Samsung SDS,Data Science Intern,Internship,2024-01-20,Ghosted,2024-02-09,,Jumpit,Seoul,No,3000000,3300000,v3,No,Yes,0,No Response,Remote-friendly team
+APP0359,Samsung SDS,Cloud Engineering Intern,Internship,2024-04-04,Rejected,2024-04-22,2024-04-14,Wanted,Seongnam,No,3000000,3700000,v3,Yes,Yes,0,Resume Screening,Company visited campus
+APP0360,Krafton,Data Analyst,Full-time,2024-02-11,Rejected,2024-02-21,2024-02-26,Jobkorea,Seoul,Yes,6500000,7000000,v3,Yes,No,0,Resume Screening,
+APP0361,Line,Machine Learning Intern,Internship,2024-04-02,Rejected,2024-04-23,2024-04-13,Wanted,Suwon,No,3000000,3700000,v2,Yes,No,0,Resume Screening,Company visited campus
+APP0362,Line,Android Intern,Internship,2024-03-31,Applied,2024-04-17,,Wanted,Seoul,Yes,2200000,2700000,v1,Yes,No,0,Pending,Fast-growing team
+APP0363,Line Games,DevOps Engineer,Full-time,2024-02-12,Applied,2024-02-23,,Jumpit,Seongnam,No,4000000,5000000,v2,Yes,No,0,Pending,Found via alumni network
+APP0364,SK Telecom,Software Engineer,Full-time,2024-02-22,Ghosted,2024-03-08,,Jumpit,Busan,No,5500000,6500000,v2,No,No,0,No Response,Applied through career fair
+APP0365,SK Telecom,QA Intern,Internship,2024-02-04,Interview,2024-02-15,2024-02-23,Wanted,Busan,No,3000000,3500000,v1,Yes,Yes,1,,Good salary range
+APP0366,Krafton,Machine Learning Intern,Internship,2024-02-17,Rejected,2024-02-29,2024-02-28,Saramin,Suwon,No,2500000,2800000,v3,Yes,No,0,Resume Screening,Strong culture fit
+APP0367,Kakao Bank,DevOps Engineer,Full-time,2024-01-19,Ghosted,2024-02-09,,LinkedIn,Remote,Yes,6500000,7000000,v2,No,Yes,0,No Response,Applied in bulk round
+APP0368,Naver,ML Engineer,Full-time,2024-03-26,Interview,2024-04-06,2024-03-31,Saramin,Seoul,Yes,5000000,6500000,v3,No,No,1,,Applied after webinar
+APP0369,Lotte Data Communication,Android Intern,Internship,2024-02-08,Rejected,2024-02-20,2024-02-13,LinkedIn,Suwon,No,2200000,2500000,v1,No,No,0,Resume Screening,
+APP0370,Kakao,Backend Engineering Intern,Internship,2024-01-16,Rejected,2024-01-29,2024-02-12,Wanted,Seoul,No,3000000,3700000,v3,No,No,0,Resume Screening,Startup feel within big company
+APP0371,Samsung SDS,Android Developer,Full-time,2024-03-17,Rejected,2024-03-30,2024-04-10,LinkedIn,Busan,No,5500000,6000000,v2,No,No,2,Final Round,Multiple rounds expected
+APP0372,Krafton,Cloud Architect,Full-time,2024-02-16,Interview,2024-03-02,2024-03-11,Company Website,Daejeon,No,4000000,4500000,v2,Yes,No,2,,Remote-friendly team
+APP0373,Coupang,Frontend Engineering Intern,Internship,2024-02-15,Interview,2024-03-03,2024-03-03,Jumpit,Seoul,No,2800000,3300000,v2,Yes,No,1,,Tailored resume for this role
+APP0374,Line,Site Reliability Engineer,Full-time,2024-02-29,Ghosted,2024-03-17,,Company Website,Seoul,No,6000000,7000000,v1,No,No,0,No Response,Professor recommendation
+APP0375,NHN,Software Engineer,Full-time,2024-03-16,Applied,2024-03-31,,LinkedIn,Seoul,No,5500000,6000000,v2,No,No,0,Pending,Good salary range
+APP0376,Netmarble,Frontend Engineer,Full-time,2024-02-01,Rejected,2024-02-20,2024-02-24,Company Website,Daejeon,No,6500000,7000000,v3,No,No,0,Resume Screening,Applied after webinar
+APP0377,Dunamu (Upbit),ML Engineer,Full-time,2024-03-17,Rejected,2024-03-29,2024-04-11,Company Website,Seongnam,No,5500000,7000000,v3,Yes,No,1,Phone Screen,Startup feel within big company
+APP0378,Megazone Cloud,Frontend Engineer,Full-time,2024-02-10,Interview,2024-02-22,2024-03-01,Company Website,Seoul,No,5500000,7000000,v3,Yes,No,2,,Applied after webinar
+APP0379,Lotte Data Communication,Android Intern,Internship,2024-02-27,Applied,2024-03-18,,LinkedIn,Remote,Yes,2200000,2500000,v1,No,Yes,0,Pending,Fast-growing team
+APP0380,Toss,DevOps Intern,Internship,2024-03-03,Rejected,2024-03-16,2024-03-13,Saramin,Seongnam,No,3000000,3300000,v2,Yes,No,0,Resume Screening,Referred by senior from lab
+APP0381,NHN,Machine Learning Intern,Internship,2024-04-05,Interview,2024-04-22,2024-04-14,Jumpit,Seoul,No,2500000,2800000,v3,Yes,No,1,,Found via alumni network
+APP0382,Kakao Mobility,ML Engineer,Full-time,2024-03-04,Ghosted,2024-03-22,,Jumpit,Seoul,No,4500000,6500000,v2,No,No,0,No Response,
+APP0383,Google Korea,Software Engineer,Full-time,2024-03-13,Rejected,2024-03-23,2024-04-09,Company Website,Seoul,No,5500000,7000000,v2,No,No,0,Resume Screening,Applied in bulk round
+APP0384,Kakao Mobility,ML Engineer,Full-time,2024-01-12,Offer,2024-01-30,2024-01-19,Jumpit,Seongnam,No,6500000,8000000,v3,No,No,3,,HR reached out first
+APP0385,Toss,ML Engineer,Full-time,2024-02-06,Ghosted,2024-02-19,,LinkedIn,Seoul,Yes,6000000,7000000,v3,Yes,Yes,0,No Response,Good salary range
+APP0386,Krafton,Backend Engineer,Full-time,2024-02-17,Rejected,2024-03-08,2024-03-07,Jobkorea,Remote,Yes,6000000,7000000,v3,No,No,0,Resume Screening,Company visited campus
+APP0387,Line,Software Engineer,Full-time,2024-01-11,Applied,2024-01-29,,Jumpit,Suwon,Yes,4500000,6500000,v2,Yes,No,0,Pending,Hackathon connection
+APP0388,Kakao Bank,iOS Developer,Full-time,2024-03-05,Applied,2024-03-16,,Wanted,Seoul,No,5000000,7000000,v2,Yes,No,0,Pending,Startup feel within big company
+APP0389,Netmarble,DevOps Intern,Internship,2024-03-23,Ghosted,2024-04-05,,Saramin,Busan,No,2500000,2800000,v2,Yes,No,0,No Response,
+APP0390,NHN,DevOps Engineer,Full-time,2024-02-17,Offer,2024-02-28,2024-03-14,Jumpit,Remote,Yes,5000000,5500000,v3,No,Yes,4,,Submitted portfolio
+APP0391,LG CNS,ML Engineer,Full-time,2024-01-29,Interview,2024-02-17,2024-02-07,LinkedIn,Seongnam,Yes,6000000,7000000,v3,No,No,4,,
+APP0392,Coupang Eats,Site Reliability Engineer,Full-time,2024-01-28,Rejected,2024-02-17,2024-02-26,Saramin,Seongnam,No,5500000,6000000,v2,No,No,0,Resume Screening,HR reached out first
+APP0393,Krafton,ML Engineer,Full-time,2024-01-12,Ghosted,2024-01-24,,Wanted,Seoul,Yes,5000000,6000000,v2,Yes,No,0,No Response,
+APP0394,Hyundai AutoEver,Data Analytics Intern,Internship,2024-02-29,Applied,2024-03-10,,Wanted,Seongnam,No,2500000,2800000,v1,Yes,No,0,Pending,Good salary range
+APP0395,Toss,Backend Engineer,Full-time,2024-01-09,Rejected,2024-01-30,2024-02-07,Jumpit,Seoul,No,5500000,6000000,v2,No,No,0,Resume Screening,Cold application via LinkedIn
+APP0396,Lotte Data Communication,DevOps Intern,Internship,2024-04-02,Applied,2024-04-13,,Company Website,Seoul,No,2500000,3000000,v3,Yes,No,0,Pending,Submitted portfolio
+APP0397,Lotte Data Communication,Software Engineer,Full-time,2024-01-15,Rejected,2024-01-31,2024-02-17,Company Website,Suwon,No,4500000,5500000,v2,No,No,2,Final Round,Cold application via LinkedIn
+APP0398,Krafton,Data Analyst,Full-time,2024-01-29,Rejected,2024-02-16,2024-03-04,LinkedIn,Seoul,No,6000000,7000000,v2,Yes,No,0,Resume Screening,Strong culture fit
+APP0399,Naver,Backend Engineering Intern,Internship,2024-02-17,Applied,2024-03-01,,Company Website,Seoul,Yes,3000000,3500000,v3,No,No,0,Pending,Cold application via LinkedIn
+APP0400,Kakao,Android Developer,Full-time,2024-03-28,Applied,2024-04-08,,LinkedIn,Daejeon,No,4500000,5500000,v1,No,No,0,Pending,Strong culture fit
