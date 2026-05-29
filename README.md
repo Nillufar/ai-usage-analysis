@@ -9,7 +9,7 @@
 | **1** | Student AI usage patterns, cleaning, visualizations, and alert automation |
 | **2** | Smart Student Deadline & Workload Automation System | 
 | **3** | Student performance prediction & dropout-risk ML pipeline with intervention recommender | 
-| **4** | *To be defined by the team* | 
+| **4** | Career Path Recommendation & Skill Gap Analysis System | 
 | **5** | *To be defined by the team* |
 
 ## Setup
