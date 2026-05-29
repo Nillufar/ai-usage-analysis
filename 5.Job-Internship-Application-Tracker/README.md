@@ -811,5 +811,3 @@ The dataset is entirely simulated and does not represent real individuals or act
 All code is original and may be reused freely for educational purposes with attribution.
 
 ---
-
-*Last updated: April 2024 — Ubuntu Automation for Data Science, Group Project*
