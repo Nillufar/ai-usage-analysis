@@ -123,3 +123,50 @@ Derived fields used in analysis:
 3. **Dropout Risk Engine** — Gradient Boosting (~79% accuracy)
 4. **Intervention Recommender** — rule-based matching + historical effectiveness
 5. **Interactive Dashboard** — live predictions with `ipywidgets` sliders
+
+
+
+### Scenario 5 — Local run commands
+Requires the VS Code / Cursor setup above.
+
+```bash
+jupyter notebook 5.Job-Internship-Application-Tracker/job_tracker_automation.ipynb
+```
+
+Outputs saved to the notebook's working directory:
+- `status_dashboard.png` — donut chart + grouped bar by job type
+- `followup_alerts.png` — alert level bar + company age horizontal bar
+- `funnel_comparison.png` — 3-panel funnel comparison across 7 segments
+- `rejection_referral.png` — rejection stage bar + referral outcome grouped bar
+- `platform_salary.png` — 2×2 platform intelligence and salary figure
+- `weekly_timeline.png` — weekly trend line chart with fill_between shading
+- `response_histogram.png` — days-to-response distribution with mean line
+- `month_heatmap.png` — month × status seaborn heatmap
+- `weekly_report.md` — auto-generated markdown report (also printed to output)
+
+---
+
+### Scenario 5 — dataset notes
+`5.Job-Internship-Application-Tracker/job_applications.csv` — 400 simulated application records spanning January–April 2024.
+
+Derived fields computed in-notebook during Part 1:
+
+| Field | Formula | Purpose |
+|---|---|---|
+| `days_to_response` | `response_date − date_applied` | Company response time in days |
+| `salary_mid` | `(salary_min + salary_max) / 2` | Midpoint for fair salary comparison |
+| `month_applied` | `.dt.month_name()` | Calendar month grouping |
+| `week_applied` | `.dt.isocalendar().week` | ISO week number for timeline charts |
+| `days_since_applied` | `TODAY − date_applied` | Application age relative to reference date |
+| `got_response` | `response_date.notna()` | Boolean flag for response rate calculations |
+| `reached_interview` | `status ∈ {Interview, Offer}` | Boolean flag for interview conversion rate |
+
+---
+
+### Scenario 5 — systems overview
+- **Status Dashboard** — donut chart and grouped bar showing offer/interview/rejected/ghosted breakdown across Internship and Full-time applications
+- **Follow-up Alert System** — filters active applications, computes days until follow-up, categorises into 🔴 OVERDUE / 🟡 DUE TODAY / 🟢 UPCOMING / ⚪ LATER, prints a formatted digest
+- **Recruitment Funnel Analyser** — computes Response %, Interview %, and Offer % across 7 segments (Overall, Internship, Full-time, With/Without Referral, With/Without Cover Letter)
+- **Platform & Salary Intelligence** — aggregates response rate, offer rate, and average salary by job platform; benchmarks resume version performance
+- **Timeline Analysis** — weekly application volume line chart, days-to-response histogram, month × status heatmap
+- **Automated Weekly Report Generator** — assembles a full markdown report from live data and saves it to `weekly_report.md`, ready for cron scheduling
