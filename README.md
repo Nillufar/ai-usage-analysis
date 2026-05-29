@@ -10,7 +10,7 @@ Five automation and analysis scenarios on student AI usage, study behavior, and 
 | *Add name* | *Add ID* | 2 — Deadline & Workload Automation | *Lead / developer* |
 | *Add name* | *Add ID* | 3 — Performance Prediction System | *Lead / developer* |
 | *Add name* | *Add ID* | 4 — Grade Processor | *Lead / developer* |
-| *Add name* | *Add ID* | 5 — TBD | *Lead / developer* |
+| *Add name* | *Add ID* | 5 — Job/Internship Application Tracker | *Lead / developer* |
 
 > Replace the placeholder rows with your team details before submission.
 
