@@ -1,0 +1,8 @@
+==================================================
+STUDENT GRADE REPORT — 2026-05-29
+==================================================
+Total students  : 2000
+Overall average : 80.98%
+Pass rate       : 99.9%
+
+[FAILING] 2 students → saved to failing_students.csv
