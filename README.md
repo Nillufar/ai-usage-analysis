@@ -11,7 +11,7 @@ Five automation and analysis scenarios on student AI usage, study behavior, and 
 | Bahodir Nematjonov | 12225254 | Student Performance Prediction System | Developer |
 | Shakhzod Jabbarov | 12214744 | Ubuntu System Health Automation | Developer |
 | Siddikov Mirzaakbar | 12214738 | Student Grade Processor | Developer |
-| Abdurasulov Mirsaid | - | Job Internship Application Tracker | Developer |
+| Abdurasulov Mirsaid | 12225253 | Job Internship Application Tracker | Developer |
 
 
 ## Scenarios
