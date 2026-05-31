@@ -2,17 +2,17 @@
 
 Five automation and analysis scenarios on student AI usage, study behavior, and academic performance. Each scenario is a Google Colab notebook with explanations, code, visual outputs, and a short reflection.
 
-## Team members
+## Team Members
 
 | Name | Student ID | Scenario | Role |
 |------|------------|----------|------|
-| *Add name* | *Add ID* | 1 — Student AI Usage Analysis | *Lead / developer* |
-| *Add name* | *Add ID* | 2 — Deadline & Workload Automation | *Lead / developer* |
-| *Add name* | *Add ID* | 3 — Performance Prediction System | *Lead / developer* |
-| *Add name* | *Add ID* | 4 — Grade Processor | *Lead / developer* |
-| *Add name* | *Add ID* | 5 — Job/Internship Application Tracker | *Lead / developer* |
+| Nilufar Kurbonova | 12225241 | Student AI Usage Analysis | Developer |
+| Pak Nikita | 12250247 | Smart Student Deadline & Workload Automation System | Developer |
+| Bahodir Nematjonov | 12225254 | Student Performance Prediction System | Developer |
+| Shakhzod Jabbarov | 12214744 | Ubuntu System Health Automation | Developer |
+| Siddikov Mirzaakbar | 12214738 | Student Grade Processor | Developer |
+| Abdurasulov Mirsaid | - | Job Internship Application Tracker | Developer |
 
-> Replace the placeholder rows with your team details before submission.
 
 ## Scenarios
 
@@ -36,29 +36,26 @@ Open any scenario directly in Google Colab (requires the repo on GitHub):
 | **4** — Automated Grade Processor | [Open notebook](https://colab.research.google.com/github/Nillufar/ai-usage-analysis/blob/main/3-Automated-Student-Grade-Processor/main.ipynb) |
 | **5** — Job/Internship Application Tracking| [Open notebook](https://colab.research.google.com/github/Nillufar/ai-usage-analysis/blob/main/5.Job-Internship-Application-Tracker/job_tracker_automation.ipynb) |
 
-
-**Shared team Colab link (submission):** *Paste your shared Drive / Colab link here after publishing.*
-
-> If the links above do not load, upload the `.ipynb` file manually at [colab.research.google.com](https://colab.research.google.com/) → *Upload notebook*.
-
 ## How to run the project
 
-### On Google Colab (recommended)
+### On Google Colab 
 
 1. **Pick a scenario** from the [Colab links](#colab-links) table and open its notebook.
 2. **Run setup** — execute the first cells (`pip install` and any dataset upload prompts).
-3. **Upload data** when prompted:
+
+3. 3. **Upload data** when prompted:
    - Scenario **1** → `ai_impact_student_performance_dataset.csv`
+   - Scenario **2** → no external file (data is created in the notebook)
    - Scenario **3** → `student_performance_data.csv` and `intervention_log.csv`
    - Scenario **4** → `student-scores.csv`
-   - Scenario **2** → no external file (data is created in the notebook)
+   - Scenario **5** → `job_applications.csv`
+   
 4. **Run all** — *Runtime → Run all* and wait for every cell to finish.
 5. **Check outputs** — charts appear inline; files are in the Colab file browser.
-6. **Submit** — save a copy to Drive and share the link with your instructor.
 
-### On VS Code / Cursor (local Studio)
+### On VS Code
 
-1. Clone the repo and open the project folder in VS Code or Cursor.
+1. Clone the repo and open the project folder.
 2. Create a virtual environment and install dependencies:
    ```bash
    python3 -m venv .venv
@@ -66,107 +63,5 @@ Open any scenario directly in Google Colab (requires the repo on GitHub):
    pip install -r requirements.txt
    ```
 3. Open any `.ipynb` notebook and select the `.venv` Python kernel.
-4. Run cells top to bottom, or use *Run All*. For Scenario 1, keep datasets in the paths listed in the [Scenarios](#scenarios) table.
-5. Optional — run Scenario 1 from the terminal: `python 1-student-ai-usage-analysis/ai_usage_analysis.py`
-
----
-
-## Submission requirements
-
-Each Colab notebook should include:
-
-| Requirement | What to include |
-|-------------|-----------------|
-| **Explanations** | Markdown for each step |
-| **Code** | Runnable Python cells |
-| **Visual outputs** | Inline charts and dashboards |
-| **Reflection** | Max 200 words |
-
-## Local run commands
-
-Requires the [VS Code / Cursor setup](#on-vs-code--cursor-local-studio) above.
-
-### Scenario 1 — notebook or script
-
-```bash
-jupyter notebook student-ai-usage-analysis.ipynb
-# or
-python 1-student-ai-usage-analysis/ai_usage_analysis.py
-```
-
-Outputs: `1-student-ai-usage-analysis/output/` (`analysis_report.html`, PNG charts 01–09, `processed_students_with_alerts.csv`).
-
-### Scenario 3 — notebook
-
-```bash
-jupyter notebook Student_Performance_Prediction_System.ipynb
-```
-
-Generates `dataset/intervention_plan.csv` for high-risk students.
-
----
-
-## Scenario 1 — dataset notes
-
-`1-student-ai-usage-analysis/ai_impact_student_performance_dataset.csv` — 8,000 student records.
-
-Derived fields used in analysis:
-
-- **subscription_type** — Free / Basic / Premium from `ai_dependency_score`
-- **session_duration_minutes** — `ai_usage_time_minutes` / `ai_prompts_per_week`
-- **missed_deadlines** — proxy from consistency and attendance
-
-## Scenario 3 — systems overview
-
-1. **Exploratory Data Analysis** — distributions, correlations, visual profiling
-2. **Performance Tier Predictor** — Random Forest (~77% accuracy)
-3. **Dropout Risk Engine** — Gradient Boosting (~79% accuracy)
-4. **Intervention Recommender** — rule-based matching + historical effectiveness
-5. **Interactive Dashboard** — live predictions with `ipywidgets` sliders
-
-
-
-### Scenario 5 — Local run commands
-Requires the VS Code / Cursor setup above.
-
-```bash
-jupyter notebook 5.Job-Internship-Application-Tracker/job_tracker_automation.ipynb
-```
-
-Outputs saved to the notebook's working directory:
-- `status_dashboard.png` — donut chart + grouped bar by job type
-- `followup_alerts.png` — alert level bar + company age horizontal bar
-- `funnel_comparison.png` — 3-panel funnel comparison across 7 segments
-- `rejection_referral.png` — rejection stage bar + referral outcome grouped bar
-- `platform_salary.png` — 2×2 platform intelligence and salary figure
-- `weekly_timeline.png` — weekly trend line chart with fill_between shading
-- `response_histogram.png` — days-to-response distribution with mean line
-- `month_heatmap.png` — month × status seaborn heatmap
-- `weekly_report.md` — auto-generated markdown report (also printed to output)
-
----
-
-### Scenario 5 — dataset notes
-`5.Job-Internship-Application-Tracker/job_applications.csv` — 400 simulated application records spanning January–April 2024.
-
-Derived fields computed in-notebook during Part 1:
-
-| Field | Formula | Purpose |
-|---|---|---|
-| `days_to_response` | `response_date − date_applied` | Company response time in days |
-| `salary_mid` | `(salary_min + salary_max) / 2` | Midpoint for fair salary comparison |
-| `month_applied` | `.dt.month_name()` | Calendar month grouping |
-| `week_applied` | `.dt.isocalendar().week` | ISO week number for timeline charts |
-| `days_since_applied` | `TODAY − date_applied` | Application age relative to reference date |
-| `got_response` | `response_date.notna()` | Boolean flag for response rate calculations |
-| `reached_interview` | `status ∈ {Interview, Offer}` | Boolean flag for interview conversion rate |
-
----
-
-### Scenario 5 — systems overview
-- **Status Dashboard** — donut chart and grouped bar showing offer/interview/rejected/ghosted breakdown across Internship and Full-time applications
-- **Follow-up Alert System** — filters active applications, computes days until follow-up, categorises into 🔴 OVERDUE / 🟡 DUE TODAY / 🟢 UPCOMING / ⚪ LATER, prints a formatted digest
-- **Recruitment Funnel Analyser** — computes Response %, Interview %, and Offer % across 7 segments (Overall, Internship, Full-time, With/Without Referral, With/Without Cover Letter)
-- **Platform & Salary Intelligence** — aggregates response rate, offer rate, and average salary by job platform; benchmarks resume version performance
-- **Timeline Analysis** — weekly application volume line chart, days-to-response histogram, month × status heatmap
-- **Automated Weekly Report Generator** — assembles a full markdown report from live data and saves it to `weekly_report.md`, ready for cron scheduling
+4. Run cells top to bottom, or use *Run All*.
+5. Optional — run each Scenarios from the terminal as: `python 1-student-ai-usage-analysis/ai_usage_analysis.py`
